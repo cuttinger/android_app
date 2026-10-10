@@ -1,0 +1,9 @@
+<resources>
+    <color name="primary">#2F5D8A</color>
+    <color name="text">#2B2B2B</color>
+    <color name="current_text">#1A3D63</color>
+    <color name="current_bg">#DCE9F7</color>
+    <color name="ic_launcher_background">#2F5D8A</color>
+    <color name="known_bg">#2E7D32</color>
+    <color name="unknown_bg">#C62828</color>
+</resources>

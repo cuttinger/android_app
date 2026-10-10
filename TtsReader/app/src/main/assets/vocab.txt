@@ -1,0 +1,771 @@
+# 生词本（来自 Downloads/cd146b0a6b3f29f8f6ffd7b3ceb8c092.pdf，769 词）
+# word | example sentence | 中文释义
+disgrace | He brought disgrace on his family by cheating in the final exam. | n. 耻辱；v. 使丢脸
+pricking | She felt a sharp pricking in her thumb after touching the cactus. | n. 刺痛
+grain | The farmer stored the grain in a tall metal silo. | n. 谷物；颗粒；纹理
+hut | We spent the night in a wooden hut halfway up the mountain. | n. 简陋小屋，棚屋
+abacus | My grandfather could add faster on an abacus than I could on a calculator. | n. 算盘
+hooligan | A few hooligans smashed the shop windows after the match. | n. 流氓，歹徒
+scarf | She wrapped a wool scarf around her neck before going out. | n. 围巾
+splendor | The splendor of the palace left the visitors speechless. | n. 壮丽，辉煌
+prosperity | Decades of trade brought prosperity to the coastal city. | n. 繁荣，兴旺
+spiny | The spiny leaves of the plant kept the deer away. | adj. 多刺的
+dandelion | A single dandelion pushed up through a crack in the sidewalk. | n. 蒲公英
+scavenger | The crow is a scavenger that feeds on whatever it finds. | n. 食腐动物；拾荒者
+disagreeable | A disagreeable smell drifted out of the old refrigerator. | adj. 令人不快的；难相处的
+subdue | It took four officers to subdue the struggling man. | v. 制服，压制
+tsunami | The earthquake triggered a tsunami that reached the harbor in minutes. | n. 海啸
+sweat | Sweat ran down his face as he carried the boxes upstairs. | n. 汗水；v. 出汗
+conventional | She rejected a conventional career and opened a bakery instead. | adj. 传统的，常规的
+predator | The wolf is the main predator of deer in this forest. | n. 捕食者，掠食动物
+stews | He makes hearty stews with beef and root vegetables in winter. | n. 炖菜（复数）
+comma | You need a comma between the city and the state. | n. 逗号
+semicolon | Use a semicolon to join two closely related sentences. | n. 分号
+colon | Put a colon before the list of ingredients. | n. 冒号；结肠
+scarecrow | A ragged scarecrow stood in the middle of the cornfield. | n. 稻草人
+rooster | The rooster wakes the whole farm at sunrise. | n. 公鸡
+mole | A mole dug a tunnel right across the lawn. | n. 鼹鼠；黑痣；内奸
+lotion | She rubbed lotion on her hands after washing the dishes. | n. 护肤液，洗剂
+artifacts | The museum displayed artifacts recovered from a sunken ship. | n. 手工制品（复数）
+advocates | The group advocates cleaner air in the city center. | v. 提倡；n. 提倡者（复数）
+contender | The young boxer is a serious contender for the title. | n. 竞争者，有力争夺者
+excavator | An excavator cleared the rubble in a single afternoon. | n. 挖掘机
+prism | The prism split the sunlight into a band of colors. | n. 棱镜；棱柱
+porcelain | She served tea in thin white porcelain cups. | n. 瓷，瓷器
+despite | Despite the rain, the concert went ahead as planned. | prep. 尽管
+barren | Nothing grows on the barren slopes above the tree line. | adj. 贫瘠的；不育的
+corrugated | The shed had a roof of corrugated iron. | adj. 褶皱的，波纹的
+Celsius | Water boils at one hundred degrees Celsius at sea level. | n. 摄氏度
+tumor | The scan showed a small tumor that turned out to be harmless. | n. 肿瘤
+stewardess | The stewardess offered us coffee before landing. | n. 女乘务员
+barbie | They threw some shrimp on the barbie for lunch. | n. 烧烤（澳洲俚语）
+camouflage | The soldiers wore camouflage that matched the desert sand. | n. 伪装；v. 伪装
+dormant | The volcano has been dormant for two hundred years. | adj. 休眠的，潜伏的
+ambivalent | She felt ambivalent about moving to another country. | adj. 矛盾的，好恶交织的
+eviscerate | The new budget would eviscerate the research program. | v. 取出内脏；使无力
+flagella | Bacteria swim by whipping their flagella back and forth. | n. 鞭毛（复数）
+gallantry | He was awarded a medal for gallantry under fire. | n. 英勇；殷勤
+larvae | The larvae hatch from the eggs within three days. | n. 幼虫（复数）
+chronology | The book sets out a clear chronology of the war. | n. 年表，事件顺序
+chubby | The chubby baby grabbed my finger and laughed. | adj. 圆胖的
+milieu | She never felt at home in the academic milieu. | n. 环境，圈子
+protagonist | The protagonist of the novel is a retired detective. | n. 主人公
+husk | He stripped the husk from the ear of corn. | n. 外壳，谷壳
+archaeological | The archaeological dig uncovered a Roman road. | adj. 考古学的
+sarcastic | His sarcastic reply made everyone uncomfortable. | adj. 讽刺的，挖苦的
+yelp | The dog gave a sharp yelp when I stepped on its tail. | n./v. 短促尖叫
+impending | Dark clouds warned of an impending storm. | adj. 即将发生的
+tapestry | A faded tapestry covered the entire wall of the hall. | n. 挂毯
+curator | The curator arranged the paintings by period. | n. 馆长，策展人
+retrospective | The gallery is holding a retrospective of her early work. | n. 回顾展；adj. 回顾的
+concerto | She played a violin concerto from memory. | n. 协奏曲
+flair | He has a real flair for languages. | n. 天赋；才华
+incessant | The incessant noise from the street kept me awake. | adj. 不停的
+juxtaposition | The juxtaposition of old and new buildings defines this district. | n. 并置，对照
+speck | A speck of dust landed on the camera lens. | n. 小斑点，微粒
+sumptuous | They served a sumptuous meal in the banquet hall. | adj. 奢华的，丰盛的
+jumble | His desk was a jumble of papers and cables. | n. 杂乱的一堆；v. 混杂
+libel | The newspaper was sued for libel over the article. | n. 诽谤（文字）
+acclaimed | Her acclaimed first novel sold out in a week. | adj. 受到赞誉的
+luster | The old silver regained its luster after polishing. | n. 光泽，光彩
+irradiate | They irradiate the fruit to kill insects before shipping. | v. 照射，辐照
+meteorology | He studied meteorology and now forecasts weather for an airline. | n. 气象学
+overcast | The sky stayed overcast all weekend. | adj. 阴天的，多云的
+deferential | The young clerk was deferential toward every customer. | adj. 恭敬的
+vigilance | Constant vigilance is required at a nuclear plant. | n. 警惕，警戒
+turquoise | She wore a turquoise ring on her left hand. | n./adj. 绿松石（色）
+eccentricity | His eccentricity amused his neighbors more than it bothered them. | n. 古怪，怪癖
+frisky | The frisky puppy knocked over the water bowl. | adj. 活泼好动的
+plumber | The plumber fixed the leaking pipe in ten minutes. | n. 水管工
+proprietor | The proprietor of the cafe greets every regular by name. | n. 业主，老板
+seduce | Cheap prices seduce shoppers into buying more than they need. | v. 引诱，诱惑
+exalted | He now holds an exalted position in the ministry. | adj. 高尚的，显赫的
+replenish | We stopped at a village to replenish our water supply. | v. 补充，补足
+revere | Students in this country revere their teachers. | v. 尊敬，崇敬
+choreographic | Her choreographic style blends ballet with street dance. | adj. 编舞的
+rumble | Thunder began to rumble behind the hills. | v./n. 隆隆作响
+defecate | The vet asked how often the dog defecates each day. | v. 排便
+pathogen | Boiling the water kills most pathogens. | n. 病原体
+rayon | The blouse is made of rayon and feels like silk. | n. 人造丝
+veining | The marble countertop has delicate gray veining. | n. 纹理，脉络
+galvanization | Galvanization protects the steel from rust. | n. 镀锌
+gilding | The gilding on the frame had worn away at the corners. | n. 镀金，贴金
+hazel | She has bright hazel eyes. | n. 榛树；adj. 淡褐色的
+pique | His indifference piqued her curiosity. | v. 激起；n. 愠怒
+succinct | Her report was succinct and easy to act on. | adj. 简洁的
+salient | Let me summarize the salient points of the proposal. | adj. 显著的，最重要的
+crumple | He crumpled the letter and threw it away. | v. 弄皱，压皱
+inundate | Requests inundated the office after the announcement. | v. 淹没；使应接不暇
+rejuvenate | A week by the sea rejuvenated him completely. | v. 使恢复活力
+repulse | The defenders repulsed three attacks before dawn. | v. 击退；使厌恶
+postulate | Scientists postulate that the planet once had liquid water. | v. 假定；n. 假设
+torrential | Torrential rain closed the highway for six hours. | adj. 倾盆的，汹涌的
+condiment | Soy sauce is the most common condiment on the table. | n. 调味品
+contiguous | The two farms are contiguous along the river. | adj. 毗邻的，接壤的
+herculean | Rebuilding the bridge in a month was a herculean task. | adj. 力大无比的，艰巨的
+bleak | The bleak weather matched his mood. | adj. 阴冷的；暗淡的
+desolate | The mine closed and left a desolate town behind. | adj. 荒凉的；凄凉的
+picturesque | We stopped in a picturesque village by the lake. | adj. 风景如画的
+delirium | The fever brought on a night of delirium. | n. 谵妄，神志昏迷
+plank | A loose plank creaked under his boot. | n. 厚木板
+intrigue | The plot of the film intrigued me from the first scene. | v. 激起兴趣；n. 密谋
+ardent | She is an ardent supporter of the local team. | adj. 热情的，热烈的
+seclude | He secluded himself in a cabin to finish the book. | v. 使隔离，使隐居
+chronological | Arrange the photographs in chronological order. | adj. 按时间顺序的
+traction | The tires lost traction on the icy road. | n. 牵引力，抓地力
+chaste | The poem uses plain, chaste language. | adj. 纯洁的；朴素的
+conspiracy | Investigators uncovered a conspiracy to fix prices. | n. 阴谋，共谋
+mercantile | The city grew rich on mercantile trade. | adj. 商业的，贸易的
+crumble | The old wall began to crumble after the storm. | v. 破碎，崩塌
+drudgery | She hired help to escape the drudgery of housework. | n. 苦差事，单调乏味的工作
+exhilarate | The mountain air exhilarated us. | v. 使振奋，使高兴
+keen | He has a keen interest in ancient coins. | adj. 强烈的；敏锐的
+cumbersome | The approval process is slow and cumbersome. | adj. 笨重的；繁琐的
+meticulous | She keeps meticulous records of every expense. | adj. 一丝不苟的
+crater | The meteor left a crater half a mile wide. | n. 陨石坑；火山口
+perception | Public perception of the brand changed overnight. | n. 看法，认知
+prose | His prose is clear and free of jargon. | n. 散文，散体文
+orchard | We picked apples in the orchard behind the house. | n. 果园
+stamina | Running a marathon takes real stamina. | n. 耐力，体力
+burgeon | Demand for electric cars began to burgeon last year. | v. 迅速增长
+annihilate | A single storm can annihilate an entire crop. | v. 消灭，歼灭
+preponderance | The preponderance of evidence favored the defendant. | n. 多数，优势
+conglomerate | The family firm grew into a global conglomerate. | n. 联合大企业
+aloof | He stayed aloof from office gossip. | adj. 冷淡的，疏远的
+balmy | We ate outside on a balmy summer evening. | adj. 温和宜人的
+ductile | Copper is ductile enough to be drawn into thin wire. | adj. 有延展性的
+barge | A barge carried gravel slowly down the canal. | n. 驳船；v. 猛撞
+citadel | The old citadel still overlooks the harbor. | n. 城堡，堡垒
+concave | The concave mirror focuses the light to a point. | adj. 凹的
+edifice | A stone edifice dominates the town square. | n. 大厦，宏伟建筑
+incredulity | He stared at the bill in complete incredulity. | n. 怀疑，不相信
+lumbering | A lumbering truck blocked the narrow lane. | adj. 笨重缓慢的
+nuclei | The nuclei of these cells are unusually large. | n. 原子核；细胞核（复数）
+sour | The milk had turned sour overnight. | adj. 酸的；变质的
+gyration | The gyration of the skater drew applause. | n. 旋转，回旋
+deity | The temple was built to honor a local deity. | n. 神，神明
+propensity | He has a propensity to interrupt. | n. 倾向，习性
+lustrous | Her hair was thick and lustrous. | adj. 有光泽的
+endotherm | A bird is an endotherm and keeps a steady body temperature. | n. 恒温动物
+horticulture | She teaches horticulture at the community college. | n. 园艺学
+incise | The surgeon incised the skin with a fine blade. | v. 切开，雕刻
+optometrist | The optometrist said I need reading glasses. | n. 验光师
+torpor | Winter torpor lets the animal survive on little food. | n. 麻木，迟钝；蛰伏
+paucity | A paucity of data made the conclusion shaky. | n. 缺乏，少量
+pauper | He died a pauper despite his early fortune. | n. 穷人，贫民
+reverently | She placed the old book reverently on the shelf. | adv. 虔敬地
+dorsal | The shark's dorsal fin cut through the water. | adj. 背部的
+reclamation | Land reclamation added ten square miles to the city. | n. 开垦，填海；回收
+fray | His nerves began to fray after the third delay. | v. 磨损；n. 争斗
+sect | The sect keeps to itself in a village upriver. | n. 教派，派别
+pyramid | The pyramid took twenty years to build. | n. 金字塔；棱锥
+buttock | He landed hard on one buttock and limped away. | n. 臀部（一侧）
+symptom | A cough is the most common symptom of the illness. | n. 症状
+clover | The field was thick with clover. | n. 三叶草
+pepperoni | He ordered a large pizza with extra pepperoni. | n. 意大利辣香肠
+peperoni | The recipe calls for peperoni and mozzarella. | n. 辣香肠（pepperoni 的变体拼法）
+manicotti | She stuffed the manicotti with ricotta and spinach. | n. 大管通心粉
+farfalle | We tossed the farfalle with olive oil and basil. | n. 蝴蝶形意面
+chloride | Table salt is sodium chloride. | n. 氯化物
+calf | The calf stayed close to its mother all morning. | n. 小牛；小腿
+asparagus | Grilled asparagus came with the fish. | n. 芦笋
+zinc | The roof is coated with zinc to resist rust. | n. 锌
+brass | The band's brass section carried the whole song. | n. 黄铜；铜管乐器
+copper | Copper pipes run behind the kitchen wall. | n. 铜
+yoga | She does yoga every morning before work. | n. 瑜伽
+hypnotist | The hypnotist asked him to focus on the swinging watch. | n. 催眠师
+trivialize | Don't trivialize the amount of work this took. | v. 使显得微不足道
+hemlock | A row of hemlock trees shades the north side of the yard. | n. 铁杉；毒芹
+flax | Flax is grown here for both fiber and seed. | n. 亚麻
+millennia | The stone circle has stood for millennia. | n. 千年（复数）
+morphine | The nurse gave him morphine for the pain. | n. 吗啡
+espouse | The party espouses lower taxes and smaller government. | v. 支持，拥护
+impede | Heavy snow impeded the rescue effort. | v. 阻碍
+resonate | Her speech resonated with younger voters. | v. 引起共鸣；共振
+name-calling | The debate degenerated into name-calling. | n. 辱骂，人身攻击
+kimono | She wore a silk kimono to the festival. | n. 和服
+yeast | The dough will not rise without yeast. | n. 酵母
+igloo | They built an igloo out of packed snow blocks. | n. 冰屋
+gazelle | A gazelle bounded across the dry grassland. | n. 瞪羚
+heron | A grey heron stood motionless at the edge of the pond. | n. 苍鹭
+marlin | The fisherman fought the marlin for two hours. | n. 马林鱼，旗鱼
+giraffe | The giraffe reached the leaves at the top of the tree. | n. 长颈鹿
+capacitance | The capacitance of this component is measured in farads. | n. 电容
+darn | She sat by the lamp to darn a hole in the sock. | v. 织补
+manor | The old manor is now a country hotel. | n. 庄园，领地
+canopy | A canopy of leaves shaded the whole path. | n. 树冠；顶篷
+lager | He ordered a cold lager after the hike. | n. 淡啤酒
+tout | Scalpers tout tickets outside the stadium. | v. 兜售，吹捧
+restive | The horses grew restive before the storm. | adj. 躁动不安的
+espionage | Two employees were arrested for industrial espionage. | n. 间谍活动
+demise | The demise of the company surprised no one. | n. 消亡，终止；去世
+cockpit | The pilot ran through the checklist in the cockpit. | n. 驾驶舱
+dismantle | Engineers had to dismantle the engine to reach the fault. | v. 拆除，拆卸
+gymnast | The gymnast landed the routine without a wobble. | n. 体操运动员
+stoicism | She bore the long illness with quiet stoicism. | n. 坚忍，淡泊
+velociraptor | The velociraptor was smaller than the movies suggest. | n. 迅猛龙
+bellhop | The bellhop carried our bags to the room. | n. 旅馆行李员
+toad | A toad hopped out from under the damp log. | n. 蟾蜍
+saber | The officer's saber hung by the door. | n. 军刀，马刀
+carpentry | He learned carpentry from his father. | n. 木工活
+pavilion | The concert took place in an open pavilion in the park. | n. 亭子，展馆
+tot | A tot in rain boots splashed through the puddle. | n. 幼儿
+nook | She reads in a quiet nook by the window. | n. 角落，僻静处
+sneeze | The dust made him sneeze three times. | v./n. 打喷嚏
+chipmunk | A chipmunk stuffed its cheeks with sunflower seeds. | n. 花栗鼠
+celery | She chopped celery for the soup. | n. 芹菜
+stingray | A stingray glided over the sandy bottom. | n. 黄貂鱼，魔鬼鱼
+orca | An orca surfaced beside the boat. | n. 虎鲸
+bib | The baby wore a bib covered in mashed carrot. | n. 围嘴
+chrysalis | The caterpillar formed a chrysalis under the leaf. | n. 蛹
+periodontal | Regular cleaning prevents periodontal disease. | adj. 牙周的
+cetacean | The whale is the largest cetacean alive today. | n. 鲸类动物
+rid | I finally got rid of the old sofa. | v. 摆脱，除去
+bionic | He runs on a bionic leg made of carbon fiber. | adj. 仿生的
+savvy | She is savvy about online scams. | adj. 精明的；n. 悟性
+repertoire | The quartet added two new pieces to its repertoire. | n. 全部曲目；技能范围
+nouveau | The restaurant serves nouveau versions of old dishes. | adj. 新式的
+peregrine | A peregrine falcon nests on the office tower. | n. 游隼；adj. 漂泊的
+notch | Cut a notch in the stick to mark the depth. | n. 刻痕，凹口
+homicide | Detectives from homicide arrived within the hour. | n. 杀人，凶杀
+egalitarianism | The party was founded on egalitarianism. | n. 平等主义
+orgiastic | The festival had an orgiastic energy by midnight. | adj. 狂欢的，纵情的
+slingshot | The boy knocked a can off the fence with a slingshot. | n. 弹弓
+sneaky | That was a sneaky way to win the argument. | adj. 鬼鬼祟祟的，狡猾的
+cashew | He snacked on roasted cashews during the drive. | n. 腰果
+chickpea | The stew is made with chickpeas and tomatoes. | n. 鹰嘴豆
+lunge | The goalkeeper made a desperate lunge for the ball. | n./v. 猛扑，突进
+hamster | The hamster ran on its wheel all night. | n. 仓鼠
+grove | A grove of olive trees covers the hillside. | n. 小树林
+raccoon | A raccoon tipped over the garbage can again. | n. 浣熊
+graffiti | Bright graffiti covered the tunnel wall. | n. 涂鸦
+nozzle | Adjust the nozzle to get a finer spray. | n. 喷嘴
+afield | The search took us far afield. | adv. 在远处，在远方
+archrival | The team lost to its archrival in the final minute. | n. 主要对手，死敌
+clearinghouse | The agency acts as a clearinghouse for medical research. | n. 信息交换中心；清算所
+alpaca | The farm keeps alpacas for their soft wool. | n. 羊驼
+freelancer | She works as a freelancer for three magazines. | n. 自由职业者
+hare | A hare darted across the field. | n. 野兔
+strut | He strutted across the stage as if he owned it. | v. 昂首阔步；n. 支柱
+beat-up | He drives a beat-up truck from the eighties. | adj. 破旧的
+rave | Critics raved about her performance. | v. 极力赞扬；n. 狂欢派对
+eulogy | His daughter delivered the eulogy at the funeral. | n. 悼词，颂词
+seizure | The patient had a seizure and was taken to the hospital. | n. 癫痫发作；查封
+mercury | Mercury is the only metal that is liquid at room temperature. | n. 水银，汞；水星
+Venus | Venus is the brightest planet in the evening sky. | n. 金星
+Mars | A rover has been exploring Mars for years. | n. 火星
+Jupiter | Jupiter has dozens of known moons. | n. 木星
+Saturn | Saturn is famous for its rings. | n. 土星
+mere | The mere sound of his name made her angry. | adj. 仅仅的，纯粹的
+infer | From his silence I inferred that he disagreed. | v. 推断，推论
+anguish | She waited in anguish for news of the crash. | n. 极度痛苦
+prologue | The prologue explains how the family lost its fortune. | n. 序言，序幕
+felony | Armed robbery is a felony in every state. | n. 重罪
+misdemeanor | Littering here is only a misdemeanor. | n. 轻罪
+blazer | He wore a navy blazer to the interview. | n. 西装外套
+orphan | The war left thousands of children orphans. | n. 孤儿
+forefinger | She pointed at the map with her forefinger. | n. 食指
+smug | His smug expression annoyed the whole room. | adj. 自鸣得意的
+recess | The court took a short recess after lunch. | n. 休息，休会；凹处
+frisbee | They threw a frisbee back and forth on the beach. | n. 飞盘
+Tibetan | She is learning Tibetan for her fieldwork. | adj./n. 西藏的；藏语
+widow | The widow sold the farm and moved to town. | n. 寡妇
+ace | She is an ace at solving these puzzles. | n. 高手；A 牌；v. 得高分
+rink | The kids skated at the rink all afternoon. | n. 溜冰场
+holistically | The doctor prefers to treat patients holistically. | adv. 整体地，全面地
+twitter | Birds twitter in the hedge at dawn. | v. 鸟鸣，啁啾
+electrify | The line was electrified in the nineteen sixties. | v. 使电气化；使震惊
+corona | During the eclipse the sun's corona became visible. | n. 日冕；光环
+quarantine | The animals spent a month in quarantine. | n./v. 隔离检疫
+plagiarism | The essay was rejected for plagiarism. | n. 剽窃，抄袭
+cheddar | He grated sharp cheddar over the pasta. | n. 切达奶酪
+hoax | The bomb threat turned out to be a hoax. | n. 骗局，恶作剧
+octahedron | A regular octahedron has eight triangular faces. | n. 八面体
+fillet | The chef cut a clean fillet from the salmon. | n. 鱼片，肉片
+fragrant | The kitchen was fragrant with baking bread. | adj. 芳香的
+riddle | He answered the riddle before anyone else. | n. 谜语
+tranquility | The lake at dawn is a picture of tranquility. | n. 宁静，平静
+alienate | His tone alienated the people he needed most. | v. 使疏远
+paternity | A test confirmed paternity beyond doubt. | n. 父亲身份
+sovereign | The island became a sovereign state in nineteen sixty. | adj. 主权的；n. 君主
+injurious | Long hours in that posture are injurious to your back. | adj. 有害的
+sanctimonious | His sanctimonious lecture convinced nobody. | adj. 假装虔诚的，道貌岸然的
+coroner | The coroner ruled the death accidental. | n. 验尸官
+borderline | Her test result was borderline, so they repeated it. | adj. 临界的；n. 边界
+badass | She rode in on a motorcycle looking like a total badass. | n./adj. 狠角色，厉害的（俚语）
+spite | He said it out of pure spite. | n. 恶意；v. 刁难
+bailout | The bank survived only because of a government bailout. | n. 紧急财政援助
+monger | The local fishmonger sells whatever came in that morning. | n. 贩子，商人（常作后缀）
+sanction | The council imposed sanctions on the company. | n. 制裁；v. 批准
+pneumonia | He was hospitalized with pneumonia in both lungs. | n. 肺炎
+genome | Researchers sequenced the entire genome of the virus. | n. 基因组
+retard | Cold weather can retard the growth of the seedlings. | v. 延缓，阻碍
+makeshift | They slept in a makeshift shelter of tarps and rope. | adj. 临时凑合的
+contract | We signed a two-year contract this morning. | n. 合同；v. 签约；收缩
+walrus | A walrus hauled itself onto the ice. | n. 海象
+vulture | A vulture circled above the dry riverbed. | n. 秃鹫
+narwhal | The narwhal's long tusk is actually a tooth. | n. 独角鲸
+morgue | The body was taken to the morgue for examination. | n. 停尸房
+loophole | Their lawyers found a loophole in the tax code. | n. 漏洞
+carnage | The storm left carnage along the coast. | n. 大屠杀；惨状
+curfew | The city imposed a curfew after the riots. | n. 宵禁
+netizen | Netizens flooded the forum with complaints. | n. 网民
+soberize | The accident soberized him about speeding. | v. 使清醒，使严肃起来
+sober | He stayed sober at the party and drove everyone home. | adj. 清醒的；冷静的
+shenanigan | The teacher put a stop to their shenanigans. | n. 恶作剧，胡闹
+caveat | One caveat: the offer expires at midnight. | n. 警告，附加说明
+municipal | The municipal government runs the water system. | adj. 市政的
+tinder | The dry grass was tinder waiting for a spark. | n. 引火物
+fandom | The show has a fandom that spans three generations. | n. 粉丝群体
+deadpan | He told the joke in a perfect deadpan. | adj./n. 面无表情的（表演）
+outlier | That data point is an outlier and should be checked. | n. 异常值，局外者
+albeit | He agreed, albeit reluctantly. | conj. 虽然，尽管
+saliva | Saliva begins breaking down food in the mouth. | n. 唾液
+troll | A troll posted the same insult a hundred times. | n. 网络喷子；巨魔
+sputum | The lab tested a sputum sample for bacteria. | n. 痰
+mucus | Mucus protects the lining of the stomach. | n. 黏液
+culpable | The report found the manager culpable for the delay. | adj. 有罪的，该受责备的
+mane | The lion shook its heavy mane. | n. 鬃毛
+spike | Sales spiked after the advertisement aired. | v. 激增；n. 尖状物
+shill | The glowing review was written by a shill. | n. 托儿；v. 当托儿
+mutiny | The crew staged a mutiny two weeks out of port. | n. 兵变，哗变
+morbidity | The study tracked morbidity among older patients. | n. 发病率；病态
+cheapskate | Don't be a cheapskate. Leave a proper tip. | n. 小气鬼
+snort | He gave a snort of disbelief. | n./v. 哼鼻子，喷鼻息
+snigger | The students sniggered at the typo on the slide. | v. 窃笑
+pouty | She gave me a pouty look and turned away. | adj. 撅嘴的，不高兴的
+rack | He put the wet dishes on the rack to dry. | n. 架子；v. 折磨
+flurry | A flurry of orders came in after the review. | n. 一阵忙乱；小阵雪
+equalizer | His goal in the last minute was the equalizer. | n. 扳平比分者；均衡器
+pangolin | The pangolin curls into a ball when threatened. | n. 穿山甲
+consensus | The board reached a consensus after two hours. | n. 共识
+clumsy | A clumsy apology can do more harm than none. | adj. 笨拙的
+ram | The goat lowered its head to ram the gate. | v. 猛撞；n. 公羊
+airlift | Supplies were airlifted to the flooded village. | v./n. 空运
+churn | The market churns whenever rates change. | v. 剧烈波动；搅拌
+prank | Their prank left paint all over the hallway. | n. 恶作剧
+dusk | Bats appear at dusk over the field. | n. 黄昏
+xenophobia | The campaign stirred up xenophobia against newcomers. | n. 仇外心理
+blush | She blushed when he read her note aloud. | v./n. 脸红
+scupper | Bad weather scuppered our weekend plans. | v. 使泡汤，破坏
+stranded | Hundreds of travelers were stranded at the airport. | adj. 滞留的，束手无策的
+boogeyman | Inflation became the boogeyman of the campaign. | n. 妖怪；令人恐惧的事物
+bungle | The contractor bungled the wiring and had to redo it. | v. 搞砸
+forensic | Forensic tests identified the paint on the car. | adj. 法医的，鉴证的
+mull | Let me mull it over and answer tomorrow. | v. 仔细考虑
+panacea | More funding is helpful but not a panacea. | n. 万能药
+earshot | Say nothing while they are within earshot. | n. 听力所及范围
+yank | He yanked the cord out of the wall. | v. 猛拉
+psycho | The film's villain is a convincing psycho. | n. 精神变态者（口语）
+paranoid | He became paranoid about being followed. | adj. 多疑的，偏执的
+huff | She left the meeting in a huff. | n. 怒气；v. 气喘
+ideation | The workshop is for ideation, not for decisions. | n. 构思，意念形成
+stutter | He stutters when he has to speak in public. | v./n. 口吃
+elusive | The answer proved elusive despite months of work. | adj. 难以捉摸的
+decry | Economists decried the new tariffs. | v. 谴责，公开反对
+placebo | Half the group received a placebo. | n. 安慰剂
+entail | The job entails a lot of travel. | v. 需要，牵涉
+titty | The slang word titty is considered vulgar in most settings. | n. 乳房（粗俗俚语）
+shirk | He never shirks the difficult calls. | v. 逃避（责任）
+renege | The buyer reneged on the agreement at the last minute. | v. 违背承诺，食言
+reparation | The country paid reparations for the damage. | n. 赔偿
+debunk | The article debunks several myths about dieting. | v. 揭穿，驳斥
+swoop | An owl swooped down on the mouse. | v. 俯冲，猛扑
+vet | We vet every applicant before an interview. | v. 审查；n. 兽医；老兵
+villain | The villain of the story is the banker. | n. 反派，恶棍
+crafty | A crafty lawyer found a way around the clause. | adj. 狡猾的
+pictorial | The book is a pictorial history of the railway. | adj. 图片的，绘画的
+abstention | The motion passed with two abstentions. | n. 弃权
+pail | She filled a pail with water from the well. | n. 桶
+absolve | The inquiry absolved the crew of any blame. | v. 免除，赦免
+turnip | He added a turnip to the winter stew. | n. 芜菁，萝卜
+servile | His servile manner embarrassed everyone. | adj. 卑躬屈膝的
+disparity | There is a wide disparity in pay between the two offices. | n. 差距，不平等
+holdup | What is the holdup with the permit? | n. 延误；抢劫
+tragic | The accident had a tragic outcome. | adj. 悲剧的，悲惨的
+tremor | A slight tremor shook the windows. | n. 震动；颤抖
+exhume | The court ordered the body exhumed for testing. | v. 掘出（尸体）
+jolly | He gave a jolly laugh and refilled our cups. | adj. 愉快的，欢乐的
+matron | The matron kept the whole ward in order. | n. 护士长；主妇
+habitual | Late arrival had become habitual for him. | adj. 习惯性的
+interim | An interim manager will run the store until spring. | adj. 临时的；n. 过渡期
+simile | "As quiet as snow" is a simile. | n. 明喻
+bosom | She held the child to her bosom. | n. 胸部，怀抱
+incredulous | He gave me an incredulous stare. | adj. 不相信的，怀疑的
+intermediary | A bank acted as intermediary in the deal. | n. 中间人
+apprehend | Police apprehended the suspect at the border. | v. 逮捕；理解
+formulae | The chapter lists the formulae you need for the exam. | n. 公式（复数）
+plough | The farmer ploughed the field before the rain. | n. 犁；v. 耕地
+managerial | She was promoted to a managerial role. | adj. 管理的
+franchise | He bought a coffee franchise downtown. | n. 特许经营权；选举权
+emphatically | She emphatically denied the accusation. | adv. 强调地，断然地
+jigsaw | They spent the evening on a thousand-piece jigsaw. | n. 拼图；线锯
+acrobat | The acrobat balanced on one hand at the top of the pole. | n. 杂技演员
+paternal | He felt a paternal pride watching her graduate. | adj. 父亲的，父系的
+flop | The film was a flop despite the huge budget. | n. 失败；v. 扑通倒下
+peephole | She looked through the peephole before opening the door. | n. 窥视孔，猫眼
+rotund | A rotund little man greeted us at the desk. | adj. 圆胖的
+jargon | Please explain it without the technical jargon. | n. 行话，术语
+chariot | Two horses pulled the chariot around the arena. | n. 战车，马车
+ebb | Support for the plan began to ebb. | v. 衰退；n. 退潮
+calligraphy | He practices calligraphy with a brush every evening. | n. 书法
+lunatic | Driving in that fog would be a lunatic idea. | n. 疯子；adj. 疯狂的
+bait | He put fresh bait on the hook. | n. 诱饵；v. 引诱
+annoyance | The constant beeping was a minor annoyance. | n. 烦恼，恼人的事
+chronicle | The diary chronicles three years at sea. | v. 记录；n. 编年史
+sonorous | The bell had a deep, sonorous tone. | adj. 洪亮的，响亮的
+compartment | She stored the maps in the glove compartment. | n. 隔间，车厢
+inertia | Bureaucratic inertia delayed the reform for years. | n. 惰性；惯性
+mirage | The pool of water ahead turned out to be a mirage. | n. 海市蜃楼，幻象
+chary | Investors are chary of promises like that. | adj. 谨慎的，小心的
+doze | He dozed in the chair after dinner. | v. 打瞌睡
+vengeance | She spent years plotting her vengeance. | n. 复仇
+wreath | A wreath of pine hung on the front door. | n. 花环，花圈
+aeronautics | He studied aeronautics before joining the airline. | n. 航空学
+reflexion | The reflexion of the tower shimmered on the lake. | n. 反射，倒影（reflection 的变体）
+shriek | She let out a shriek when the lights went out. | n./v. 尖叫
+lingo | Every trade has its own lingo. | n. 行话，术语
+sonata | He played a piano sonata for the guests. | n. 奏鸣曲
+bleat | The lamb began to bleat for its mother. | v./n. 羊叫
+passage | A narrow passage led to the courtyard. | n. 通道；段落
+tram | We took the tram to the old town. | n. 有轨电车
+mast | The flag snapped at the top of the mast. | n. 桅杆
+rugby | He broke his nose playing rugby. | n. 橄榄球
+freckle | A single freckle sat on the bridge of her nose. | n. 雀斑
+cholesterol | His doctor told him to lower his cholesterol. | n. 胆固醇
+miser | The old miser never spent a penny on himself. | n. 吝啬鬼
+burglar | A burglar got in through the kitchen window. | n. 窃贼
+gruel | The prisoners were fed thin gruel twice a day. | n. 稀粥
+bean curd | The soup contains mushrooms and soft bean curd. | n. 豆腐
+or else | Leave now, or else you will miss the train. | 否则，要不然
+now that | Now that the rain has stopped, we can go. | 既然，由于
+temperament | Her calm temperament suits emergency work. | n. 性情，气质
+rapture | He listened to the music in rapture. | n. 狂喜，入迷
+squat | He squatted down to tie his shoelace. | v. 蹲下；adj. 矮胖的
+snore | He snores so loudly that the dog leaves the room. | v./n. 打鼾
+depute | The manager deputed the task to her assistant. | v. 委派，授权
+squad | A squad of workers cleared the road by noon. | n. 小队，班
+woe | She told me her tale of woe over coffee. | n. 悲哀，苦难
+strife | Years of strife left the region impoverished. | n. 冲突，争斗
+haughty | Her haughty manner put off the whole committee. | adj. 傲慢的
+prune | He pruned the roses back before winter. | v. 修剪；n. 梅干
+thermos | She filled a thermos with hot tea for the hike. | n. 保温瓶
+alley | A cat slipped into the dark alley. | n. 小巷
+squid | Fried squid was the best dish on the menu. | n. 鱿鱼
+knockoff | That watch is an obvious knockoff. | n. 仿冒品
+outlandish | He turned up in an outlandish purple suit. | adj. 古怪的，离奇的
+blast | The blast shattered windows two streets away. | n. 爆炸；一阵疾风
+backlash | The price increase caused a public backlash. | n. 强烈反对，反弹
+wacko | His plan sounded completely wacko at first. | adj./n. 疯狂的（人）
+deficit | The city ran a deficit for the third year. | n. 赤字，逆差
+crimson | The sky turned crimson just after sunset. | adj./n. 深红色（的）
+culinary | She trained at a culinary school in Lyon. | adj. 烹饪的
+dissertation | He defended his dissertation in the spring. | n. 学位论文
+treacherous | The path is treacherous when wet. | adj. 危险的；背叛的
+troupe | A dance troupe from Kyoto performed on Friday. | n. 剧团，表演团
+erratic | The engine's performance has been erratic all week. | adj. 不稳定的，反复无常的
+oblivion | The singer faded into oblivion after one hit. | n. 遗忘，湮没
+mink | She inherited an old mink coat from her aunt. | n. 水貂；貂皮
+worth | The repair is not worth the cost of the car. | adj. 值得的；n. 价值
+worthy | The charity is worthy of your support. | adj. 值得的，可敬的
+indelible | The trip left an indelible impression on him. | adj. 难以磨灭的
+holly | We cut holly branches to decorate the mantel. | n. 冬青
+tribunal | The tribunal ruled in favor of the workers. | n. 法庭，仲裁庭
+bough | A heavy bough snapped under the snow. | n. 大树枝
+credulous | Credulous buyers fall for these scams every year. | adj. 轻信的
+contemptuous | He shot a contemptuous glance at the paperwork. | adj. 轻蔑的
+clench | She clenched her fists and said nothing. | v. 握紧，咬紧
+provident | A provident household keeps three months of savings. | adj. 未雨绸缪的，节俭的
+liaison | She acts as liaison between the two departments. | n. 联络，联络人
+spout | Water spouted from the broken pipe. | v. 喷出；n. 喷口
+amicable | The two firms reached an amicable settlement. | adj. 友好的，和睦的
+abdomen | The pain is in the lower left abdomen. | n. 腹部
+resurrect | The studio resurrected the series after ten years. | v. 使复活，复兴
+volition | She left of her own volition. | n. 意志，自愿
+reminiscence | His reminiscences of the war filled two notebooks. | n. 回忆，追忆
+composure | She kept her composure throughout the questioning. | n. 镇静，沉着
+insurgent | Insurgent forces held the northern road. | n./adj. 叛乱者（的）
+heterogeneous | The class is heterogeneous in age and background. | adj. 异质的，由不同成分组成的
+gibe | His gibe about my accent was not funny. | n./v. 嘲讽
+kennel | We left the dog at a kennel for the week. | n. 狗舍，宠物寄养处
+tedium | The tedium of the drive was broken by a podcast. | n. 单调乏味
+chateau | They stayed in a chateau in the Loire valley. | n. 城堡，庄园
+convivial | The dinner was loud and convivial. | adj. 欢乐的，友好的
+compensatory | Workers received compensatory time for the weekend shift. | adj. 补偿性的
+pseudo | The article is full of pseudo science. | adj. 假的，伪的
+loot | Thieves carried the loot out through a side door. | n. 赃物；v. 抢劫
+cheetah | The cheetah reached full speed in three seconds. | n. 猎豹
+chameleon | The chameleon shifted color against the bark. | n. 变色龙
+revel | They reveled in the team's unexpected win. | v. 陶醉，狂欢
+cuddle | The child cuddled the stuffed rabbit all night. | v. 拥抱，依偎
+crucify | The press crucified him for one careless remark. | v. 严厉批判；钉十字架
+ale | He ordered a pint of local ale. | n. 麦芽啤酒
+commiserate | We commiserated with her over the lost contract. | v. 同情，慰问
+pacify | It took an hour to pacify the crying toddler. | v. 安抚，平息
+figment | The noise was a figment of his imagination. | n. 虚构之物
+adjourn | The meeting adjourned until Thursday. | v. 休会，延期
+acclamation | The proposal passed by acclamation. | n. 欢呼，鼓掌通过
+aural | The test measures aural comprehension. | adj. 听觉的
+gauge | It is hard to gauge how long the repair will take. | v. 判断，估计；n. 量规
+swat | He swatted the fly with a folded newspaper. | v. 猛击，拍打
+draconian | The new rules struck many as draconian. | adj. 严酷的，严厉的
+tremulous | She answered in a tremulous voice. | adj. 颤抖的
+thug | A thug demanded his wallet in the parking garage. | n. 暴徒
+abet | He was charged with aiding and abetting the theft. | v. 教唆，协助（犯罪）
+vigil | Neighbors held a candlelight vigil outside the school. | n. 守夜，守候
+caterpillar | A green caterpillar ate its way along the leaf. | n. 毛虫
+jaguar | A jaguar was photographed near the river at night. | n. 美洲豹
+mural | A mural of the harbor covers the library wall. | n. 壁画
+multiplicand | In six times four, six is the multiplicand. | n. 被乘数
+stiff | My neck is stiff from sleeping badly. | adj. 僵硬的；生硬的
+polio | A vaccine nearly eliminated polio worldwide. | n. 小儿麻痹症
+epithet | Critics attached the epithet "reckless" to his policy. | n. 称号，绰号
+preemptive | The company made a preemptive bid for the patent. | adj. 先发制人的
+suffrage | Women won suffrage in that country in nineteen twenty. | n. 选举权
+cello | She has played the cello since she was six. | n. 大提琴
+fife | A fife and a drum led the parade. | n. 横笛
+fringe | The festival began as a fringe event. | n. 边缘；刘海
+duke | The duke owned most of the land in the county. | n. 公爵
+earl | The earl rarely visited the estate. | n. 伯爵
+marquis | The marquis funded the new theater. | n. 侯爵
+viscount | The viscount inherited the title at twelve. | n. 子爵
+baron | A steel baron built this whole neighborhood. | n. 男爵；大亨
+brandish | He brandished the receipt as proof. | v. 挥舞，炫耀
+vagrant | A vagrant slept under the bridge each night. | n. 流浪者
+vortex | A vortex formed where the two currents met. | n. 漩涡
+shrivel | The leaves shriveled in the heat. | v. 枯萎，萎缩
+rowing | Rowing is the hardest workout I have tried. | n. 划船（运动）
+crows | Crows gathered on the wire at dusk. | n. 乌鸦（复数）
+aerobics | She teaches aerobics three evenings a week. | n. 有氧操
+mallet | He tapped the tile into place with a rubber mallet. | n. 木槌
+asteroid | An asteroid passed closer than the moon. | n. 小行星
+frescos | The chapel frescos were restored last year. | n. 壁画（复数）
+gavel | The judge banged the gavel for order. | n. 法槌
+detonation | The detonation was heard across the valley. | n. 爆炸，引爆
+exorbitant | They charged an exorbitant fee for parking. | adj. 过高的，离谱的
+voracious | He is a voracious reader of history. | adj. 贪婪的，狼吞虎咽的
+irascible | The irascible old man shouted at the delivery driver. | adj. 易怒的
+execrable | The service was execrable and the food worse. | adj. 极坏的，糟透的
+silhouette | The silhouette of the castle stood against the sunset. | n. 剪影，轮廓
+ecstasy | She was in ecstasy when the letter arrived. | n. 狂喜
+suffocate | The smoke nearly suffocated the trapped workers. | v. 使窒息
+tangerine | He peeled a tangerine and shared the segments. | n. 橘子
+tarmac | The plane sat on the tarmac for an hour. | n. 停机坪；柏油碎石路
+tinkle | The bell gave a faint tinkle as the door opened. | n./v. 叮当声
+spinster | The novel's spinster aunt runs the whole household. | n. 老处女，未婚女子
+wick | Trim the wick before you light the candle. | n. 灯芯
+karate | He earned a black belt in karate at sixteen. | n. 空手道
+sulky | The boy went sulky when the game ended. | adj. 生闷气的
+entrepot | The port grew rich as an entrepot for spices. | n. 转口港，贸易中心
+amiss | Something was amiss with the accounts. | adj./adv. 有问题的，出差错
+pram | She pushed the pram along the seafront. | n. 婴儿车
+grenade | The soldier removed the pin from the grenade. | n. 手榴弹
+crate | We packed the books into a wooden crate. | n. 板条箱
+margarine | He spreads margarine instead of butter. | n. 人造黄油
+crag | Climbers roped up below the crag. | n. 峭壁，悬崖
+satin | The dress was made of ivory satin. | n. 缎子
+staunch | He is a staunch defender of the old rules. | adj. 坚定的；v. 止血
+antic | The clown's antics delighted the children. | n. 滑稽动作
+marmalade | She spread orange marmalade on her toast. | n. 橘子果酱
+glisten | Dew glistened on the grass at sunrise. | v. 闪光，闪亮
+thwart | Bad weather thwarted the rescue attempt. | v. 阻挠，挫败
+hectare | The farm covers about forty hectares. | n. 公顷
+foyer | We waited in the foyer until the doors opened. | n. 门厅，休息厅
+parish | The parish raised money for a new roof. | n. 教区
+chauffeur | A chauffeur drove them to the airport. | n. 司机
+grime | Years of grime covered the windows. | n. 污垢
+emerald | She wore a single emerald on a gold chain. | n. 祖母绿
+admiral | The admiral inspected the fleet at dawn. | n. 海军上将
+plenary | The plenary session begins at nine. | adj. 全体出席的
+conceivable | It is conceivable that the flight will be canceled. | adj. 可以想象的
+buffalo | A herd of buffalo crossed the shallow river. | n. 水牛，野牛
+beet | She roasted a beet for the salad. | n. 甜菜
+aperture | A wider aperture lets in more light. | n. 光圈，孔径
+attic | Old photographs were stored in the attic. | n. 阁楼
+bristle | The brush bristles are stiff and short. | n. 刚毛；v. 竖起
+axle | The rear axle cracked on the rough road. | n. 车轴
+axiom | It is an axiom of design that simpler is safer. | n. 公理，格言
+syringe | The nurse filled the syringe and checked the dose. | n. 注射器
+swindle | He swindled elderly clients out of their savings. | v./n. 诈骗
+cornea | A scratch on the cornea can be very painful. | n. 角膜
+commandment | The first commandment of this kitchen is cleanliness. | n. 戒律，命令
+fortitude | She endured the treatment with quiet fortitude. | n. 坚韧，刚毅
+ghetto | The family grew up in a crowded ghetto. | n. 贫民区，隔离区
+sleet | Sleet made the sidewalks treacherous. | n. 雨夹雪
+beacon | A beacon on the cliff guided ships past the rocks. | n. 灯塔，信标
+derelict | A derelict warehouse stands at the end of the pier. | adj. 废弃的；n. 流浪者
+misapprehension | He was under the misapprehension that the fee was waived. | n. 误解
+chrysanthemum | A white chrysanthemum sat in a vase by the window. | n. 菊花
+prostitution | The law treats prostitution as a public health issue here. | n. 卖淫
+glint | A glint of metal showed between the rocks. | n. 闪光；v. 闪烁
+bondage | The workers were kept in effective bondage by debt. | n. 束缚，奴役
+satirical | The magazine runs satirical cartoons every week. | adj. 讽刺的
+inviolable | The contract treats the deadline as inviolable. | adj. 不可侵犯的
+alumnus | As an alumnus he donates to the library every year. | n. 校友（男，单数）
+thaw | The pond began to thaw in late March. | v. 解冻，融化
+forgery | The signature turned out to be a forgery. | n. 伪造，赝品
+fussy | He is fussy about how the coffee is made. | adj. 挑剔的
+indulgent | Her grandparents are far too indulgent with her. | adj. 纵容的，溺爱的
+mow | He mows the lawn every other Saturday. | v. 割（草）
+smear | Someone smeared paint across the sign. | v. 涂抹；诽谤
+spruce | A young spruce grows beside the gate. | n. 云杉；v. 打扮整齐
+apostrophe | The apostrophe in "don't" replaces a missing letter. | n. 撇号
+stink | Something in the fridge began to stink. | v./n. 发臭
+downcast | He looked downcast after reading the email. | adj. 沮丧的；向下看的
+enamel | Acidic drinks wear away tooth enamel. | n. 珐琅；牙釉质
+vacate | Guests must vacate the room by eleven. | v. 腾出，搬出
+dissect | Students dissect a frog in this course. | v. 解剖；剖析
+tart | The apples are too tart to eat raw. | adj. 酸的；n. 果馅饼
+bale | A bale of hay fell off the back of the truck. | n. 大捆
+sprain | She sprained her ankle on the last step. | v./n. 扭伤
+suckle | The piglets suckle for several weeks. | v. 哺乳，吃奶
+reconnaissance | A drone flew reconnaissance over the ridge. | n. 侦察
+annals | His name appears in the annals of the club. | n. 编年史，史册
+persimmon | The persimmon is sweet only when fully ripe. | n. 柿子
+almanac | The farmer checks the almanac before planting. | n. 年鉴，历书
+grimace | He made a grimace at the bitter medicine. | n./v. 做鬼脸，扭曲面容
+constable | A constable took the statement at the scene. | n. 警员
+monastery | Monks have lived in this monastery for centuries. | n. 修道院
+plume | A plume of smoke rose above the trees. | n. 羽毛；一缕（烟）
+muffle | Thick curtains muffle the street noise. | v. 使消音，裹住
+lass | The lass from the next farm sold us eggs. | n. 少女，姑娘
+eyebrow | He raised one eyebrow at my excuse. | n. 眉毛
+sever | The storm severed power to the whole island. | v. 切断
+tread | Do not tread on the wet paint. | v. 踩，行走；n. 胎面
+malaria | Mosquito nets cut malaria cases in half. | n. 疟疾
+truant | Three students were marked truant that morning. | n./adj. 逃学者（的）
+filament | The filament in the old bulb finally broke. | n. 灯丝，细丝
+soot | Soot coated the inside of the chimney. | n. 煤烟，烟灰
+canary | A canary sang in a cage by the window. | n. 金丝雀
+saunter | He sauntered in twenty minutes late. | v. 闲逛，漫步
+aborigine | The museum documents how the aborigines lived here. | n. 原住民
+syllabus | The syllabus lists all the required readings. | n. 教学大纲
+sickle | She cut the grass with a short sickle. | n. 镰刀
+dominion | The company holds dominion over the entire valley. | n. 统治权，领地
+dung | The field smelled of cattle dung. | n. 粪便
+hexagon | A honeycomb cell is a perfect hexagon. | n. 六边形
+guillotine | The guillotine cut a hundred sheets at once. | n. 断头台；切纸机
+macho | His macho act fooled nobody. | adj. 大男子气的
+drizzle | A light drizzle started as we left. | n. 毛毛雨
+abbey | The abbey dates from the twelfth century. | n. 修道院，大教堂
+dwindle | Their savings dwindled over the winter. | v. 逐渐减少
+despot | The country was ruled by a despot for thirty years. | n. 暴君，专制者
+sonnet | He wrote a sonnet for their anniversary. | n. 十四行诗
+limousine | A black limousine waited outside the hotel. | n. 豪华轿车
+peddle | Vendors peddle souvenirs along the pier. | v. 叫卖，兜售
+squadron | A squadron of jets flew over the stadium. | n. 中队
+sling | His arm was in a sling for six weeks. | n. 吊带；v. 投掷
+stench | The stench from the drain filled the kitchen. | n. 恶臭
+topple | High winds toppled the old oak. | v. 推倒，倒塌
+sumo | Sumo wrestlers train from a very young age. | n. 相扑
+kaleidoscope | The market was a kaleidoscope of colors and sounds. | n. 万花筒
+pornography | The platform bans pornography of any kind. | n. 色情作品
+envoy | An envoy was sent to open talks. | n. 使节，特使
+stricken | The stricken ship sent out a distress call. | adj. 受灾的，患病的
+stigma | There is still a stigma attached to asking for help. | n. 污名，耻辱
+herring | Smoked herring is a local specialty. | n. 鲱鱼
+bellow | The foreman bellowed across the yard. | v./n. 吼叫
+caliber | We need an engineer of her caliber. | n. 才干，水准；口径
+crumb | He brushed a crumb off his sleeve. | n. 碎屑，面包屑
+banister | He slid his hand along the banister as he climbed. | n. 楼梯扶手
+Esperanto | Esperanto was invented as a neutral second language. | n. 世界语
+disembark | Passengers disembark from the front door only. | v. 下船，下飞机
+precis | Write a precis of the report in one page. | n. 摘要，概要
+splinter | A splinter of wood lodged in his palm. | n. 碎片，刺
+annex | The country annexed the territory in nineteen forty. | v. 吞并；n. 附属建筑
+inimitable | She told the story in her own inimitable style. | adj. 独特的，无法模仿的
+birch | A row of white birch lines the driveway. | n. 桦树
+demagogue | A demagogue thrives on fear and simple answers. | n. 煽动者
+scribble | He scribbled a number on the back of the receipt. | v. 潦草书写
+indecent | The remark was indecent and out of place. | adj. 下流的，不得体的
+trombone | He plays trombone in the school band. | n. 长号
+veterinary | She runs a veterinary clinic on Main Street. | adj. 兽医的
+khaki | He wore khaki trousers and a white shirt. | n./adj. 卡其色（的）
+quay | The boats were tied up along the quay. | n. 码头
+canine | The dog's canine teeth are unusually long. | adj. 犬的；n. 犬齿
+dynamite | Crews used dynamite to clear the rock face. | n. 炸药
+gullible | Gullible investors lost everything in the scheme. | adj. 易受骗的
+apricot | She dried apricots on the roof every summer. | n. 杏
+parenthesis | Put the year in a parenthesis after the name. | n. 圆括号；插入语
+ammeter | The ammeter showed almost no current. | n. 电流表
+dockyard | Ships are repaired at the dockyard across the river. | n. 船坞，造船厂
+flautist | The flautist played the opening solo. | n. 长笛演奏者
+decibel | The machine runs at about seventy decibels. | n. 分贝
+dispel | Her explanation dispelled my doubts. | v. 驱散，消除
+cadet | The cadet saluted and stepped back. | n. 学员，军校生
+creed | Honesty is the core of his creed. | n. 信条，教义
+cobbler | The cobbler resoled my boots for ten dollars. | n. 修鞋匠
+pagoda | A five-story pagoda stands behind the temple. | n. 宝塔
+cataract | Surgery removed the cataract from his left eye. | n. 白内障；大瀑布
+gash | A gash in the tire ended the trip. | n. 深长的切口
+baptism | The baptism took place in the village church. | n. 洗礼
+swathe | Fire cut a swathe through the dry forest. | n. 一长条；v. 包裹
+cask | The wine ages in an oak cask for two years. | n. 桶，木桶
+corduroy | He wore corduroy trousers and heavy boots. | n. 灯芯绒
+crusade | She led a crusade against food waste. | n. 运动，改革运动
+intercept | Radar intercepted the signal near the coast. | v. 拦截
+delinquent | The account is ninety days delinquent. | adj. 拖欠的；n. 少年犯
+sinister | There was something sinister about the empty house. | adj. 阴险的，不祥的
+countess | The countess opened the gardens to the public. | n. 伯爵夫人
+stammer | He stammered an apology and left. | v. 结巴地说
+brigade | A fire brigade arrived within four minutes. | n. 旅，队
+buoy | A red buoy marks the edge of the channel. | n. 浮标；v. 支撑
+garrison | A small garrison guarded the mountain pass. | n. 驻军，卫戍部队
+sedate | The vet will sedate the dog before the X-ray. | v. 给…服镇静剂；adj. 沉静的
+gouge | The chair leg gouged a line in the floor. | v. 凿，挖；敲竹杠
+celibacy | The order requires celibacy of its members. | n. 独身，禁欲
+brothel | The building once housed a brothel. | n. 妓院
+fermented | Fermented cabbage keeps for months. | adj. 发酵的
+ague | The traveler returned with a fever and ague. | n. 疟疾，寒热病
+bunker | They sheltered in a concrete bunker. | n. 掩体，地堡
+deterministic | The model is deterministic and gives the same answer every run. | adj. 确定性的
+dementia | Her mother was diagnosed with early dementia. | n. 痴呆症
+telltale | There were telltale scratches around the lock. | adj. 暴露真相的；n. 迹象
+brainchild | The festival is the brainchild of two local teachers. | n. 创意产物，点子
+whine | The engine began to whine on the climb. | v./n. 发呜呜声；抱怨
+hubris | His hubris cost the company the contract. | n. 傲慢，狂妄
+glitch | A software glitch delayed the launch. | n. 小故障
+rectum | The exam checks the colon and rectum. | n. 直肠
+desecrate | Vandals desecrated several gravestones. | v. 亵渎，玷污
+indoctrinate | The camp was designed to indoctrinate recruits. | v. 灌输，教化
+dupe | Fraudsters duped him out of his pension. | v. 欺骗；n. 受骗者
+mayhem | The power cut caused mayhem downtown. | n. 混乱，大破坏
+abate | The storm abated after midnight. | v. 减弱，缓和
+giddy | She felt giddy at the top of the ladder. | adj. 头晕的；轻浮的
+brazen | It was a brazen attempt to change the record. | adj. 厚颜无耻的
+upheaval | The merger caused months of upheaval. | n. 剧变，动荡
+blatant | That is a blatant violation of the rules. | adj. 明目张胆的
+advert | Do not click on that advert. | n. 广告；v. 提及
+charlatan | The clinic was run by a charlatan with no license. | n. 骗子，江湖医生
+pendulum | The pendulum of public opinion swung back. | n. 钟摆
+avian | Avian flu closed several poultry farms. | adj. 鸟类的
+collusive | Regulators found collusive bidding among the suppliers. | adj. 共谋的，串通的
+abduct | Police believe the child was abducted at the mall. | v. 绑架
+gale | A gale tore the tarp off the roof. | n. 大风，强风
+antagonize | Do not antagonize the one person who can help you. | v. 招惹，使对抗
+fugitive | The fugitive was caught two states away. | n. 逃犯；adj. 逃亡的
+hyperbolic | His hyperbolic claims made investors nervous. | adj. 夸张的；双曲线的
+ingrate | He called his former partner an ingrate. | n. 忘恩负义的人
+tycoon | A shipping tycoon funded the museum. | n. 大亨，巨头
+deplorable | The building was in a deplorable state. | adj. 糟糕的，可悲的
+rout | The home team turned the match into a rout. | n. 溃败；v. 击溃
+goon | A pair of goons waited outside the office. | n. 打手，笨蛋
+autism | Early support makes a real difference for children with autism. | n. 自闭症
+imminent | A decision is imminent. | adj. 即将发生的
+pipette | She measured the sample with a pipette. | n. 移液管
+constitution | The constitution limits the president to two terms. | n. 宪法；体质
+diligence | His diligence earned him the promotion. | n. 勤奋
+zealous | She is a zealous advocate for the program. | adj. 热心的，狂热的
+unlike | Unlike his brother, he hates crowds. | prep. 不像；adj. 不同的
+palindrome | The word "level" is a palindrome. | n. 回文
+rip off | That shop will rip off anyone who looks like a tourist. | v. 敲竹杠，欺诈
+piss | He was pissed off about the schedule change. | v. 小便；（俚语）使恼火
+handkerchief | He offered her a clean handkerchief. | n. 手帕
+wig | The actor wore a grey wig for the role. | n. 假发
+tailcoat | The conductor appeared in a black tailcoat. | n. 燕尾服
+knobbly | The old tree had knobbly roots above the soil. | adj. 多疙瘩的，凹凸不平的
+shaft | The elevator shaft runs the full height of the building. | n. 竖井；轴
+covert | The agency ran a covert operation for two years. | adj. 隐蔽的，秘密的
+lateral | The plant sends out lateral roots near the surface. | adj. 侧面的，横向的
+coalesce | The small groups coalesced into a single movement. | v. 合并，联合
+cardinality | The cardinality of that set is five. | n. 基数，集合元素个数

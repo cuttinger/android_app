@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">最近使用</string>
+    <string name="subtitle_count">共 %1$d 个应用，%2$d 个有使用记录</string>
+    <string name="subtitle_no_permission">需要「使用情况访问权限」</string>
+    <string name="never_used">无记录</string>
+    <string name="cannot_launch">无法打开该应用</string>
+    <string name="permission_title">需要使用情况访问权限</string>
+    <string name="permission_body">要按最近打开顺序排列应用，需要读取系统的应用使用记录。请在设置中找到「最近使用」并开启访问权限，然后返回本应用。</string>
+    <string name="grant">前往设置</string>
+    <string name="search_hint">搜索应用（支持拼音 / 首字母）</string>
+    <string name="clear_search">清除搜索</string>
+    <string name="no_match">没有匹配的应用</string>
+    <string name="subtitle_filtered">匹配 %1$d 个，共 %2$d 个应用</string>
+
+    <!-- Settings -->
+    <string name="settings">设置</string>
+    <string name="back">返回</string>
+    <string name="process_limit_title">后台进程限制</string>
+    <string name="process_limit_desc">该选项由系统接口 setProcessLimit 控制，需要系统签名权限，普通应用无法直接修改（本机 ColorOS 15 也不采纳 activity_manager_constants / device_config 中的 max_cached_processes）。点击下方按钮跳转到开发者选项，在「后台进程限制」中手动设置。</string>
+    <string name="open_dev_options">打开系统开发者选项</string>
+</resources>

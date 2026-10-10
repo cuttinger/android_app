@@ -1,0 +1,23 @@
+# Gradle / Android build output
+.gradle/
+build/
+*/build/
+*/*/build/
+captures/
+.cxx/
+
+# 本机 SDK 路径，每台机器不同
+local.properties
+
+# IDE
+.idea/
+*.iml
+.DS_Store
+
+# 签名与密钥，永远不要提交
+*.jks
+*.keystore
+keystore.properties
+
+# MCP 浏览器工具留下的调试输出
+.playwright-mcp/

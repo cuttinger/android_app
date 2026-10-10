@@ -1,0 +1,936 @@
+# 每日地道英语短语（来自 ~/.qclaw/workspace/outputs/daily_english_phrases_history.md）
+# 记录范围 2026-04-16 至 2026-09-29，去重后 932 条（已去除来源文件带入的 emoji 与字段标签）
+# 其中 7 条因原始 cron 输出被截断，例句与释义为手工补写
+# phrase | example sentence | 中文解释
+Gung ho | She's really gung ho about the new project. | 非常有热情、干劲十足的，一心想做成某事
+Gut feeling | I have a gut feeling that this deal will work out. | 直觉、第六感，凭感觉而非逻辑做出的判断
+Pipe down | Hey, pipe down back there! I'm trying to focus. | 安静下来、闭嘴（略带不客气）
+Dead to me | After what he did, he's dead to me. | 对我来说已经不存在了，彻底断交、不再搭理
+Third wheel | I felt like a third wheel tagging along with the couple. | 电灯泡，情侣中多余的第三人
+Reality check | The bad review was a much-needed reality check for me. | 认清现实、让人清醒的事实或提醒
+Heads up | Just a heads up—meeting got moved to 3 PM. | 提前打个招呼、提醒一下，小心（突发情况）
+Own it | You messed up—just own it and move on. | 承担责任、承认错误，不找借口
+Brush off | He brushed off my suggestion without even listening. | 敷衍打发、对某人或某事不屑一顾
+Blow someone off | We had plans, but she blew me off last minute. | 爽约、放鸽子，刻意不理某人
+get a kick out of something | I get a kick out of watching my dog chase his own tail. | 从某事中获得乐趣；觉得某事很有意思
+on the house | Don't worry about the dessert — it's on the house. | 免费的；店家请客
+rain on someone's parade | I don't want to rain on your parade, but that project deadline got moved up. | 扫兴；给别人的好事泼冷水
+a penny for your thoughts | You've been quiet all evening — a penny for your thoughts? | 你在想什么呢？跟我说说吧
+go cold turkey | He went cold turkey on social media and hasn't posted in six months. | 突然彻底戒掉（坏习惯）；一刀切断
+have a cow | Don't have a cow! It's just a small scratch on the car. | 大发雷霆；急得跳脚
+not my circus, not my monkeys | The team is arguing about the new policy? Not my circus, not my monkeys. | 这不是我的烂摊子；与我无关
+bite someone's head off | I just asked what time the meeting starts and she bit my head off. | 劈头盖脸地凶人；没来由地冲某人发火
+throw a wrench into something | The sudden budget cut really threw a wrench into our launch plan. | 给某事搅局；破坏计划
+get a word in edgewise | She talks so fast, I couldn't get a word in edgewise. | 插不上嘴；找不到机会说话
+wing it | I didn't prepare for the presentation, so I just had to wing it. | 临场发挥、即兴来（不准备直接上）
+spill the tea | Come on, spill the tea! What happened at the party last night? | 的"吃瓜"。名词形式是 the tea
+ghost someone | We went on three dates and then he completely ghosted me. | 无故消失、故意不回消息（现代社交常见词）
+no-brainer | Taking the job with better pay and fewer hours? That's a no-brainer. | 显而易见的选择、不需要动脑筋的决定
+bite the bullet | I don't want to go to the dentist, but I just need to bite the bullet. | 硬着头皮上、咬紧牙关做一件不愉快但必须做的事
+keep someone in the loop | Make sure to keep me in the loop on the project status. | 让某人知情、随时同步最新进展
+play devil's advocate | I know we all agree, but let me play devil's advocate for a moment. | 故意唱反调（为了促进讨论而提出对立观点）
+cut corners | They cut corners on the building materials, and now the roof is leaking. | 偷工减料、走捷径（通常含贬义，暗示牺牲质量）
+give someone the benefit of the doubt | I'm not sure if he lied, so I'll give him the benefit of the doubt. | 暂且相信某人、在证据不足时倾向于往好的方面想
+shoot the breeze | We sat on the porch for hours just shooting the breeze. | 闲聊、侃大山（轻松随意的聊天）
+get the ball rolling | Let's get the ball rolling on this project before the deadline. | 开始行动；启动某事
+on the fence | I'm still on the fence about whether to accept the job offer. | 犹豫不决；拿不定主意
+throw someone under the bus | He threw his teammate under the bus to save his own job. | 出卖某人；把某人当替罪羊
+hit the ground running | The new manager hit the ground running and made changes on day one. | 立即投入工作；一开始就全力以赴
+circle back | Let's circle back to this topic after the lunch break. | 回头再谈；稍后跟进
+low-hanging fruit | We should tackle the low-hanging fruit first before moving to complex tasks. | 容易实现的目标；唾手可得的成果
+take it with a grain of salt | You should take his stories with a grain of salt — he tends to exaggerate. | 半信半疑；别太当真
+touch base | I'll touch base with you next week to discuss the details. | 简短联系；碰个头
+rain check | I can't make it tonight — can I take a rain check? | 改天再约；延期邀请
+the elephant in the room | Nobody wanted to mention the layoffs — it was the elephant in the room. | 显而易见却被回避的问题；房间里的大象
+crunch time | It's crunch time—we have to finish this report by Friday. | 关键时刻、冲刺阶段（项目截止前的紧张时期）
+jump the gun | Don't jump the gun; wait for the official announcement before you tell anyone. | 操之过急、过早行动（源自赛跑中抢跑）
+get a second wind | I was exhausted after lunch, but I got a second wind around 3 PM and finished the presentation. | 恢复精力、重新振作（原指长跑中第二次呼吸顺畅）
+in the weeds | Sorry I missed your email—I've been in the weeds with this bug all morning. | 陷入细节、忙得不可开交（像在高草丛中难以脱身）
+read the room | You need to read the room—no one laughed at your joke because it's a serious meeting. | 察言观色、读懂气氛（根据在场人的反应调整言行）
+dog and pony show | The sales team put on a real dog and pony show for the investors, but the product isn't ready yet. | 花哨的演示、表面文章（为 impress 别人而做的表演）
+boil the ocean | Let's focus on the core features first—don't try to boil the ocean in version 1.0. | 好高骛远、试图做不可能完成的事
+move the needle | This small optimization won't move the needle—we need a bigger strategy shift. | 产生实质影响、带来明显改变
+put lipstick on a pig | Redesigning the website won't help if the product is bad—you're just putting lipstick on a pig. | 金玉其外败絮其中、试图美化糟糕的东西
+paralysis by analysis | We have paralysis by analysis on this decision—we've been discussing it for three months with no action. | 分析瘫痪、想太多导致无法行动
+Play it by ear | I don't have a plan for the meeting—I'll just play it by ear. | ：随机
+Make a mountain out of a molehill | She's making a mountain out of a molehill—just a small mistake. | ：小题大做，把小事放大
+Hit the nail on the head | You really hit the nail on the head with that analysis. | ：一针见血，说到点子上
+The best of both worlds | Working from home gives me the best of both worlds—flexibility and productivity. | ：两全其美，兼顾两方面的好处
+Add insult to injury | To add insult to injury, he also blamed me for the mistake. | ：雪上加霜，伤口上撒盐
+Behind someone's back | Don't talk about me behind my back. | ：背着某人，在背后（通常指说坏话）
+Beat a dead horse | We're beating a dead horse—let's just move on. | ：白费力气，做无用功
+Bark up the wrong tree | If you think I took your pen, you're barking up the wrong tree. | ：找错对象，看错人
+Break a leg | Break a leg on your presentation tomorrow! | ：祝你好运！（原为演员用语，认为说"祝你好运"会带来厄运）
+Hold your horses | Hold your horses — I'm not done explaining yet. | 别急，稍等一下
+Cut to the chase | We don't have much time, so let me cut to the chase: we need more funding. | 直说重点，别绕弯子
+Sweep it under the rug | They tried to sweep the scandal under the rug, but the press found out anyway. | 把问题掩盖起来，假装没发生
+Put your foot down | She finally put her foot down and told him to stop interrupting her in meetings. | 态度强硬，坚决表态
+Hit a wall | I've been working on this bug for three hours and I've completely hit a wall. | 遇到瓶颈，卡住了
+Leave someone hanging | He asked her to the party and she just left him hanging for a week. | 让人悬在那儿，不给回应或答复
+Roll with the punches | The project kept changing, but she just rolled with the punches and adapted. | 随机应变，坦然接受挫折
+Keep your chin up | I know the rejection hurts, but keep your chin up — something better is coming. | 振作起来，别灰心
+A stone's throw away | The coffee shop is just a stone's throw away from the office. | 近在咫尺，就在附近
+Go down the rabbit hole | I started reading about the history of fonts and went down a rabbit hole for two hours. | 越陷越深，深入研究某件事停不下来
+bounce ideas off someone | Can I bounce some ideas off you about the new marketing campaign? | 向某人抛想法，征求意见或反馈（就像把球弹给对方再弹回来）
+run it up the flagpole | It's a bold proposal. Let's run it up the flagpole at the next meeting and see what happens. | 试探反应，先提出来看看大家怎么看（完整说法：run it up the flagpole and see who salutes，把旗升上去看谁敬礼）
+nip it in the bud | We noticed the bug early and nipped it in the bud before it affected users. | 防患于未然，把问题掐灭在萌芽状态（nip = 摘除，bud = 花苞）
+on the back burner | The redesign project is on the back burner until we finish the current sprint. | 暂时搁置，先放一放（炉子后面的灶眼火力小，比喻优先级低）
+keep your cards close to your chest | She kept her cards close to her chest about the promotion—nobody knew she was in the running. | 不露底牌，对计划或意图保密（像打牌时把牌贴在胸前不让别人看到）
+give someone lip | Don't give me lip—just do what I asked. | 顶嘴，回嘴，说话不客气（lip 指嘴硬、不尊重的言辞）
+throw a curveball | The client threw us a curveball by changing the requirements at the last minute. | 出其不意，抛出意外难题（curveball 是棒球中的曲线球，打者难以判断）
+get cold feet | He was going to quit and start his own business, but got cold feet at the last second. | 临阵退缩，关键时刻怯场（据说源于站在冰水里脚发冷，比喻临场胆怯）
+by the skin of your teeth | I missed the train by the skin of my teeth—the doors closed right behind me. | 险些不成，勉强做到（源自《圣经》约伯记，形容只差一点点就完蛋）
+steer clear of | I'd steer clear of that topic if I were you—Dave gets really worked up about it. | 避开，远离（steer clear 原指船只绕开障碍物航行）
+Put someone on the spot | The boss put me on the spot by asking about the project budget in front of the whole team. | 让某人当场难堪；使某人下不来台
+Get the hang of it | The software is confusing at first, but you'll get the hang of it after a couple days. | 掌握窍门；摸到门道
+In a nutshell | In a nutshell, we need to cut costs by 20% before the end of Q2. | 简而言之；一句话概括
+Let the cat out of the bag | I was going to surprise her for her birthday, but my sister let the cat out of the bag. | 无意中泄密；走漏风声
+Under the radar | The startup has been growing under the radar for two years and just closed a $50M round. | 低调地；不引人注目地
+Bring to the table | We need someone who brings leadership experience to the table. | 能贡献什么；能带来什么价值
+On thin ice | You're on thin ice with the manager — one more mistake and you're out. | 如履薄冰；处境危险
+Give it a whirl | I've never tried sushi making, but I'll give it a whirl this weekend. | 试一试；碰碰运气
+Rub someone the wrong way | His sarcastic tone really rubs me the wrong way. | 惹某人不快；让某人反感
+The whole nine yards | They went the whole nine yards — catered food, live band, fireworks, the works. | 全套；应有尽有；全部
+throw shade | She threw shade at his outfit without even mentioning it directly. | 暗讽、含蓄地贬低别人
+keep it real | I respect him because he always keeps it real — no fake compliments, no sugarcoating. | 保持真实、别装，做你自己
+go ham | The team went ham on the project and finished it in two days. | 疯狂发力、全力以赴，干到极致
+fall through the cracks | A few customer complaints fell through the cracks during the transition. | 被遗漏、被忽视，掉到缝隙里没人管
+pencil in | Let's pencil in a meeting for Thursday — we can move it if needed. | 暂定、先安排上（但可能更改），用铅笔写进来
+give someone the cold shoulder | I said hi, but she gave me the cold shoulder and walked right past. | 冷落某人、故意不理睬
+clap back | When the reporter misquoted her, she clapped back on Twitter with the full transcript. | 强势回击、犀利反驳，不服就怼回去
+tight-lipped | The CEO stayed tight-lipped about the upcoming product launch. | 嘴紧、守口如瓶，拒绝透露信息
+put your money where your mouth is | You keep saying you can beat me — put your money where your mouth is! | 用行动证明你说的话，别光说不练
+paint the town red | After finals, we're gonna paint the town red! | 狂欢、出去好好嗨一顿，把整座城都涂红
+Run out of steam | I was cleaning the house all morning, but by noon I just ran out of steam. | 精力耗尽，做不动了
+Throw a fit | My kid threw a fit in the grocery store because I wouldn't buy him candy. | 大发脾气，撒泼
+Give someone a hard time | My boss gave me a hard time about being five minutes late. | 故意刁难某人，让某人不好过
+Have a lot on your plate | I can't take on another project right now — I already have a lot on my plate. | 事情很多，忙得不可开交
+Make ends meet | With rent going up again, it's getting harder to make ends meet. | 勉强维持生计，收支相抵
+Pass the buck | When the project failed, everyone just passed the buck instead of owning up to their mistakes. | 推卸责任，甩锅
+See eye to eye | My parents and I don't see eye to eye on career choices. | 意见一致，看法相同
+Down to the wire | The game went down to the wire, but we scored in the last second. | 到最后关头，直到最后一刻
+Sweep someone off their feet | He swept her off her feet with a surprise trip to Paris. | 让某人一见倾心，使人深受感动
+Keep your eye on the ball | There are a lot of distractions right now, but you need to keep your eye on the ball. | 专心致志，保持专注
+Let sleeping dogs lie | I know you want to bring up the old argument, but just let sleeping dogs lie. | 别惹麻烦，别去碰可能引发问题的事
+Sweat it out | We submitted the proposal and now we just have to sweat it out until Friday. | 硬撑着熬过去，焦虑地等待结果
+Fly by the seat of your pants | I didn't prepare a presentation, so I just flew by the seat of my pants. | 凭感觉走，没有计划地临时发挥
+The ship has sailed | I wanted to apply for that job, but the deadline was yesterday — the ship has sailed. | 错过机会了，为时已晚
+Pick someone's brain | Can I pick your brain about how you set up the marketing campaign? | 向某人请教，听听别人的想法和经验
+Back to the drawing board | The prototype didn't work at all. Back to the drawing board. | 从头再来，方案失败需要重新设计
+Cut someone some slack | It's her first week on the job — cut her some slack. | 对某人宽容一点，别太苛刻
+Goody two-shoes | He never breaks any rules — such a goody two-shoes. | 乖宝宝，过于循规蹈矩的人（带有调侃意味）
+Chip on your shoulder | He's got a chip on his shoulder ever since he got passed over for promotion. | 心怀不满，觉得别人亏欠自己
+Eat your heart out | Just got front-row tickets — eat your heart out! | 嫉妒吧！用来炫耀，暗讽别人比不上
+it is what it is | I didn't get the promotion, but it is what it is — I'll keep working hard. | 事情就是这样，接受现实吧（表示无奈接受，无能为力）
+get out of hand | The argument started small, but it quickly got out of hand. | 失控，变得难以收拾
+catch feelings | I told myself it was just casual, but I think I'm starting to catch feelings. | 对某人产生感情，动心了（常带有意外或不情愿的意味）
+big picture | Don't stress about every tiny detail — try to focus on the big picture. | 大局，宏观视角（不纠结细节，看整体走向）
+wrap one's head around | I still can't wrap my head around how he finished the whole project in one day. | 理解，消化（某件很难懂或难接受的事）
+in the same boat | None of us had experience with this software — we were all in the same boat. | 同舟共济，处境相同
+turn a blind eye | The manager turned a blind eye to people leaving early on Fridays. | 睁一只眼闭一只眼，故意忽视
+vibe check | Vibe check — how's everyone feeling about the new office layout? | 氛围测试，摸底看看感觉/状态对不对（也可指"你感觉怎么样？"）
+call the shots | She's the one who calls the shots in that department — get her approval first. | 做决定，说了算，掌控全局
+hang tight | Hang tight — I'll be there in five minutes. | 稍等一下，坚持住，别急
+get a move on | We're gonna be late — get a move on! | 快点，赶紧行动
+throw in the towel | After months of trying, she finally threw in the towel and quit the project. | 认输，放弃
+go off script | The CEO went off script during the press conference and stirred up controversy. | 脱稿，偏离计划，说/做了没计划的事
+take the heat | Someone has to take the heat for this mistake — might as well be me. | 承受压力/批评，顶锅
+dial it back | You need to dial it back — you're coming across as way too aggressive. | 收敛一点，降低力度/情绪，别那么过火
+piggyback on | Can I piggyback on your meeting with the client? I have a quick question for them too. | 借助、搭便车、附带利用某事/某人的资源
+push the envelope | Their new design really pushes the envelope — no one's done anything like it before. | 突破界限，挑战极限，大胆创新
+burn bridges | Don't burn bridges with your old boss — you never know when you'll need a reference. | 断绝关系，把路走绝，不留退路
+be on the fence about | I'm still on the fence about taking that job offer — the salary's great but the commute is brutal. | 对某事举棋不定，犹豫不决
+catch someone off guard | The question caught me completely off guard — I had no idea what to say. | 打了某人一个措手不及；出其不意
+par for the course | The meeting ran two hours over schedule — honestly, that's par for the course here. | 意料之中；很正常（暗示某件事虽然不好，但已是惯例）
+hit someone up | I haven't heard from Jake in a while — I should hit him up this weekend. | 联系某人；给某人发消息/打电话
+miss the boat | We should've invested in that startup two years ago. We totally missed the boat. | 错过机会；没赶上（某个好时机）
+have a blast | We had an absolute blast at the concert last night — you should've come! | 玩得非常开心；度过了一段超爽的时光
+bail on someone | She bailed on us at the last minute — said she wasn't feeling well. | 临时爽约；（提前）放鸽子
+take the edge off | A quick walk around the block really takes the edge off when I'm stressed at work. | 缓解紧张/压力/痛苦；让情况没那么糟
+no strings attached | He said he'd help us move and wants nothing in return — no strings attached. | 没有附加条件；不附带任何要求
+get on someone's nerves | The constant notification sounds from his phone really get on my nerves during meetings. | 让某人心烦；惹某人烦躁
+hang in there | I know the project is tough, but hang in there — we're almost done. | 坚持住，撑下去（鼓励对方不要放弃）
+get out of your own way | You're talented enough — just get out of your own way and apply for the job. | 别给自己设障碍，别自我阻碍（指人因为过度思虑或恐惧而妨碍了自己）
+level up | She's been taking online courses every weekend to level up her skills. | 升级、提升自己（来自游戏术语，现广泛用于职场和生活）
+take the L | We messed up the pitch. Just take the L and learn from it. | 认输、承认失败（L = Loss，输了就是输了，别死撑）
+lowkey | I'm lowkey obsessed with that new Netflix show. | 低调地、有点儿、说实话有点……（表达程度不强烈但确实存在的感受）
+flex | He bought a Porsche just to flex in front of his ex. | 炫耀、显摆（展示自己的财富、能力或成就）
+sus | His excuse for missing the meeting sounds really sus. | 可疑的、不对劲（suspect/suspicious 的缩写，来自游戏 Among Us 后席卷日常用语）
+go-getter | She's a real go-getter — she landed three promotions in two years. | 积极进取的人、拼命三郎（指主动争取机会、充满干劲的人）
+all-in | We're going all-in on this product launch. No backup plan. | 全力以赴、豁出去了（来自扑克术语，押上全部筹码）
+unpack something | Let's unpack what went wrong in last quarter's strategy. | 深入分析、拆解（抽象地"打开"一个复杂话题，逐层剖析）
+cook the books | The CFO was arrested for cooking the books to hide the company's losses. | 伪造账目、做假账（cook 这里不是"烹饪"，而是"篡改"；books 指账本）
+dead giveaway | Her accent was a dead giveaway that she wasn't from around here. | 明显的破绽、一目了然的线索（giveaway = 泄露秘密的东西）
+fly under the radar | He's been flying under the radar at work, just doing his job without any drama. | 低调行事、不引人注意（源自军事：飞机飞在雷达探测线以下就不会被发现）
+give someone the time of day | After the argument, she wouldn't even give him the time of day. | 理睬某人、搭理某人（通常用于否定：won't give someone the time of day = 完全不理睬）
+hold your water | Just hold your water — the results will be out in five minutes. | 忍住、别急、耐心等一下（旧时说法，让马"憋住水"别急着跑；也作 hold your horses 的变体）
+in the driver's seat | With the new contract signed, we're in the driver's seat now. | 掌控局面、处于主导地位（坐在驾驶座上的人掌控方向）
+jump through hoops | I had to jump through hoops just to get my visa approved. | 经历重重繁琐步骤、费尽周折（想象马戏团的动物跳过一个又一个圈）
+know the ropes | Don't worry — Sarah's been here five years, she knows the ropes. | 熟悉门道、了解规矩（源自航海：新水手必须学会辨认各种绳索的操作）
+left high and dry | The funding was pulled overnight, leaving the team high and dry. | 被抛弃、陷入困境、孤立无援（原指船只搁浅在高处，退潮后干在那里）
+make a killing | She made a killing on that real estate deal — bought at 200k, sold at 800k. | 大赚一笔、发大财（killing 这里不是"杀人"，而是"巨大的意外收益"）
+caught off guard | I was caught off guard when my manager asked me to present in front of everyone. | 被打了个措手不及，完全没预料到
+that's on me | I forgot to send the file before the meeting — that's on me. | 这事怪我；这是我的责任
+hard pass | Waking up at 5 a.m. to go jogging on a Sunday? Hard pass. | 坚决不要；明确拒绝（语气很口语）
+take a breather | Let's take a breather before we jump into the next round of interviews. | 喘口气，休息一下，缓一缓
+phone it in | He totally phoned it in during the team meeting and barely said a word. | 敷衍了事；没认真投入
+doomscrolling | I stayed up too late doomscrolling through the news last night. | 不停刷坏消息，越刷越焦虑
+main character energy | She walked into the room with main character energy and everyone noticed. | 主角气场；很有存在感、很像生活里的主角
+living rent-free in someone's head | That awkward comment from last week is still living rent-free in my head. | 一直占据某人的脑子，让人忘不掉
+workaround | The system is still broken, but we found a workaround for today's deadline. | 变通办法；临时绕开的解决方案
+TL;DR | TL;DR: the client liked the proposal, but they want a lower price. | 太长不看；简短总结
+heads-up | Just a heads-up, the meeting got moved to 3 p.m. | 提前提醒；先跟你说一声。
+that's a stretch | Saying he’s the best employee on the team is a stretch. | 这有点牵强；这说得太勉强了。
+in your wheelhouse | Data analysis is definitely in your wheelhouse. | 是你擅长的范围；在你的专业领域内。
+say the quiet part out loud | She kind of said the quiet part out loud in that meeting. | 把大家心里知道但通常不明说的话直接说出来。
+have receipts | Don’t argue with her — she has receipts. | 有证据；拿得出聊天记录、截图、事实证明。
+boomerang back | That issue we thought was solved has boomeranged back. | 转了一圈又回来；事情又回到原点。
+deadass | I’m deadass thinking about quitting sugar this month. | 真的，认真的，不开玩笑（很口语）
+that’s wild | You got a promotion after only three months? That’s wild. | 这也太离谱了；这也太夸张了
+do me a favor | Do me a favor and send me the file before lunch. | 帮我个忙
+I’m just messing with you | Relax, I’m just messing with you—I already paid for the tickets. | 我逗你呢；我开玩笑的
+locked in | She’s locked in today, so try not to interrupt her. | 全神贯注的；进入状态的
+that ship has sailed | We can’t change the launch date now—that ship has sailed. | 那事已经错过了；已经来不及了
+plot twist | Plot twist: the quietest guy on the team turned out to be the best presenter. | 反转来了；剧情突然转折（常用于日常调侃）
+it checks out | I looked at the numbers, and yeah, it checks out. | 说得通；核对下来没问题
+big yikes | He replied-all to complain about the meeting. Big yikes. | 太尴尬了；太糟心了（带一点吐槽）
+don’t get me started | Don’t get me started on airport food prices. | 别让我打开这个话题；一说我就停不下来
+hit the deck | Everyone hit the deck when they heard the loud bang! | 迅速趴下 / 赶紧行动起来
+on the nose | Your estimate was on the nose — we spent exactly $500. | 完全正确，分毫不差
+take a lap | You're way too heated right now. Go take a lap. | 冷静一下，出去转一圈（通常含轻微讽刺，叫人"走开"冷静）
+gut check | Before we commit to this deal, let's do a gut check — does it actually feel right? | 凭直觉/内心做的一次自我评估；考验意志的时刻
+have a lot of moving parts | This launch has a lot of moving parts — we need everyone aligned. | （事情/项目）涉及很多变量/环节，错综复杂
+kick the tires | We're just kicking the tires on a few new vendors right now. | 初步试探/评估某样东西，看看值不值得深入（不做最终决定）
+get up to speed | Can you get me up to speed on what happened while I was out? | 快速了解情况、跟上进度
+fall flat | His joke fell flat — nobody laughed. | （笑话、计划、演讲等）完全没有效果，反响冷淡
+be on someone's radar | That new startup is definitely on the investors' radar. | 在某人的关注范围内，已被注意到
+get the ball rolling in a different direction | The new manager got the ball rolling in a completely different direction — it was a culture shock. | 把事情朝另一个方向推进，改变当前的发展势头
+Give it a rest | You've been complaining about your commute all week — give it a rest! | 别再说了 / 停下来吧（叫对方停止重复做某件烦人的事）
+Take it up a notch | The presentation was good, but let's take it up a notch before the board meeting. | 再提升一个档次 / 更上一层楼（notch = 刻度，像调节旋钮一样往上拨一格）
+Be on the same wavelength | We didn't even need to explain — we were totally on the same wavelength. | 想法一致 / 默契十足（像两台收音机调到同一频率）
+Go bananas | My dog goes bananas every time he sees a squirrel. | 抓狂 / 发疯 / 兴奋过头（口语，可表示愤怒或极度兴奋）
+The whole shebang | They're rebuilding the website — new design, new code, the whole shebang. | 整套东西 / 全部（shebang = 来源不明的俚语，相当于"整个摊子"）
+Go out on a limb | I'm going out on a limb here, but I think we should scrap the whole plan. | 冒险发表意见 / 出头承担风险（limb = 树枝，爬出去越细越危险）
+Miss the mark | The ad campaign looked great but really missed the mark with our audience. | 没达到目标 / 没有说到点子上（射箭没中靶心）
+Get your bearings | Give me a few days to get my bearings before you throw more projects at me. | 搞清楚方向 / 熟悉情况、找到感觉（bearings = 方位，源自航海）
+Come clean | He finally came clean about missing the deadline — it was a system error. | 坦白交代 / 说实话（终于把藏着的事说出来）
+have a field day | The media had a field day with the CEO's resignation. | 大肆享受、尽情发挥，尤其指借某事大做文章
+spin your wheels | We've been spinning our wheels on this project for weeks — we need a new approach. | 白费力气、原地踏步，忙了半天没有任何进展
+take ownership | Instead of blaming the team, she took ownership of the mistake and fixed it. | 主动担责、把事情揽过来负责到底（职场高频用语）
+be on a shoestring | We launched the whole campaign on a shoestring — less than $500 total. | 预算极其有限、花钱非常拮据
+grease the wheels | A little networking can go a long way to grease the wheels in this industry. | 疏通关系、让事情顺利推进（有时含"走后门/送礼"之意）
+leave no stone unturned | The detective left no stone unturned in his search for evidence. | 不遗余力；竭尽所能；把所有可能都试过
+get your wires crossed | I think we got our wires crossed — I said Tuesday, not Thursday. | 搞混了、误解对方的意思
+the jury is still out | The jury is still out on whether remote work actually boosts productivity. | 还没定论，结果尚不明朗
+in the thick of it | Sorry, can't talk right now — I'm right in the thick of it with this launch. | 正处于最忙乱/最激烈的阶段，身处漩涡之中
+have a lot of irons in the fire | She's got a lot of irons in the fire right now — three clients, a promotion, and a side hustle. | 同时在推进很多事情，手头项目多
+hit it out of the park | Your presentation yesterday? You totally hit it out of the park. | 表现超出预期，大获成功（棒球用语，类似"打出了本垒打"）
+go the whole hog | If we're redesigning the app, let's just go the whole hog and redo the brand too. | 一不做二不休，干脆彻底地做某件事，不留半手
+be in someone's corner | No matter what happens, just know I'm always in your corner. | 支持某人，站在某人那边（拳击场用语，角落里的教练是你的支持者）
+get off on the wrong foot | We kind of got off on the wrong foot with the new manager — hopefully things improve. | 开局不利，一开始就搞砸了，起点不好
+make waves | She made waves in the industry with her unconventional hiring strategy. | 引起轰动/争议，制造麻烦，打破现状
+take the bull by the horns | Instead of waiting around, he took the bull by the horns and called the client directly. | 迎难而上，主动出击，直接应对棘手问题
+get the wrong end of the stick | He got the wrong end of the stick and thought I was quitting, but I was just taking a vacation. | 误解了某件事，理解完全相反
+throw a bone | The manager threw us a bone by letting us leave early on Friday. | 给人一点小恩小惠或小让步，安抚一下
+give someone the runaround | I called customer service three times and they just gave me the runaround. | 让某人被踢皮球，一直得不到答案或帮助
+be in someone's good graces | She stayed late to finish the report and is definitely in the boss's good graces now. | 得到某人的好感或青睐，关系处于良好状态
+bite the hand that feeds you | He complained to HR about his mentor — talk about biting the hand that feeds you. | 恩将仇报，对帮助自己的人反咬一口
+be on borrowed time | After two failed launches, the product is on borrowed time. | 时日无多，（坏事或终结）随时可能来临
+take someone to task | The director took the whole team to task for missing the deadline. | 严厉批评或斥责某人
+get a foot in the door | I took the unpaid internship just to get a foot in the door at that company. | 取得初步机会或入门机会，打开局面
+can't see the forest for the trees | He spent two hours fixing the font and missed the deadline — classic case of can't see the forest for the trees. | 只见树木不见森林，太纠结于细节而忽视了大局
+get cold feet about something | She got cold feet about the promotion and turned it down at the last minute. | 对某件事突然退缩、临阵打退堂鼓
+get the picture | I don't need to explain every detail — do you get the picture? | 明白了、理解了（听懂某件事的意思）
+in the bag | The deal is in the bag — they signed this morning. | 十拿九稳、已经到手了
+think outside the box | We need someone who can think outside the box to solve this problem. | 跳出固定思维，创新思考
+take a stab at something | I've never done this before, but I'll take a stab at it. | 尝试一下、试试看
+fit like a glove | This job fits me like a glove — it's exactly what I've been looking for. | 非常合适、天衣无缝
+on the mend | She was really sick last week, but she's on the mend now. | 逐渐恢复（病情好转，或状况改善）
+bring someone up to speed | Can you bring me up to speed on what happened in the meeting? | 让某人了解最新进展、补上进度
+go back to square one | The prototype failed, so we have to go back to square one. | 从头再来、回到原点
+a blessing in disguise | Losing that job was a blessing in disguise — I found something much better. | 塞翁失马焉知非福，表面上是坏事，实则带来好处
+wear many hats | In a startup, everyone wears many hats — you might be the designer, marketer, and customer support all at once. | 身兼多职、一人担当多个角色
+no dice | I asked my boss for a day off, but no dice — we're too busy. | 没门儿，不行，没成功
+go halfsies | We went halfsies on the pizza — ten bucks each. | AA制，各付各的，平摊费用
+catch someone red-handed | The manager caught him red-handed taking money from the register. | 当场抓住某人（做坏事），人赃并获
+be a tough act to follow | She ran the team so well — she's a tough act to follow. | （前任/前任表现）太出色，后来者难以超越
+call it like you see it | I'm just calling it like I see it — the project is way behind schedule. | 直话直说，实事求是，不拐弯抹角
+split the difference | You want $200, I want $150 — let's just split the difference and say $175. | 各退一步，取个中间值，折中解决
+get a taste of your own medicine | He used to interrupt everyone in meetings. Yesterday someone cut him off constantly — he got a taste of his own medicine. | 自食其果，尝尝自己给别人下的药（以其人之道还治其人之身）
+be in the hot seat | After the product launch failed, the team lead was in the hot seat. | 处于被质疑/追责/审问的位置，坐在"火山口"上（压力很大）
+have the floor | After the CEO's introduction, the marketing lead had the floor. | 拥有发言权；轮到你说话了
+right off the bat | Right off the bat, I knew this project was going to be a challenge. | 立刻，马上，一开始就
+get a handle on something | It took me a week to get a handle on the new codebase. | 弄清楚；掌握；搞定某件事
+go through the motions | He's been going through the motions at work ever since he got passed over for promotion. | 走走过场；敷衍了事；没有真心投入
+be on the hook for something | If the deal falls through, who's on the hook for the losses? | 负有责任；要为某事买单或担责
+make a dent | We've been working for hours but barely made a dent in the backlog. | 取得进展；稍有成效；产生一点影响
+have second thoughts | I said yes at first, but now I'm having second thoughts about taking that job. | 开始后悔；重新考虑；犹豫了
+be on someone's case | My manager has been on my case all week about the quarterly report. | 盯着某人；不断催促或批评某人
+talk someone down | She was about to quit on the spot, but her mentor talked her down. | 安抚某人；让激动或焦虑的人平静下来
+call it like it is | I know it's blunt, but I always call it like I see it. | 直说；实话实说；不拐弯抹角
+bite the dust | Our app launch bit the dust after the servers crashed. | 失败、倒下、完蛋（也指某事以失败告终）
+take something in stride | She took the bad news in stride and immediately started working on a solution. | 从容应对，不大惊小怪地处理困难或变化
+be a long shot | Getting into Harvard is a long shot, but I'm applying anyway. | 胜算不大，希望渺茫（但不是完全没可能）
+catch someone's drift | I don't need you to spell it out — I catch your drift. | 听懂某人的意思、领会言下之意
+in a pickle | I forgot my wallet at home and now I'm in a pickle — can you cover me? | 陷入困境，处于麻烦之中
+jump to conclusions | Don't jump to conclusions — we don't have all the facts yet. | 仓促下结论，没弄清楚情况就判断
+under someone's thumb | He's totally under his boss's thumb — he can't make any decision on his own. | 被某人控制、完全听命于某人
+have it together | She's only 28 but she really has it together — career, family, everything. | 状态好、生活井井有条、把一切都安排妥当了
+run circles around someone | When it comes to data analysis, she runs circles around the rest of the team. | 在某方面远远超过某人，甩对方好几条街
+ahead of the curve | That startup was ahead of the curve — they were doing remote-first before it was cool. | 走在前沿，超前于时代或趋势
+greenlight something | The CEO finally greenlighted the new product launch. | 批准某事、给某事开绿灯
+double down | Instead of apologizing, he doubled down on his controversial comments. | 加倍押注、更坚决地坚持某立场
+pivot | After losing funding, the startup had to pivot to a completely different market. | （策略/方向上的）转型、转向
+hedge your bets | She applied to ten companies to hedge her bets. | 两边下注、留退路、不把鸡蛋放在一个篮子里
+it's not rocket science | Just follow the instructions — it's not rocket science. | 这又不是什么高深学问（没那么难）
+brass tacks | Let's get down to brass tacks — what's the actual budget? | 核心问题、实质内容
+spill your guts | She finally spilled her guts about why she quit the job. | 把心里话全倒出来，和盘托出（尤指说出秘密或心事）
+take the cake | That excuse takes the cake — I've never heard anything so ridiculous. | 最离谱/最出色/首屈一指（视语境可褒可贬，通常用于略带讽刺地表示"这算是登峰造极了"）
+kick the bucket | My old laptop finally kicked the bucket last night. | 挂了，蹬腿，死了（非正式，带点黑色幽默）
+get off scot-free | He broke three company rules and somehow got off scot-free. | 没受到任何惩罚，全身而退，逍遥法外
+two peas in a pod | Those two are like two peas in a pod — they finish each other's sentences. | 两个人极其相似，如出一辙（性格、行为、外貌都像）
+be all ears | I have some feedback on your proposal." — "Go ahead, I'm all ears. | 洗耳恭听；全神贯注地在听
+hit below the belt | Bringing up his past failures during the meeting was really hitting below the belt. | 使出下三滥手段；攻击要害，不讲规则
+in the blink of an eye | The weekend flew by — in the blink of an eye, it was Monday morning again. | 转瞬之间、眨眼就过去了（强调速度极快）
+have a poker face | She has a great poker face — you'd never know if she's excited or completely uninterested. | 扑克脸；面无表情，让人完全看不出内心想法
+storm in a teacup | The whole drama about the new office layout was just a storm in a teacup — everyone forgot about it in a week. | 大惊小怪；把小事搞得像天塌下来一样（小题大做）
+be a game changer | This new AI tool is a game changer for our team's productivity. | 彻底改变局面的事物/人；颠覆性的
+pull the trigger | We've been debating this for months — it's time to pull the trigger and launch. | 下定决心，采取行动（尤指一直犹豫后终于做出决定）
+get on board | I need everyone to get on board with the new strategy before the Q3 kickoff. | 加入、支持某个想法或计划（像"登上同一艘船"）
+devil is in the details | The plan sounds great, but the devil is in the details — we still need to figure out the pricing. | 细节决定成败（表面看起来简单，实际上细节很复杂）
+play hardball | The vendor started playing hardball, so we threatened to walk away from the deal. | 采取强硬手段；不妥协，毫不客气（来自棒球，指打职业联赛而非软式棒球）
+move the goalposts | We met every requirement, and then they moved the goalposts again. | 临时改变规则或目标，让人更难达到（通常带负面含义，指"耍赖"）
+be a tough nut to crack | This client is a tough nut to crack — they've rejected three proposals already. | 很难对付的人/问题；硬骨头（字面是"很难敲开的坚果"）
+bite the bullet on something | We need to bite the bullet on the layoffs and make the announcement this week. | 咬紧牙关做某件不得不做但很痛苦的事（此处特指针对某件具体的事）
+the elephant has left the room | After the CEO addressed the budget issue directly, the elephant finally left the room. | 之前大家都回避的那个尴尬/棘手问题，现在已经被解决或消散了（是 "elephant in the room" 的反向说法）
+bench someone | They benched him after the product launch failed — he's no longer leading the team. | 让某人"坐冷板凳"；把人从重要位置撤下来，暂时不用（来自体育，指让球员上替补席）
+stumped | The interviewer asked me about recursion and I was totally stumped. | 完全不知道答案/被难住了
+get a lay of the land | Before making any changes, let me get a lay of the land first. | 先摸清情况/了解环境再行动
+get your feet wet | I just started learning Python to get my feet wet in data science. | 初步尝试某件事/入门
+talk a big game | He talks a big game in meetings, but never delivers on time. | 说得头头是道，但未必能做到；嘴上很厉害
+take a rain check on | I'd love to join, but I'll have to take a rain check on dinner tonight. | 这次不行，下次再说（婉拒但留有余地）
+be in someone's shoes | I wouldn't want to be in his shoes right now — the project is a mess. | 设身处地，站在某人的角度
+have a change of heart | She said no at first, but then had a change of heart and joined the team. | 改变主意，尤其是从拒绝变为同意（或反过来）
+a lot on one's plate | I can't take on another project — I've already got a lot on my plate. | 手头事情很多，应接不暇
+flip the script | Instead of waiting for clients to come to us, let's flip the script and reach out first. | 颠覆常规做法/反转局面/出乎意料地换角色
+from the ground up | They rebuilt the entire platform from the ground up after the acquisition. | 从零开始，白手起家
+work up the nerve | I finally worked up the nerve to ask my boss for a raise. | 鼓起勇气去做某件让人紧张或害怕的事
+knock it out of the park | Her presentation knocked it out of the park — the client signed immediately. | 表现出色，把某件事做得超乎预期、大获成功
+lose your train of thought | Sorry, someone walked in and I lost my train of thought — where were we? | 思路中断，忘了刚才在说/想什么
+get wind of something | The press got wind of the merger before the official announcement. | 无意间听到或得知某个消息（通常是秘密或小道消息）
+burn the candle at both ends | She's been burning the candle at both ends — working all day and studying at night. | 两头烧蜡烛 → 过度透支自己，白天黑夜连轴转
+fall off the wagon | He was sober for two years, but fell off the wagon at the holiday party. | 重新染上之前戒掉的坏习惯（抽烟、喝酒、吃垃圾食品等）
+go against the grain | Raising prices during a recession really goes against the grain, but it worked. | 逆势而为，和主流/常规做法唱反调
+the writing on the wall | Everyone could see the writing on the wall — the company was going under. | 已有明显的预兆/警示，事情要变坏了（却有人视而不见）
+off the cuff | I wasn't prepared for the Q&A, so I answered everything off the cuff. | 即兴发挥，没有准备地说/做
+draw a blank | I knew his name five minutes ago, but now I'm drawing a complete blank. | 大脑一片空白，完全想不起来
+chalk it up to something | I failed the presentation, but I'm just going to chalk it up to nerves. | 把……归因于某事；认为是因为……
+get a read on someone | I can't get a read on my new boss — sometimes she seems happy, sometimes she doesn't. | 看透某人；摸清某人的想法或意图
+have it out with someone | I finally had it out with my coworker about who's responsible for the project delay. | 跟某人把话说开；当面摊牌、彻底理论清楚
+put a bow on it | We just need to put a bow on the report and send it to the client. | 画上圆满句号；给某事收尾打包（像礼物一样）
+be neck and neck | The two candidates are neck and neck in the polls — it could go either way. | 不相上下；势均力敌；难分高下
+go through the roof | Prices for rental apartments have gone through the roof since last year. | （价格/数量）飙升；（情绪）暴涨，大发雷霆
+grill someone | The interviewer really grilled me on my past experience — it felt like an interrogation. | 盘问某人；连珠炮式地审问
+raise the bar | The new product really raised the bar for the entire industry. | 提高标准 / 拔高期望值
+get your foot in the door | This internship is a great way to get your foot in the door at a top tech company. | 打入某个领域 / 获得初步机会
+under wraps | The new features are still under wraps until the launch event. | 保密中 / 尚未公开
+have a gut feeling | I have a gut feeling that something's off about this deal. | 有直觉 / 凭感觉觉得
+go the distance | Not everyone can go the distance in a startup — it takes real grit. | 坚持到底 / 全程拼到最后
+cold turkey | He quit smoking cold turkey — no patches, no gum, just willpower. | 彻底戒断 / 说停就停（不渐进）
+have the time of your life | We had the time of our lives at the music festival last weekend. | 玩得非常开心，度过了人生中最棒的时光
+no love lost | There's no love lost between those two departments — they've been rivals for years. | 两人之间毫无好感，互相不对付
+get your mojo back | After the vacation, she finally got her mojo back and crushed every deadline. | 找回状态/干劲/魅力（mojo 源自非裔美国民俗，指一种神秘的魔力或活力）
+go postal | He went postal when he found out his project was canceled without notice. | 突然爆发，失控发飙（源自1990年代美国邮局员工枪击事件，后泛指情绪崩溃）
+in the same breath | She said she trusted him, and in the same breath accused him of lying. | 前后矛盾地说，话还没说完就自相矛盾
+sweeten the deal | They agreed to cover relocation costs to sweeten the deal. | 在谈判/协议中加点好处，让条件更诱人
+on someone's dime | We flew business class on the company's dime. | 由某人付钱，花某人的钱（dime = 10美分硬币，引申为"花销"）
+be a buzzkill | Don't be a buzzkill — just come to the party for an hour! | 扫兴的人或事（buzz = 兴奋感，buzzkill = 把这种兴奋"杀死"的人）
+go off | She went off in that presentation — everyone was blown away. | （俚语）表现得非常出色，发挥超常；也可指某人情绪爆发或大声斥责
+keep tabs on someone/something | My manager keeps tabs on every project milestone — nothing slips past her. | 持续关注/监视某人或某事，随时掌握动态
+have the bandwidth | I'd love to help, but I honestly don't have the bandwidth right now. | 有时间/精力处理某事（带宽/容量够不够）
+be a wash | We saved money on flights but spent more on hotels — it's basically a wash. | 两相抵消，没啥实质差别；白忙一场
+get out of Dodge | Things were getting awkward at the party, so we decided to get out of Dodge. | 赶快溜走、离开某个麻烦地方
+go south | The product launch went south after the demo crashed live on stage. | （事情）变糟、出岔子
+have a leg up (on someone) | She has a leg up on other candidates because she already knows the client. | 比别人占有优势、有先发优势
+be a straight shooter | You can trust Jake — he's a straight shooter, he'll tell you exactly what he thinks. | 说话直接坦诚、不拐弯抹角的人
+hit the pause button | Before we commit to this plan, let's hit the pause button and reconsider the budget. | 暂停一下，先缓一缓再继续
+go back and forth | We went back and forth on the design for two weeks before finally picking one. | 来回讨论/反复拉扯，迟迟没有结论
+no skin off my back / no skin off my nose | If they want to change the deadline, that's no skin off my back — I'm already done. | 对我来说无所谓，不影响我，我不在乎
+in the weeds about something | Stop getting in the weeds about the font size — we need to ship the product. | 对某件事陷得太深、迷失在细节里，看不到全局
+take it offline | That's a great question, but let's take it offline so we don't run over time. | "私下再聊"——当话题不适合在会议上占用大家时间时说
+pivot hard | After the launch flopped, the team decided to pivot hard and go B2B. | 果断转变方向，彻底换策略
+be on the chopping block | Three departments are on the chopping block after the budget cuts. | 即将被砍掉——项目、预算或职位岌岌可危
+level with someone | I'm going to level with you — your presentation needs a lot of work. | 对某人说大实话、开诚布公
+have a lot of runway | The startup has a lot of runway — they just raised a Series B. | 还有很大的发展空间、资金/时间充裕
+get your sea legs | She only started two weeks ago — give her time to get her sea legs. | 适应新环境、慢慢找到感觉（尤指刚入职或进入新领域）
+be on the up and up | Don't worry, this deal is totally on the up and up — everything's legal. | ① 光明正大、诚实可信；② 在持续上升/进步中
+not hold water | Your excuse doesn't hold water — the logs show you were online. | 站不住脚、经不起推敲（用于反驳论点或借口）
+a moving target | The requirements keep changing — it's like chasing a moving target. | 不断变化的目标，让人很难瞄准/跟上
+not on my watch | You're going to skip the safety check? Not on my watch! | 在我的管辖/值班期间绝不允许这种事发生，表示强烈反对或阻止某事
+take a page from someone's book | We should take a page from Google's book and encourage more creative thinking. | 学习某人的做法，效仿某人
+stay in your lane | I know you mean well, but this is a legal matter — stay in your lane. | 管好自己的事，别越界；做好自己分内的工作
+get your priorities straight | You're worried about the font size when the whole report is wrong? Get your priorities straight. | 分清主次，搞清楚什么更重要
+between a rock and a hard place | I'm between a rock and a hard place — if I say yes, I'll lose sleep; if I say no, I'll lose the client. | 进退两难，左右为难（两个选项都很糟糕）
+have a chip in the game | Everyone on this team has a chip in the game — the bonus depends on how we perform. | 在某件事上有利益关系，有参与感/赌注（近似 have skin in the game）
+go through channels | If you want to request a budget increase, you'll need to go through the proper channels. | 通过正规途径/走正常程序办事
+close ranks | When the media started criticizing the team, management quickly closed ranks. | 团结一致对外，在面对压力或批评时内部抱团
+rubber-stamp something | The board just rubber-stamped every proposal the CEO made — no one asked a single question. | 走形式地批准，不加审查就盖章通过（有负面含义）
+eat crow | He confidently predicted they'd fail, so when they succ… | 被迫承认错误或接受失败，灰溜溜地认栽
+off the beaten path | We skipped the tourist traps and found a restaurant totally off the beaten path — best tacos I've ever had. | 不走寻常路；偏僻冷门的地方或方式
+jump the shark | That TV show really jumped the shark when they brought the main character back from the dead for the third time. | （节目、产品、人等）过了巅峰期，开始走下坡路；做出荒唐之举失去水准
+steal someone's thunder | He announced his promotion at her wedding dinner — totally stole her thunder. | 抢了别人的风头；在别人的重要时刻刷存在感
+set the record straight | I need to set the record straight — I never said I was quitting, that was just a rumor. | 澄清误会；纠正错误说法，让事情回归真相
+kill it | You absolutely killed it in that presentation — everyone was impressed. | 表现超棒；完全搞定；大杀四方（口语褒义）
+shake things up | We need to shake things up — the old strategy isn't working. | 打破常规、做出重大改变、搅动一下现状
+on the fly | She made the decision on the fly without any preparation. | 临时应变、在进行中处理，边做边想（飞速、即兴）
+throw a Hail Mary | We were down by 10 points with a minute left, so the coach decided to throw a Hail Mary. | 孤注一掷；在绝境中碰运气
+blow someone's mind | This documentary totally blew my mind — I had no idea the ocean was that deep. | 让某人大开眼界；震撼到某人
+crack the code | After years of testing, they finally cracked the code on getting customers to stay. | 摸清门道；找到窍门/突破口
+be on a tear | She's been on a tear lately — closed three major deals in one week. | 势头强劲；连续大杀四方
+not by a long shot | Is the project done?" "Not by a long shot — we still have weeks of work left. | 远远不够；根本不可能（强调否定）
+take it or leave it | I'm offering $500 for the bike. Take it or leave it. | 接不接受随你；这是最终条件
+hit someone where it hurts | The tax increase really hit small business owners where it hurts. | 戳中痛处；打击要害
+be at a crossroads | At 30, she found herself at a crossroads — stay at the company or start her own. | 处于十字路口；面临重大抉择
+grit your teeth | The last mile was brutal, but he gritted his teeth and crossed the finish line. | 咬紧牙关；强忍着坚持
+swim against the tide | Choosing a liberal arts major when everyone was going into tech felt like swimming against the tide. | 逆流而上；对抗主流
+talk someone off the ledge | She was ready to quit, but her manager talked her off the ledge. | 把某人从崩溃边缘拉回来，帮人冷静下来（字面是"从悬崖边把人劝回来"）
+be a people pleaser | Stop being such a people pleaser — it's okay to say no. | 讨好型人格，总想让所有人满意、不敢拒绝别人
+be in your element | She's totally in her element when she's presenting to a big crowd. | 如鱼得水，处于最擅长、最舒适的状态
+get your hands dirty | A good manager isn't afraid to get their hands dirty when the team needs help. | 亲自上手干活，不怕麻烦地去做实际的工作（不一定真的弄脏手）
+go back to basics | The app was getting too complicated — we decided to go back to basics. | 回归基本，从最简单最根本的地方重新开始
+no-show | We had 20 RSVPs but three people were no-shows. | 约好了却没出现的人；爽约（名词/动词均可用）
+be on a roll with something | I've been on a roll with my workouts lately — six days straight. | 在某件事上势头很旺、接连成功（"on a roll"单独用也常见）
+have a moment of clarity | I had a moment of clarity at 2 AM and finally figured out what was wrong. | 突然想清楚了，脑子里的迷雾散开，豁然开朗
+keep a low profile | After the controversy, the CEO decided to keep a low profile for a while. | 低调行事，不引人注目，刻意不出风头
+take a back seat | I've been taking a back seat on this project and letting the new hire lead. | 退居次位，不再主导，让别人来掌舵（坐后排 = 不开车）
+paint yourself into a corner | By promising both teams the same deadline, he really painted himself into a corner. | 把自己逼入绝境；自找麻烦，没有退路
+the proof is in the pudding | You can say the new strategy will work, but the proof is in the pudding — let's see the numbers next quarter. | 是骡子是马，拉出来遛遛；实践出真知
+a slippery slope | Allowing employees to skip one deadline is a slippery slope — soon nobody will respect timelines. | 滑坡效应；一旦开了口子就一发不可收拾
+pull strings | He pulled some strings to get his son an internship at the firm. | 走后门；动用关系/人脉
+throw someone a lifeline | The investor threw the startup a lifeline with a last-minute funding injection. | 给某人一根救命稻草；在关键时刻帮某人一把
+add fuel to the fire | Bringing up his past mistakes during the argument just added fuel to the fire. | 火上浇油；让已经糟糕的情况雪上加霜
+have the last laugh | Everyone doubted her business idea, but she had the last laugh when it went viral. | 笑到最后；最终证明自己是对的
+know which way the wind blows | A smart politician always knows which way the wind blows before making a statement. | 看风向；善于察觉形势走向，顺势而为
+fair game | Once you post something publicly, it's fair game for criticism. | 可以（被批评/攻击/讨论的）合理目标；什么都可以拿来说
+pass with flying colors | She studied hard and passed the certification exam with flying colors. | 以优异成绩通过；大获全胜
+at the drop of a hat | She's always ready to travel at the drop of a hat. | 随时、立刻、说走就走，不需要任何准备或理由
+easier said than done | Just stop worrying!" "Easier said than done, honestly. | 说起来容易做起来难（比英文教材里的字面意思更口语化）
+the bottom line | The bottom line is we don't have enough budget to launch this quarter. | 最重要的一点、关键所在、最终结论（来自财务报表的最后一行"净利润"）
+beg to differ | I have to beg to differ — the data actually shows the opposite trend. | 礼貌地表示不同意，相当于"我恕不苟同"（正式但非常常用）
+on the back foot | The sudden policy change put the whole team on the back foot. | 处于被动/劣势状态，措手不及
+cut it close | We cut it really close — the flight started boarding right as we arrived. | 差点没赶上、刚刚好、险些错过（时间或数量上勉强够）
+pick up the slack | With Mike out sick, the rest of us had to pick up the slack. | 补位、弥补空缺、顶上别人留下的工作
+lose your cool | I almost lost my cool in that meeting, but I managed to hold it together. | 失去冷静、情绪失控、发火
+give it your best shot | I've never done public speaking before, but I'll give it my best shot. | 全力以赴试一试、尽力而为（强调"尝试"而非保证结果）
+from scratch | We had to scrap the old codebase and build everything from scratch. | 从零开始、白手起家（不借助任何现有基础）
+be in hot water | He's in hot water with HR after that email went public. | 陷入麻烦中、处境不妙
+feel it in your bones | I don't have any proof, but I feel it in my bones that something's going to go wrong today. | 我没有证据，但我骨子里感觉今天会出问题。
+get the memo wrong | Everyone dressed casual for the party, but Jake clearly got the memo wrong — he showed up in a suit. | 大家都穿便装来派对，但 Jake 显然没搞清楚——他穿着西装出现了。
+throw the book at someone | The judge threw the book at him — twenty years with no chance of parole. | 法官对他判了最重的刑——二十年，不得假释。
+be a tough sell | Cutting everyone's vacation days by half is going to be a tough sell to the team. | 把大家的假期砍掉一半，跟团队解释起来会很难过关。
+have a way with words | She really has a way with words — her speech left everyone in tears. | 她真的很有语言天赋——她的演讲让所有人热泪盈眶。
+take someone under your wing | My senior colleague took me under her wing when I first joined the company. | 我刚加入公司时，一位资深同事把我带在身边悉心指导。
+go out the window | Once the deadline moved up, our original plan went right out the window. | 截止日期一提前，我们原来的计划就全泡汤了。
+be on the fritz | My laptop's been on the fritz all week — I need to get it fixed. | 我的电脑这一整周都在罢工，我得去修一修了。
+lose the plot | He completely lost the plot during the meeting and started yelling at everyone. | 他在会议上彻底失控，对着所有人大喊大叫。
+come out swinging | She came out swinging in the negotiation and refused to make any concessions. | 她在谈判中一开口就咄咄逼人，拒绝做任何让步。
+done deal | We shook hands — it's a done deal. | 已成定局，板上钉钉的事
+get the memo straight | Let me get the memo straight before I send the update to the team. | 真正搞清楚某件事的来龙去脉（区别于"get the memo"，这里强调"理清楚"）
+blow your own horn | I know it sounds like I'm blowing my own horn, but this feature was entirely my idea. | 自吹自擂，自我推销（也说 toot your own horn）
+have a lot of nerve | She had a lot of nerve asking for a raise after missing three deadlines. | 真有胆子 / 脸皮真厚（多含讽刺语气）
+be on the ball | Our new intern is really on the ball — she spotted the bug before anyone else. | 反应敏锐、做事高效、状态在线
+get something off your chest | I need to get something off my chest — I don't think this project is heading in the right direction. | 把心里憋着的话说出来、倾诉出来（说完会轻松很多）
+put your foot in your mouth | I really put my foot in my mouth when I said her presentation was "basic. | 说错话、说了不该说的、失言
+meet someone halfway | We can't give you a full refund, but we're willing to meet you halfway with a store credit. | 各退一步、相互妥协，达到折中
+cover your bases | Send the meeting invite to both managers — just to cover your bases. | 把各种情况都考虑到、做好万全准备（源自棒球，守好每个垒）
+pull back the curtain | This documentary really pulls back the curtain on how social media algorithms actually work. | 揭开幕后真相、让人看清真实情况
+go Dutch | Let's go Dutch tonight — I don't want anyone feeling like they owe anyone. | AA制，各付各的账
+kick the can down the road | We can't keep kicking the can down the road on this budget issue — we need to make a decision now. | 拖延问题，把麻烦推到以后再说
+take the fifth | When his wife asked where he'd been all evening, he just smiled and took the fifth. | 拒绝回答（尤指不想自证其罪或不想表态）；保持沉默
+be a wet blanket | Don't be such a wet blanket — it's a party, just loosen up a little! | 扫兴的人，让气氛冷场的人
+be on cloud nine | She's been on cloud nine ever since she got that job offer from Google. | 极度开心，飘飘然，欣喜若狂
+have it both ways | You can't have it both ways — either commit to the project or step aside. | 两全其美，鱼与熊掌都想兼得
+work in silos | The biggest problem here is that teams work in silos — nobody knows what anyone else is doing. | 各自为政，信息不共享，部门之间互相封闭
+let's table that | That's a great point, but let's table that for now and focus on today's age… | （美式英语）把这个议题搁置，暂时不讨论
+talk down to someone | I hate when my manager talks down to me in front of the whole team. | 用高高在上的口吻跟人说话，把对方当小孩或下等人对待
+be a straight arrow | He's a straight arrow — he'd never lie on his resume. | 指一个人非常正直、守规矩、不耍手段（有时也带有"死板"的意味）
+put something on ice | The whole expansion plan got put on ice after the budget cuts. | 把某件事暂时搁置、冻结，等以后再处理
+read someone the riot act | The coach read the team the riot act after they lost three games in a row. | 严厉训斥某人，正式警告对方停止某种行为
+be caught flat-footed | The reporter's question caught the CEO completely flat-footed. | 毫无准备地被抓个正着，或被突如其来的事搞得措手不及
+go to bat for someone | My boss actually went to bat for me when HR tried to cut my bonus. | 挺身为某人辩护、支持或出头
+pull no punches | The reviewer pulled no punches — she said the product was garbage. | 说话毫不留情，直来直去，不加修饰
+put your best foot forward | It's your first day at the new job — put your best foot forward. | 尽力展现最好的一面，全力以赴给人留下好印象
+be in someone's pocket | Half the city council is in the developer's pocket. | 被某人收买或完全控制，替对方办事（通常含贬义）
+call someone's bluff | He threatened to quit, so she called his bluff and said "go ahead. | 逼对方亮底牌，戳穿对方的虚张声势
+be cut from the same cloth | Those two always finish each other's sentences — they're cut from the same cloth. | 出自同一块布料 → 指两个人性格、背景、思维方式非常相似
+go through the wringer | The new hire really went through the wringer during onboarding — three back-to-back interviews and a presentation. | 经历一段非常艰难、折磨人的过程（wringer 是旧式洗衣机的脱水滚轴，把衣服压扁）
+pull the rug out from under someone | The client pulled the rug out from under us right before launch — they canceled the whole contract. | 突然撤走对别人的支持，让对方措手不及（像直接把地毯从脚下抽走）
+have an ace up your sleeve | Don't worry — we still have an ace up our sleeve if the negotiation gets tough. | 藏着一张王牌，有秘密的后手（源自扑克/纸牌作弊者把好牌藏在袖子里）
+be running on fumes | It's Friday night and I'm running on fumes — I need the weekend badly. | 只剩最后一点力气/资源勉强撑着（像汽车快没油只靠油箱底部的蒸汽跑）
+throw someone for a loop | His sudden resignation really threw us for a loop — nobody saw it coming. | 让某人完全不知所措、一时愣住（throw for a loop = 把人抛进一个旋转圈里）
+run it by someone | Let me run this plan by the team before we finalize it. | 把某件事告诉某人听听意见，征求看法或批准
+a gut punch | Hearing that the project got canceled was a real gut punch. | 令人震惊或难以接受的打击（gut = 肠胃，比喻"被打了一拳"）
+get a read on something | It's hard to get a read on how the client feels about the proposal. | 摸清某件事或某个人的状况、真实想法
+not hold your breath | He said he'd call back, but I wouldn't hold my breath. | 别指望这件事发生，别抱太大希望（字面：别憋气等）
+dial it in | We're still dialing in the new workflow — give us a few more days. | 把某件事调整到最佳状态，搞定细节让一切运转顺畅
+get with the program | Everyone else has adapted to the new system — you need to get with the program. | 跟上节奏，接受现实，别拖后腿（语气可以是催促或不满）
+you do you | I'm going to wear a hoodie to the interview." — "Honestly, you do you. | 你随便，你按自己的方式来，不干涉别人的选择（表示尊重或无所谓）
+the elephant left the room | Once the CEO acknowledged the layoffs directly, the elephant finally left the room. | 之前大家都刻意回避的敏感话题终于被点破或消失了（对比"elephant in the room"大家都不提的问题）
+deadpan | He delivered the joke in a completely deadpan voice, and no one could tell if he was serious. | 面无表情地（说笑话），一本正经地耍幽默
+lowball | The contractor lowballed the estimate just to get the contract, then charged way more later. | 故意给出一个很低的报价；低估某事
+be a tough crowd | I tried telling a few jokes in the meeting, but it was a tough crowd. | 这批观众/听众很难取悦，很难让他们满意或笑起来
+take someone's word for it | I've never been to Tokyo, but she says it's amazing — I'll take her word for it. | 相信某人说的话，不去验证
+get the short straw | Someone had to stay late on Friday, and I got the short straw. | 抽到签，摊上最倒霉/最差的那份
+run with it | The manager gave me a rough idea and said, "Just run with it. | 接过这个想法/任务，放手去做，不用等更多指示
+get your head in the game | You've been distracted all morning — get your head in the game before the presentation. | 集中注意力，专注投入，别走神
+face the music | He made the mistake, and now he has to face the music. | 勇于承担后果，为自己的行为负责
+go off the deep end | She went off the deep end when she found out her project got canceled. | 突然情绪失控、反应过激，或做出极端行为
+be on the same team | Hey, calm down — we're on the same team here. Let's figure this out together. | 我们是同一边的，不要内耗，要合作
+catch some z's | I only have 20 minutes — I'm gonna catch some z's in the car. | 打个盹儿；睡一觉
+a bit much | His reaction was a bit much — it was just a small mistake. | 有点过分；太过了（语气较委婉）
+in the know | Talk to Sarah — she's always in the know about what's happening at the office. | 知情的；消息灵通的
+blow the lid off something | The investigative report blew the lid off the company's fraud scheme. | 揭露真相；把秘密/丑闻曝光出来
+hold the fort | Can you hold the fort while I grab lunch? I'll be back in 30. | 守摊儿；在别人不在时负责看守、维持局面
+eat someone alive | Don't go into that meeting unprepared — the VP will eat you alive. | 把某人批得体无完肤；狠狠整治某人
+be on thin ice with someone | I forgot her birthday — I'm already on thin ice with her. | 与某人关系岌岌可危；快惹怒某人了
+play favorites | Our manager always plays favorites — the new guy gets all the easy projects. | 偏心；对某人特殊照顾
+go the extra mile for someone | She really went the extra mile for us — stayed late to fix the whole thing. | 为某人多付出一份；超出职责范围去帮忙
+have a meltdown | She had a complete meltdown when her presentation crashed right before the meeting. | 情绪崩溃、彻底爆发（因压力或沮丧而失控）
+go out of your way | He really went out of his way to make sure the new hire felt welcome on her first day. | 特意费心、不嫌麻烦地为某人做某事
+take something personally | Don't take it personally — the feedback is about the project, not you. | 把（批评/玩笑）往心里去，对号入座
+knock it off | Hey, knock it off! I'm trying to focus over here. | 住手！别闹了！（叫人停止烦人行为）
+be up in arms | The whole team was up in arms when they heard the company was cutting remote work benefits. | 群情激愤、强烈抗议
+chew someone out | My manager chewed me out for missing the deadline without giving any heads-up. | 严厉训斥某人、劈头大骂
+ride the wave | The startup managed to ride the wave of the AI boom and doubled its valuation in six months. | 顺势而为、借助热潮乘势而上
+give someone the benefit | She's been late three times, but I'll give her the benefit — maybe there's something going on at home. | 给某人一次机会、以善意的角度解读（常说 give the benefit of the doubt，此处口语简化版）
+be a stretch | Calling him a "genius" is a bit of a stretch — he just got lucky on that one. | 有点牵强、有些夸张、难以置信
+take the wheel | Our manager is out sick, so Sarah's taking the wheel on this project. | 掌控局面，接手主导权
+loop me in | Once you hear back from the client, loop me in on the thread. | 把我也拉进来（信息/邮件/群组），让我知情
+drag one's feet | Stop dragging your feet — the deadline is tomorrow! | 拖拖拉拉，故意拖延
+all ears | I have something important to tell you." — "I'm all ears. | 我在听，洗耳恭听（表示专注、愿意倾听）
+go the extra mile | She always goes the extra mile for her clients, even answering emails on weekends. | 多付出一份努力，超出预期地做某事
+a dime a dozen | Influencers who just post selfies are a dime a dozen. What sets you apart? | 非常普通、随处可见、不稀罕（"一毛钱一打"，极为廉价）
+keep it on the down low | I got promoted, but keep it on the down low until the official announcement. | 保密，悄悄的，不要让别人知道
+above board | Everything we do here is completely above board — no shady deals. | 光明正大，合规合法，没有猫腻
+take something with a grain of salt | Take his reviews with a grain of salt — he tends to exaggerate. | 对某事半信半疑，不要全盘接受
+blow off steam | After a brutal week at work, she went to the gym to blow off some steam. | 发泄情绪，释放压力（如运动、抱怨等方式）
+pull the plug | The company decided to pull the plug on the project after months of losses. | 叫停、终止某件事（通常指项目、计划或设备）
+on the same page | Before we start, let's make sure everyone is on the same page about the timeline. | 达成共识、理解一致，大家想法相同
+go down a rabbit hole | I went down a rabbit hole reading about ancient Rome and lost three hours. | 深陷某个话题/问题无法自拔，越钻越深
+punt on something | We decided to punt on the new feature for now and focus on fixing bugs. | 放弃做某事、跳过、把决定推后
+have skin in the game | The investors have real skin in the game — they'll lose money if this fails. | 自身利益与结果挂钩、有切身利害关系
+take a rain check | I'd love to join you for lunch, but can I take a rain check? I'm swamped today. | 这次不去了，改天再说；委婉拒绝但留下可能性
+not my wheelhouse | Legal contracts aren't really my wheelhouse — you should ask our lawyer. | 不是我的专长领域，这不归我管/我不擅长这个
+run something up the flagpole | Let me run this idea up the flagpole and see if leadership is interested. | 把想法抛出来试探一下，看看大家的反应
+sell like hotcakes | Their new wireless earbuds are selling like hotcakes. | 畅销，像热锅里的煎饼一样卖得飞快
+burn the midnight oil | I burned the midnight oil to finish the report before the deadline. | 挑灯夜战，熬夜工作或学习
+leave someone in the lurch | He quit without notice and left the whole team in the lurch. | 把某人撂在烂摊子里，关键时刻抛下某人不管
+sit on the fence | You can't sit on the fence forever — just pick a side. | 骑墙观望，不表态，两边都不得罪
+Call it a day | We've been debugging for six hours. Let's call it a day and pick this up tomorrow. | 今天到此为止；收工
+Get your ducks in a row | Before you pitch to investors, make sure you get your ducks in a row. | 把一切安排妥当；做好充分准备
+Come out of left field | Her resignation came out of left field — nobody saw it coming. | 出乎意料；从完全没想到的地方冒出来
+Beat around the bush | Stop beating around the bush — just tell me if you're giving me the raise or not. | 拐弯抹角；说话不直接
+put something on the back burner | We're going to put the new feature on the back burner until we fix the existing bugs. | 把某事暂时搁置、放到次要位置（不是不做，只是先缓缓）
+take the wind out of someone's sails | His harsh feedback really took the wind out of my sails right before the launch. | 给某人泼冷水、让人顿时泄气
+connect the dots | Once you connect the dots, you'll see why the product flopped. | 把零散信息串联起来、看清全局
+go back to the drawing board | The prototype failed testing, so we had to go back to the drawing board. | 推翻重来、回到起点重新设计
+drop the ball | I really dropped the ball on that client email — I forgot to attach the file. | 犯了失误、搞砸了、没接住
+have a lot on one's plate | I'd love to help, but I've got a lot on my plate this sprint. | 手头事情太多、忙得不可开交
+it's a wash | We saved on flights but spent more on the hotel, so it was basically a wash. | 不赚不亏、打平了、两相抵消没有实质差别
+take the bait | He tried to provoke me in the meeting, but I wasn't going to take the bait. | 上钩、中计、被激将成功（字面：咬住鱼饵）
+hit the jackpot | I hit the jackpot with this job — great pay, great team, and I work from home. | 走大运、中了头彩（不一定是字面意思的彩票，泛指"运气爆棚"）
+get the short end of the stick | As usual, the interns got the short end of the stick and had to work the holiday shift. | 吃亏、分到最差的那份、被不公平对待
+throw money at a problem | You can't just throw money at a problem and expect it to go away. | 砸钱解决问题（隐含"不动脑子、治标不治本"的意味）
+have a chip on your shoulder | Ever since he got passed over for promotion, he's had a chip on his shoulder. | 耿耿于怀、总觉得别人针对自己、心里憋着一股气
+in over one's head | I took on three projects at once and now I'm totally in over my head. | 超出了自己能力范围、把自己坑进去了、力不从心
+come to a head | The tension between the two departments finally came to a head at Monday's meeting. | （矛盾/问题）到了爆发点、终于到了不得不解决的关头
+jump on the bandwagon | Every startup jumped on the AI bandwagon after ChatGPT went viral. | 随大流、跟风、赶潮流
+get a taste of one's own medicine | He was always interrupting people in meetings — until someone interrupted him for once. He got a taste of his own medicine. | 自食其果、以其人之道还治其人之身
+do a 180 | She said she'd never move to another city, but after the job offer, she did a complete 180. | 来了个一百八十度大转弯、态度/立场完全翻转
+sweep something under the rug | They tried to sweep the accounting error under the rug, but the auditors found it. | 把问题或丑闻掩盖起来，假装没发生
+a piece of work | Your new boss sounds like a real piece of work — demanding and never satisfied. | 形容某人很难搞、个性复杂（通常带负面含义）
+on the fritz | My laptop's been on the fritz all morning — I can't get anything done. | （设备、系统）出故障了、运转不正常
+get your act together | You've missed three deadlines this month. You really need to get your act together. | 振作起来，把自己的事情理顺、拿出行动
+have a soft spot for | She has a soft spot for stray cats — she's already adopted four. | 对某人/某事特别偏爱、心软
+piggyback on something | Can we piggyback on the existing survey and add a few of our own questions? | 借助、搭便车于别人已有的成果或资源
+get down to brass tacks | Enough small talk — let's get down to brass tacks and discuss the budget. | 直奔主题，谈实质性的事情（跳过寒暄废话）
+shoot from the hip | He tends to shoot from the hip in meetings, which sometimes gets him in trouble. | 凭直觉/冲动说话或行动，不经过深思熟虑
+bang for your buck | This laptop gives you the most bang for your buck in its price range. | 花同样的钱得到更多价值，性价比高
+get the memo | Did nobody get the memo? The meeting was moved to 3 PM. | 得知某个信息或跟上形势（常用于反问/讽刺，暗示对方没跟上）
+on borrowed time | That startup has been burning cash for months—they're on borrowed time. | ⏳ 在借来的时间里苟延残喘，随时可能终结
+by the skin of one's teeth | I submitted the report by the skin of my teeth—literally one minute before the deadline. | 勉强逃过，险之又险，差点没成功
+wind down | I usually wind down by watching Netflix before bed. | 慢慢放松下来、逐渐结束（活动或工作）
+not hold a candle to | The remake is okay, but it doesn't hold a candle to the original. | 远不及，无法与……相比（贬义，表示差距很大）
+you can't have it both ways | You want more pay but fewer hours? You can't have it both ways. | 鱼和熊掌不可兼得，不能两头都占
+from the get-go | I knew from the get-go that this project was going to be a nightmare. | 从一开始，从头到尾
+walk it back | After the backlash, the CEO tried to walk back his comments about layoffs. | 收回之前说的话/做的决定，撤回立场
+get ahead of something | We should get ahead of this bug before it hits production. | 提前应对，在事情变糟之前主动处理
+throw the kitchen sink at | They threw the kitchen sink at the campaign — ads, influencers, billboards, everything. | 倾尽全力，把所有能用的手段都用上
+put two and two together | She didn't tell me she was leaving, but I put two and two together when I saw the boxes. | 把各种线索拼在一起、自己推断出结论（不用别人明说就想通了）
+a long shot | Applying to Harvard is a long shot, but it's worth trying. | 希望渺茫的事，成功概率很低的尝试
+hit the sack | I'm exhausted. I'm gonna hit the sack early tonight. | 去睡觉（非常口语，朋友之间常用）
+the jury's still out | The jury's still out on whether remote work is better for productivity. | 还没有定论，结果尚不明朗（用于表示某事悬而未决）
+leave well enough alone | The design looks great already — just leave well enough alone. | 别画蛇添足，别把好好的东西搞砸（劝人不要多此一举）
+read between the lines | She said she was 'fine,' but reading between the lines, she was clearly upset. | 看出言外之意，理解没有明说的深层含义
+Not gonna lie | Not gonna lie, that presentation was pretty boring. | 说实话、不骗你（表示坦诚，常放在句首）
+Get a handle on | It took me a week to get a handle on the new system. | 掌握、搞懂、控制住某事
+On a roll | She's on a roll — she closed three deals this week. | 势头正好、连续顺利、状态火热
+Pin something down | We need to pin down the launch date before next Friday. | 把某事确定下来、明确细节
+sweat the small stuff | The launch is in two days — don't sweat the small stuff, focus on what matters. | 为小事焦虑、纠结细节
+talk shop | We ended up talking shop the whole dinner instead of relaxing. | 在非正式场合聊工作/行业话题
+make a beeline for | As soon as the meeting ended, she made a beeline for the coffee machine. | 径直冲向某处/某人，毫不犹豫
+level the playing field | Remote work has leveled the playing field for candidates outside major cities. | 创造公平竞争的环境，让大家站在同一起跑线
+take stock of something | After the product launch flopped, we took stock of what went wrong. | 停下来认真审视/评估某事的现状
+dog whistle | That comment about 'real Americans' is a dog whistle to his base. | （政治/职场）表面无害、实际针对特定群体的暗语或暗示
+be on the hook | If the deal falls through, you're on the hook for the deposit. | 承担责任，脱不了干系
+get in the weeds | Stop getting in the weeds — we need a high-level strategy first. | 陷入繁琐细节中，看不到全局（职场高频！）
+cop out | Saying you're "too busy" to help is such a cop out. | 逃避责任；找借口推脱
+in a heartbeat | If they offered me that job, I'd say yes in a heartbeat. | 毫不犹豫地；立刻，马上
+take something lying down | I'm not going to take this unfair treatment lying down. | 逆来顺受；默默忍受（通常用于否定句，表示不甘心忍受）
+put up with | I don't know how she puts up with his constant complaining. | 忍受；将就接受
+give it a shot | I've never done public speaking before, but I'll give it a shot. | 试一试；尝试一下
+have a ball | We had a ball at the company retreat last weekend. | 玩得很开心；尽情享乐
+be on the mend | She was really sick last week, but she's on the mend now. | （病情或状况）在好转中；逐渐恢复
+dead to rights | The security footage caught him dead to rights. | 当场抓获；证据确凿，无从抵赖
+shoot your shot | I know it's a long shot, but I'm gonna shoot my shot and apply for that senior manager role. | 鼓起勇气去尝试，尤其指大胆追求某人或某事
+get the lay of the land | It's my first week here — I'm just trying to get the lay of the land before I make any big moves. | 摸清情况，了解环境或现状
+talk someone's ear off | Watch out — once you ask him about his cats, he'll talk your ear off for an hour. | 滔滔不绝地说个没完，把对方"说到耳朵起茧
+put someone on blast | She put her landlord on blast on Twitter after he refused to fix the heating for two weeks. | 当众批评或曝光某人（常用于社交媒体语境）
+go sideways | The product launch went sideways when the server crashed on day one. | 事情出岔子、失控、走向不好的方向（计划没按预期进行）
+swing for the fences | This quarter, I say we stop playing it safe and swing for the fences. | 放手一搏、不计后果地追求最大成果（来自棒球，指使劲挥棒打本垒打）
+have a leg to stand on | Without any receipts, you don't have a leg to stand on in this dispute. | 有理有据、站得住脚（常用于否定句：not have a leg to stand on = 毫无依据）
+put something to bed | Let's put this debate to bed once and for all — we're going with option B. | 把某件事彻底搞定、告一段落（就像哄孩子睡觉，彻底"安置好"）
+get the runaround | I called customer service three times and just kept getting the runaround. | 被人踢皮球、转来转去得不到真正的答复或帮助
+sleep on it | I'm not sure about this job offer — let me sleep on it and get back to you tomorrow. | 先睡一觉再决定；暂时搁置，等明天再想
+shoot the moon | She decided to shoot the moon and pitch her startup directly to the biggest investor in the room. | 豪赌一把；放手去追求极高目标
+be in someone's good books | Ever since he fixed the server issue, he's been in the CTO's good books. | 受某人赏识；被某人看好
+hit the books | Finals are in two weeks, so I really need to hit the books this weekend. | 用功学习；埋头读书
+let it ride | The plan has some risks, but let's just let it ride and see what happens. | 顺其自然，维持现状，不去改变或干预
+a wild goose chase | Trying to get a refund from that company sent me on a wild goose chase for two hours. | 白费力气的徒劳追寻；瞎折腾
+get bent out of shape | Don't get bent out of shape over a five-minute delay — it's not a big deal. | 为小事大动肝火，气得变形；不必要地烦躁
+throw your hat in the ring | She finally threw her hat in the ring and announced she's running for team lead. | 宣布参与竞争；正式报名参战
+ride it out | The market's rough right now, but we've got enough runway to ride it out. | 熬过去；撑过艰难时期
+keep your nose to the grindstone | It's crunch time — everyone needs to keep their nose to the grindstone this week. | 埋头苦干，持续努力不懈怠
+front and center | Customer satisfaction needs to be front and center in every product decision we make. | 处于最显眼的位置；被重点关注；摆在首位
+scrape by | We were scraping by on one income after he lost his job. | 勉强度日 / 将将够用
+throw cold water on | I was so excited about the road trip, but she threw cold water on the whole idea by listing every possible problem. | 泼冷水，打击（热情/计划）
+have a go at | I'd never made sushi before, but I decided to have a go at it. | 试试看；（也可以指）批评某人
+blow it out of proportion | He missed one deadline and they're acting like he ruined everything — they're totally blowing it out of proportion. | 把事情夸大，小题大做
+sit tight | The results won't be out until Friday — just sit tight. | 先别动，耐心等待
+talk out of both sides of your mouth | He told management the plan was brilliant, then told the team it would fail — he's talking out of both sides of his mouth. | 说话两面三刀，前后矛盾
+keep someone in the dark | They kept the whole team in the dark about the merger until the last minute. | 故意瞒着某人，不让其知情
+lay low | After the scandal, he decided to lay low for a few months. | 保持低调，躲避风头
+take a nosedive | Sales took a nosedive after the bad reviews came out. | 急剧下滑，骤然跌落
+get played | I trusted him completely and got played — he never intended to pay me back. | 被耍了，被骗了
+get the gist | I didn't read the whole report, but I got the gist from the summary. | 抓住重点，大概明白了
+suck it up | I know the commute is brutal, but just suck it up for another month. | 忍一忍，撑过去（别抱怨了）
+in the hot seat | The CEO was in the hot seat during the congressional hearing. | 处于被质疑/被追责的位置
+have a say | Everyone on the team should have a say in how we run the project. | 有发言权，有参与决定的权利
+twist someone's arm | Come on, just come to the party." "Fine, you twisted my arm! | 施压说服某人，逼着某人做某事（有时带玩笑语气）
+the ball is in your court | I've made my offer — the ball is in your court now. | 该你出招了，决定权在你手里
+keep tabs on | My boss keeps tabs on everything I do — it's exhausting. | 持续关注/暗中盯着某人或某事
+off the rails | The meeting went completely off the rails after someone brought up the budget. | 彻底失控、脱轨；事情或某人"走偏"了
+be on the bubble | Three candidates are on the bubble — only one gets the offer. | 处于刚好及格或被淘汰的临界线上（体育/职场均常用）
+take the scenic route | He took the scenic route explaining his point — just say it straight! | 字面是走风景路，但口语中常指"绕了远路"或"话说得很啰嗦
+have an axe to grind | She's not being objective — she has an axe to grind with that department. | 心怀不满、有私怨或有私利，做事带着情绪/目的（axe = 斧头，grind = 磨）
+throw a wrench in (something) | The last-minute budget cuts really threw a wrench in our product launch. | 突然搅局、破坏计划，就像把扳手扔进机器里
+be in the driver's seat | Since we have three competing offers, we're in the driver's seat during negotiations. | 掌握主动权、处于主导地位
+stick your neck out | She stuck her neck out to recommend me for the promotion. | 冒险为某人/某事发声，甘愿承担风险（像乌龟把头伸出壳外）
+come to grips with | It took me months to come to grips with the fact that I'd been laid off. | 开始认真面对、接受某件困难的事
+talk the talk | He talks the talk in interviews, but he never actually delivers results. | 只会说漂亮话、只是嘴上说说，常与 "walk the walk"（言行一致）对比使用
+leave money on the table | You accepted the first offer without negotiating? You definitely left money on the table. | 没把到手的利益拿到位，白白放弃了本可得到的好处
+run a tight ship | Our new manager runs a tight ship — meetings start exactly on time, every time. | 管理严格高效，纪律严明（源自海军用语，船只管理有序）
+get a second opinion | I'm not happy with the contractor's estimate — I'm going to get a second opinion before signing anything. | 再征询另一位专家/他人的意见，不轻易接受第一个判断（医疗、法律、职场均常用）
+buck up | Come on, buck up — the presentation isn't until noon, you still have time. | 振作起来，打起精神
+cop to something | He finally copped to forgetting the deadline. | 承认（做了某件事），坦白
+on a tear | The sales team has been on a tear this quarter — three record weeks in a row. | 势头正猛，状态极佳（连续做成好事）
+have a soft landing | She negotiated a severance package that gave her a soft landing after the layoff. | 平稳过渡，顺利落地（多用于经济/职业转型）
+run down the clock | They knew they were ahead, so they just ran down the clock in the last quarter. | 拖时间，耗时间（故意不让对方有机会）
+get under someone's skin | I don't know why, but his constant interruptions really get under my skin. | 让某人烦透了，惹人心烦
+lean into something | Instead of hiding the delay, lean into it — be transparent with the client. | 顺势而为，主动拥抱/接受某事（不逃避，反而加大力度）
+be a hot mess | After pulling two all-nighters, I was a complete hot mess at the presentation. | 形容人或事情一团糟、乱得一塌糊涂
+have a moment | Pickle-flavored everything is really having a moment right now. | 短暂地爆火/走红；也可指某人正处于高光时期
+spitball | Let's just spitball some ideas before we commit to anything. | 随便抛出想法，头脑风暴，非正式地提出建议
+get egg on your face | He predicted the stock would soar, but it crashed — now he's got egg on his face. | 出丑、当众丢脸
+play second fiddle | She's tired of playing second fiddle to her older brother in every family decision. | 屈居次位，甘当配角
+hit it off | We met at a conference and immediately hit it off — we've been friends ever since. | 一见如故，一拍即合
+in the cards | A promotion seemed in the cards after all the great work she'd done. | 注定会发生，在意料之中
+come out on top | It was a tough negotiation, but our team came out on top. | 最终胜出，笑到最后
+put someone through their paces | The interviewer really put me through my paces — three rounds of technical questions. | 全面考验某人，让人展示真本事
+have your cake and eat it too | You can't work remotely and still expect a corner office — you can't have your cake and eat it too. | 既想要这个又想要那个，鱼和熊掌想兼得
+up in the air | The launch date is still up in the air — we're waiting for final approval. | 悬而未决，还没定下来
+pull a fast one | He pulled a fast one on us by submitting someone else's work as his own. | 耍花招；骗人；使出小手段
+get schooled | I thought I was good at chess, but I got totally schooled by a ten-year-old. | 被教训了一顿；被人完虐；吃了亏
+go nuts | The crowd went nuts when the band walked on stage. | 抓狂；超级兴奋；疯了
+catch heat | The manager caught a lot of heat after the project failed. | 受到批评/压力；被人骂
+jam-packed | The subway was jam-packed during rush hour — I couldn't even move. | 塞得满满当当的；人山人海
+a hard pass | Free skydiving? That's a hard pass from me. | 坚决拒绝；不感兴趣（比 no thanks 更强烈）
+it's giving… | That outfit is giving total 90s rockstar. | 感觉很像……；有一种……的氛围（新生代网络口语）
+go out like a light | After the 12-hour shift, she went out like a light the moment she hit the bed. | 立刻睡着；一沾枕头就熟睡
+be dead set on something | He's dead set on moving to New York, no matter what anyone says. | 铁了心要做某事，心意已决
+bring the house down | Her stand-up set brought the house down — people were laughing for five minutes straight. | 让全场轰动，演出/表现引发热烈反响
+on the chopping block | Three departments are on the chopping block after the merger. | 面临被砍掉/裁撤的危险（项目、职位等）
+bury the hatchet | After months of tension, the two teams finally buried the hatchet and started collaborating. | 握手言和，化干戈为玉帛（彻底结束争端、和解）
+take something at face value | Don't take everything he says at face value — he tends to exaggerate. | 按字面意思理解，不深究，照单全收
+wrap up | Let's wrap up here — we can pick this up again tomorrow. | 收尾，结束，搞定（会议、工作、讨论等）
+on a knife's edge | The negotiations are on a knife's edge — one wrong move could blow the whole deal. | 如履薄冰，处于极度不确定或危险的边缘
+be in a bind | I'm in a real bind — I promised both friends I'd go to their parties on the same night. | 陷入两难，进退两难，处于困境
+have a bone to pick with someone | Hey, I have a bone to pick with you — you took credit for my idea in that meeting. | 对某人有不满/有话要跟某人说清楚（通常带点怨气）
+that tracks | She didn't show up again? Yeah, that tracks — she's been flaky all month. | 这说得通 / 这合理 / 这跟我的预期一致（口语确认语）
+put a pin in it | Great question, but let's put a pin in it and come back after the demo. | 先把这个问题放一放，等会儿再说
+take the temperature of something | Before we propose the policy change, let's take the temperature of the team first. | 摸摸风向 / 探一探某事的氛围或大家的态度
+dead on arrival (DOA) | That proposal was dead on arrival — the budget cuts made it impossible. | 注定失败的 / 一出来就死了（项目、想法或提案在开始前就没有希望）
+stay in one's lane | I know you have opinions about the design, but maybe stay in your lane — that's the UX team's call. | 管好自己的事 / 不要越界插手别人的领域
+move fast and break things | The startup culture was all about move fast and break things, which made some veterans nervous. | 快速行动，容许犯错（科技/创业圈文化：优先速度和迭代，不怕出错）
+get ahead of the curve | We need to get ahead of the curve on AI tools before our competitors do. | 走在时代/趋势前面 / 提前布局，先人一步
+be all over the place | Her presentation was all over the place — no clear structure at all. | 乱七八糟、没有条理、思路混乱
+live rent-free in someone's head | That comment he made is living rent-free in my head. | （某人或某事）一直在脑子里挥之不去，占据心理空间
+have a rough go of it | She's had a rough go of it lately — lost her job and then got sick. | 日子过得很艰难，经历了一段不容易的时期
+eat the frog | I always eat the frog first thing in the morning so the rest of the day feels easier. | 先做最难/最不想做的事（职场常用）
+skate on thin ice | You're skating on thin ice by missing deadlines again. | 走钢丝、做冒险的事、处境危险
+punch the clock | He's just punching the clock these days — not really invested in the work. | 按时上下班打卡，通常暗含"只求完成任务、没有热情"之意
+read someone for filth | She read him for filth in front of the whole team — he deserved it. | 当众把某人批得体无完肤，毫不留情地拆穿或嘲讽
+circle the wagons | When the press started asking tough questions, the company circled the wagons. | 抱团防御、对外采取守势（面对攻击或危机时团结自保）
+take a victory lap | She deserved to take a victory lap after landing that deal. | 庆祝/炫耀自己的成功（通常是公开的、带点小骄傲的那种）
+get on someone's case | My manager keeps getting on my case about the report. | 不断催促/批评某人，让人烦
+work the room | He walked in and immediately started working the room like a pro. | 在聚会/活动中主动与各种人交谈、建立关系（社交达人必备）
+get your groove back | After the breakup, it took him months to get his groove back. | 重新找回状态/节奏（从低谷中恢复）
+have thick skin | You need thick skin to work in sales — rejection is part of the job. | 脸皮厚、承受力强（正面含义，不受批评/负面评价影响）
+punt the issue | They punted the issue to legal instead of making a call. | 把问题踢给别人或推迟决定，不正面处理（职场避雷词）
+a dumpster fire of one's own making | Their product launch was a dumpster fire of their own making — they ignored every warning. | 纯属自作自受的一团乱（语气较强，带点嘲讽）
+be on a different page | I thought we agreed on the timeline, but it seems we're on a different page. | 想法/理解不在同一频道上（on the same page 的反义用法，实际更常听到）
+vibe with someone | I really vibe with her — we literally think the same way. | 跟某人很合拍、有共鸣，相处来感觉自然舒服
+hold the line | The team is under pressure to cut costs, but the manager held the line on quality. | 坚守立场，不妥协；也可字面意思"请稍候/别挂电话
+it's giving（…vibes） | That outfit is giving CEO energy. | 给我一种……的感觉/氛围（网络流行语，源自黑人英语 AAVE，现已广泛使用）
+slay | She absolutely slayed that presentation — everyone was impressed. | 表现超赞、完全碾压；也可用于夸人"你太厉害了
+catch you on the flip side | Alright, I gotta run — catch you on the flip side! | 再见，下次见！（轻松随意的道别用语）
+that's a wrap | Alright, we hit all our targets for Q2 — that's a wrap, folks! | 大功告成，结束了（源自电影拍摄术语，导演喊 "wrap" 表示收工）
+not gonna cut it | Working two hours a day on this project is not gonna cut it if we want to meet the deadline. | 不够用、达不到要求、行不通
+in a New York minute | If they offered me that job, I'd say yes in a New York minute. | 极快地、立刻（形容纽约节奏快，一秒钟都是高速运转的）
+lose sleep over | Don't lose sleep over what others think — just do your best. | 为某事担心到睡不着；也常用否定形式"I wouldn't lose sleep over it"表示"不值得担心
+on the brink | After three failed products, the startup was on the brink of shutting down. | 处于……的边缘，即将发生（通常用于危机或重大转折）
+take a mulligan | I completely messed up my first presentation—can I take a mulligan? | 重来一次；不算，再来一次
+dead ringer | She's a dead ringer for Taylor Swift—I did a double take. | 长得一模一样的人；酷似某人/某物
+hat trick | He closed three deals in one afternoon—a hat trick. | 帽子戏法；连续三次成功
+be a people person | You'd be great in sales—you're such a people person. | 擅长与人打交道；外向、善于社交
+run something into the ground | He ran that startup into the ground by refusing to take any advice. | 把某事/某物搞垮；过度使用直至完全报废
+come out of nowhere | This band came out of nowhere and now they're everywhere. | 横空出世；突然冒出来，完全出乎意料
+take a hard look at | After the project failed, we need to take a hard look at our process. | 认真审视；严肃重新评估
+That hit different | Listening to this song at 2 AM really hits different. | 这次感受特别不一样，有种说不出的触动（比普通的"好听/好看"更深一层的感受）
+Get owned | He tried to argue with the professor and got completely owned in front of the whole class. | 被彻底打脸、被碾压、被惨虐（源自游戏文化，后广泛用于生活）
+Be sus | Why did he leave the meeting early? That's really sus. | 可疑的、看着不对劲（suspicious 的缩写，因游戏《Among Us》爆红）
+Be a catch | She's smart, funny, and kind — she's a total catch. | 是个好对象、条件很好的人（指某人在感情上非常值得追求）
+Have someone's number | Don't try to fool me — I've had your number since day one. | 完全看透了某人、知道对方的把戏
+Be on fleek | Her eyebrows are always on fleek — I need to know her secrets. | 完美无瑕、状态极好（多用于形容妆容、造型、外表）
+Go whole hog | If you're redecorating, why not go whole hog and redo the whole apartment? | 全力以赴、一不做二不休、彻底干到底
+Spill the beans and own it | You already spilled the beans, so just own it and apologize. | 坦白了就认了、既然说出来了就勇敢承担（"spill the beans" = 不小心说漏嘴）
+That's not a bug, it's a feature | My apartment is tiny, but that's not a bug, it's a feature — it's cozy! | 把缺陷包装成特色（幽默地为某个明显的缺点辩解，源自程序员梗）
+be on the level | I need to know — are you being on the level with me about what happened? | 诚实、坦率、没有欺骗
+give someone the third degree | My mom gave me the third degree when I came home at midnight. | 对某人进行严厉盘问、刨根问底
+have a snowball's chance in hell | He thinks he can win the championship? He doesn't have a snowball's chance in hell. | 几乎没有任何成功的可能，希望渺茫
+go off the reservation | The marketing team went off the reservation and launched the campaign without approval. | 擅自行动、偏离既定方向、"出格
+be a tough row to hoe | Starting a business with no funding is a tough row to hoe, but he's doing it. | 是一条艰难的路，面临很大的挑战
+hit the sweet spot | This new product hits the sweet spot between quality and affordability. | 恰到好处，找到最完美的平衡点
+keep your ear to the ground | Keep your ear to the ground — word is the company might be hiring again. | 留意最新动态，随时掌握消息
+shoot the works | We only have one shot at this pitch — let's shoot the works. | 全力以赴，孤注一掷，把所有都押上
+pull the wool over someone's eyes | Don't let him pull the wool over your eyes — he's been lying about the numbers all along. | 蒙骗某人，让人看不清真相
+be chomping at the bit | The team is chomping at the bit to launch the new product. | 迫不及待、跃跃欲试
+go off without a hitch | The wedding went off without a hitch — everything was perfect. | 一切顺利、没有任何差错
+screw the pooch | We really screwed the pooch on that client presentation. | 把事情彻底搞砸
+pigeonhole someone | Don't pigeonhole her as just a data analyst — she's incredibly creative. | 给某人贴标签 / 把某人局限在某个框框里
+be a toss-up | It's a toss-up between the two candidates — both are equally qualified. | 难分高下、五五开
+do a number on someone | That breakup really did a number on him — he was depressed for months. | 对某人造成严重伤害/打击（身体或心理上）
+cream of the crop | Only the cream of the crop get internships at top tech companies. | 最优秀的一批人/物 / 佼佼者
+be a fixer | When things go sideways, call Marcus — he's a fixer. He'll sort it out. | 善于摆平麻烦、解决问题的人（尤指能走关系、搞定棘手事的人）
+have a stake in something | Everyone on the team has a stake in this product launch — let's not drop the ball. | 在某事中有利益关系；对某事有切身利益
+go to the mat for someone | Our manager really went to the mat for us when they tried to cut our budget. | 为某人全力以赴、拼尽全力去争取/辩护
+be a dealbreaker | No remote work policy? That's a dealbreaker for me — I'm not taking the offer. | 一票否决的条件；某个让人无法接受的关键问题
+work out the kinks | The new system is mostly good, we just need a week to work out the kinks. | 解决小问题/磨合细节，把事情调整到顺畅运转
+have a leg up on the competition | With three years of experience in AI, she has a real leg up on the other candidates. | 比竞争对手占有优势，领先一步
+blow past something | We set a goal of 10,000 users, and we blew past it in the first month. | 轻松超越/远远超出某个数字或目标（速度之快令人印象深刻）
+burn daylight | Stop overthinking — we're burning daylight! Let's just start. | 浪费时间、磨蹭耽误事（daylight=白天的时光）。
+be out of the loop | Sorry, I've been traveling — I'm totally out of the loop. What did I miss? | 不知情、被排除在消息圈之外。
+have thin skin | He means well, but he has such thin skin — any critique sets him off. | 玻璃心、经不起批评或玩笑（与 have thick skin 相反）。
+it's a slow burn | This show is a slow burn — it takes three episodes to really hook you. | 慢慢发酵/升温的事物，效果不是立竿见影，而是逐渐显现。
+not about the money — 换：be a done deal | Don't bother negotiating — the merger is a done deal. | 已成定局、板上钉钉，没有讨论余地。
+nothing short of | Her recovery after the accident was nothing short of miraculous. | 简直就是……、不折不扣的（用于强调某事程度之深）。
+be a fifth wheel | Everyone at the dinner was coupled up, so I felt like such a fifth wheel. | 多余的人；打酱油的；在场却没用武之地
+it's a crapshoot | Trying to get a table at that restaurant without a reservation is a total crapshoot. | 完全靠运气；结果说不准；听天由命
+go down in flames | Their product launch went down in flames after a terrible review went viral. | 惨败收场；以失败告终（尤指轰轰烈烈地垮掉）
+no cap | That movie was the best thing I've seen all year, no cap. | 不骗你；认真的；说真的（年轻人俚语，= no lie / for real）
+be bread and butter | Advertising revenue is the bread and butter of most social media platforms. | 是某人的主要收入来源；是最核心的东西
+run hot and cold | He runs hot and cold — one day he's texting you constantly, the next day he ghosts you. | 态度忽冷忽热；反复无常；一会儿热情一会儿冷漠
+chew the fat | We spent an hour just chewing the fat over coffee — no agenda, just catching up. | 闲聊、拉家常（不涉及正事的随意聊天）
+crack the whip | The deadline's tomorrow — the manager is really cracking the whip on the whole team. | 严格督促、施压让人加快干活
+get your head above water | Between two kids and a new job, I'm barely getting my head above water right now. | 勉强跟上节奏、刚刚摆脱困境（如工作或财务压力）
+have a come-apart | He had a complete come-apart when his computer crashed right before the presentation. | 彻底崩溃、情绪失控（口语，有点幽默感）
+be up against the clock | We're up against the clock — the client wants the report by noon. | 跟时间赛跑、时间非常紧迫
+botch the landing | The movie was great until the final act — they totally botched the landing. | 搞砸了收尾部分（开头不错但结局一团糟）
+put someone in the driver's seat | We gave her full budget authority — that put her in the driver's seat to make real decisions. | 让某人主导、掌控局面
+be a slow burn | The show is a slow burn — the first three episodes seem boring, but then it hooks you. | （事物或情绪）慢慢发展、后劲大
+take a raincheck on that | We're going bowling tonight — wanna come?" "I'm beat, I'll take a raincheck on that. | 这次先不了，改天吧（委婉拒绝但暗示以后还有机会）
+get the shaft | I worked 60-hour weeks all year and didn't even get a raise — I really got the shaft. | 被坑了、被不公平对待、吃了亏
+be all thumbs | Don't ask me to fix the sink — I'm all thumbs when it comes to anything mechanical. | 笨手笨脚的、动手能力差
+give someone the stink eye | I accidentally took her parking spot and she gave me the stink eye the whole walk in. | 用鄙视/不满的眼神瞪着某人
+have a hissy fit | She had a hissy fit when the coffee shop ran out of oat milk. | 大发脾气，为小事抓狂失控（带有幼稚、小题大做的意味）
+lose your marbles | He's been working 80-hour weeks — I think he's losing his marbles. | 失去理智，精神错乱；也可轻松用来说"脑子抽了
+take something off the table | Budget cuts have taken the new hiring plan completely off the table. | 将某个选项从讨论中撤除，不再考虑
+in the eleventh hour | They reached a deal in the eleventh hour and avoided a strike. | 在最后关头，千钧一发之际才采取行动
+be dead in the water | Without funding, the startup is dead in the water. | （计划、项目）彻底完蛋，毫无希望推进
+come apart at the seams | After the layoffs, the whole team started coming apart at the seams. | （人或事物）彻底崩溃，支撑不住
+be on a wild ride | This quarter has been a wild ride — three pivots and two leadership changes. | 经历一段跌宕起伏、充满变数的过程
+break new ground | Their AI research is breaking new ground in natural language understanding. | 开创先例，做前人没做过的事（正式感略强，职场/新闻中很常见）
+get off someone's back | Just get off my back — I'll finish the report by Friday. | 别再烦某人了；放某人一马
+be strapped for cash | I can't go on the trip right now — I'm totally strapped for cash. | 手头紧；缺钱（"strapped" 原意是被绑住，引申为资金被卡住）
+have one's hands tied | I'd love to give you a refund, but my hands are tied — it's company policy. | 被束手束脚；无能为力（不是不想帮，是被规则/情况所限）
+be a tough cookie | Don't underestimate her — she's a tough cookie who's been through a lot. | 是个不好对付的人；坚韧的人（可褒可贬）
+put yourself in someone's shoes | Put yourself in his shoes — how would you feel if your boss ignored you like that? | 设身处地为某人着想；换位思考
+be up a creek without a paddle | If the server crashes before we back up the data, we'll be up a creek without a paddle. | 陷入困境且毫无出路（"up a creek" 指顺流漂走找不到路，没有桨更惨）
+go on a whim | We booked a flight to Vegas on a whim and had the best weekend ever. | 心血来潮；一时冲动（"whim" = 突发奇想）
+go off the hinges | He completely went off the hinges when he found out his project was cancelled. | 彻底失控；情绪崩盘（"hinge" 是门铰链，门脱了铰链就关不住了）
+hit a nerve | His comment about the project timeline really hit a nerve with the team. | 触动痛处；说到某人的敏感点
+be in the rearview mirror | Those layoffs are in the rearview mirror — the team has fully moved on. | 已经过去了，成为历史；不再是问题
+grind someone's gears | It really grinds my gears when people show up late to meetings without saying anything. | 让人烦透了；惹某人不爽
+run the numbers | Before we commit to the deal, let me run the numbers and see if it makes sense. | 做数据核算；算一算、测算一下
+front-loaded | This project is heavily front-loaded — we need the most resources in the first two weeks. | （成本/工作量/好处）集中在前期的；前重后轻
+have a fire under one's feet / light a fire under someone | The CEO lit a fire under the engineering team to ship before the competitor does. | 给某人施压、催促；让人加快行动
+bite the bullet and move on | We lost the client, but we need to bite the bullet and move on to the next opportunity. | 咬紧牙关接受现实，然后向前走
+be all set | You need anything else?" — "No, I'm all set, thanks! | 准备好了、一切就绪，也可以表示"不需要了/够了
+mum's the word | We're planning a surprise party for Jake — mum's the word, okay? | 保密！嘴巴拉链！不要说出去
+be in a fog | Sorry, I haven't had coffee yet — I'm totally in a fog this morning. | 头脑不清醒、迷迷糊糊、搞不清状况
+throw someone a bone | He's been working really hard — can you at least throw him a bone and give him a day off? | 给人一点小恩小惠、施舍一点帮助或好处，以安抚对方
+be on a soapbox | There he goes again, on his soapbox about remote work policies. | 在大发议论、滔滔不绝地讲自己的观点（含轻微嘲讽意味）
+be at someone's beck and call | I'm not going to be at his beck and call 24/7 — I have my own life. | 随时听候某人差遣、任人呼来唤去
+take it down a notch | Whoa, take it down a notch — nobody's attacking you, we're just discussing. | 冷静一点、收敛一点、别那么激动
+be on the same page（延伸用法：get everyone on the same page） | This setup takes a while, but it's one-and-done — you won't need to do it again. | 做一次就完事了、一次性搞定的事情
+put someone on the back burner（个人关系语境） | He started out just scrolling TikTok for 5 minutes and completely got lost in the sauce for 3 hours. | 迷失自我、太沉浸于某事而忘了初衷（常用于失去方向感）
+Put the cart before the horse | We can't hire a team before we even have funding — that's putting the cart before the horse. | 本末倒置；做事顺序搞反了
+be a fly on the wall | I'd love to be a fly on the wall during that board meeting. | 像墙上的苍蝇一样悄悄旁观，暗指希望能偷偷听到某个场合发生的事
+get roasted | He got roasted by his whole team after forgetting the deadline. | 被人当众揶揄、调侃、奚落（通常是玩笑性质，源自美国脱口秀"roast"节目）
+not move the needle | We ran the ad campaign for a month, but it just didn't move the needle on sales. | 没有产生实质影响或明显改变（needle = 仪表盘指针）
+go halves on something | Do you want to go halves on a pizza? I'm not that hungry either. | 两人平摊费用（= go Dutch 的变体，但更强调"对半分"）
+have a lot of gall | She had the gall to ask for a raise the same week she missed the project deadline. | 厚颜无耻，胆大包天（gall = 胆汁，引申为无礼的厚脸皮；带有明显负面含义）
+be stringing someone along | I think he's just stringing her along—he never actually commits to anything. | 吊着某人、给空头支票、假装认真实则拖着对方（感情或工作中均可用）
+write someone off | Everyone wrote him off after the first failure, but he came back stronger than ever. | 把某人/某事完全否定、放弃，认为没有价值或没有希望
+have a dry run | Let's have a dry run before the presentation tomorrow so we can catch any issues. | 正式上阵前先做一次演练/彩排，"干跑一遍
+Monday morning quarterback | Everyone's a Monday morning quarterback when the launch fails. | 事后诸葛亮，比赛/事情结束后才来批评的人
+pay it forward | My mentor helped me land my first job. I try to pay it forward by mentoring junior colleagues. | 把别人对你的好，转而施予下一个人，形成善意链条
+the buck stops here | As the team lead, the buck stops with me — I'll own this mistake. | 责任由我来扛，不再往上推；"问责到此为止
+punch a clock | He's not passionate about the job anymore — he's just punching a clock. | 按点打卡上下班，引申为机械式地完成工作、混日子
+be in the mix | She's definitely in the mix for the promotion — her numbers have been great. | 在候选/竞争范围内，"有戏"、"在局里
+knee-jerk reaction | Don't make a knee-jerk reaction to the bad review — take time to read it carefully first. | 不假思索的本能反应，冲动反应，"膝跳反射式"的应对
+be a fish out of water | Starting at the new company, she felt like a fish out of water — everyone already knew each other. | 像鱼离开水一样，形容某人在陌生环境中格格不入、浑身不自在。
+hat in hand | After the product failed, he went hat in hand to investors to ask for more funding. | 帽子拿在手里（低头请求），表示谦卑地去求人、放低姿态。
+jump ship | Three senior engineers jumped ship right before the product launch. | 跳船逃跑，指趁情况不好时抛弃团队、组织或项目另谋出路。
+have your work cut out for you | Fixing the codebase in two weeks? You've got your work cut out for you. | 面前的活儿已经给你安排好了，意思是"有得忙了、任务相当艰巨"。
+go pear-shaped | The whole demo went pear-shaped when the internet cut out. | 事情变得像梨形一样——即失控、彻底搞砸。（英式俚语，美国职场也常用）
+take someone for a ride | The contractor took us for a ride — he never actually finished the work. | 带某人"兜风"——实则指欺骗、耍弄某人。
+be up and at 'em | It's 6 AM and she's already up and at 'em, hitting the gym before work. | 起来干吧！"表示精神抖擞、准备好行动，常用于早上或激励他人。（'em = them，口语缩略）
+hold a candle to something | The copy can't hold a candle to the original — nothing beats the real thing. | 通常以否定形式出现：can't hold a candle to，意为"远不及、根本比不上"。
+cut to the quick | His comment about her lack of experience cut to the quick. | 切到了"quick"（指甲下的嫩肉），形容言语或行为深深刺痛某人，伤到了痛处。
+Punt the meeting | Can we punt the Monday sync? I'm swamped with the product launch. | 把会议推迟/取消掉（punt 原是美式橄榄球术语，引申为"暂时放弃/推掉"）
+Eat someone's dust | Our competitors better get their act together or they'll be eating our dust by Q4. | 被远远甩在后面（来自赛马/赛车，跑在后面的人只能吃前面扬起的尘土）
+Be a needle mover | We don't need more reports — we need actual needle movers that grow revenue. | 能推动大局的人/事（比喻能让"指针真正移动"，而不只是做表面功夫）
+Nickel-and-dime someone | I hate this contractor — they nickel-and-dime you with every tiny add-on. | 斤斤计较地一点点收费/占便宜（nickel=5美分，dime=10美分，合起来指小钱小钱地榨）
+Be a known quantity | She's a known quantity on our team — dependable, professional, no drama. | 是个"看透了的人/事"，没有意外（指某人行事风格、能力已经完全了解，不存在未知风险）
+Have a soft launch | We're doing a soft launch next week — no press release, just internal users first. | 低调上线/试运营（相对于大张旗鼓的"硬发布"，soft launch 指小范围、不声张地先试试）
+Burn the boats | He quit his job and burned the boats — now he has to make the startup work. | 破釜沉舟，背水一战（来自历史上将领登陆后烧掉船只以示决心，没有退路）
+Take something on the chin | The client came back with brutal feedback, but she took it on the chin and revised everything. | 硬扛着、默默承受（来自拳击，被打中下巴还挺住，引申为坦然接受坏消息/批评）
+Make hay while the sun shines | The market's hot right now — make hay while the sun shines and close those deals. | 趁好时机赶紧干（原意指趁天晴晒草，引申为抓住有利时机，不要拖延）
+make a splash | Their new product really made a splash at the tech conference. | 引起轰动，给人留下深刻印象
+get something off the ground | We've been planning for months — it's time to finally get this project off the ground. | 让某事启动起来、顺利开始运转
+be a tough pill to swallow | Losing the account was a tough pill to swallow, but it pushed us to improve. | 很难接受的现实或消息（字面：难以咽下的苦药）
+hit the reset button | After the merger fell apart, the CEO decided to hit the reset button on the whole strategy. | 重新开始，彻底重置关系/计划/思路
+read someone's tea leaves | Nobody knows what the Fed will do next — we're all just reading tea leaves at this point. | 试图猜测或预测某人的意图/未来动向（来自占卜茶叶的民俗）
+not reinvent the wheel | Use the template we built last quarter — don't reinvent the wheel. | 不要重复造轮子，直接用现成的方案就行
+drink the Kool-Aid | He's totally drunk the Kool-Aid — he thinks everything management says is brilliant. | 盲目跟随某个理念/公司文化/领导，不加质疑地相信
+hedge one's bets | She applied to ten schools to hedge her bets in case her top choice didn't work out. | 两边下注，不把鸡蛋放在一个篮子里，留有余地
+be a moving target | The requirements keep changing — this project is a moving target. | （目标/方向）一直在变，让人难以捉摸或跟上
+have a case of the Mondays | I can't focus at all today. I've got a serious case of the Mondays. | 犯了"星期一综合征"——状态差、提不起劲
+be on someone's last nerve | The printer keeps jamming — it's on my last nerve today. | 把某人逼到忍无可忍的边缘
+take a hard left | We were talking about budget, then the meeting took a hard left into team restructuring. | 突然转变方向/观点（字面是"急转左弯"，引申为话题或计划突然大转弯）
+not the sharpest tool in the shed | He means well, but he's not the sharpest tool in the shed — you have to explain things twice. | 不是很聪明，脑子不太好使（"shed" = 工具房，温和版贬义）
+come in hot | She came in hot during the meeting — immediately challenged every data point. | 气势汹汹地来；一上来就咄咄逼人或强势
+have a lot of moxie | It takes a lot of moxie to quit your job and start a company at 50. | 胆识过人，有魄力，敢作敢为（moxie 是一种老牌苦味汽水，后来变成"勇气/闯劲"的代名词）
+be a sucker for something | I'm a total sucker for a good origin story — tell me how you built this from scratch. | 对某事/某物没有抵抗力，特别容易被某东西打动
+get railroaded | I got railroaded into leading the project — nobody asked, they just sent the announcement. | 被强行推着走，被人压着做了某件不想做的事（railroad = 铁路，引申为"像火车一样把人轧过去"）
+ride the bench | She's been riding the bench for two years — they keep hiring externally instead of promoting her. | 坐冷板凳，明明有能力却没机会上场/参与（来自体育，替补球员坐板凳）
+have a short memory | Investors have a short memory — they panic every crash and forget the market always recovers. | 记性很短，对不好的事情（甚至是对自己有利的经验）很快就忘
+be over the moon | She was over the moon when she got the acceptance letter from her dream school. | 高兴得不得了，欣喜若狂（比 "happy" 强烈得多的地道表达）
+Hit different | Coffee hits different when you're working late on a deadline. | 感觉不一样，格外有感触（通常是因为心境、情景特殊）
+bite off more than you can chew | I signed up for four projects this month and totally bit off more than I can chew. | 贪多嚼不烂，揽了超出自己能力范围的事
+back to square one | The client rejected the entire design, so we're back to square one. | 从头再来、一切归零，努力白费了得重新开始
+under the weather | I'm feeling a little under the weather today — I might skip the gym. | 身体不舒服、有点小病小痛，通常是感冒或疲惫
+put it on the back burner | We'll put the new feature on the back burner until Q4. | 把某事暂时搁置，不优先处理
+be on the same page | Before we start, let's make sure we're all on the same page about the deadline. | 彼此理解一致，达成共识
+out of the loop | I've been traveling all week, so I'm totally out of the loop on this project. | 不知情、被排除在圈子外
+off the top of my head | Off the top of my head, I'd say we need about three weeks to finish this. | 脱口而出、凭第一反应（没有经过仔细思考）
+pull someone's leg | Are you serious? Wait — are you pulling my leg right now? | 开玩笑、逗某人
+ride shotgun | I'll ride shotgun while you drive to the airport. | 坐副驾驶；陪同保护
+punch above one's weight | That startup is punching way above its weight — they just beat Google to market. | 超常发挥；能力超出预期（积极含义）
+stir the pot | He's always stirring the pot in team meetings — nobody actually wants drama. | 搅浑水、故意挑起矛盾
+take the plunge | She finally took the plunge and quit her corporate job to start her own business. | 鼓起勇气迈出那一步（做一个大决定）
+on the same wavelength | We barely need to explain things to each other — we're just on the same wavelength. | 想法一致、频率相同、很有默契
+step up one's game | You really need to step up your game if you want that promotion. | 提升表现、拿出更好的状态
+a tough nut to crack | This client is a tough nut to crack — they've rejected every pitch so far. | 棘手的人或事、难搞的问题
+go with the flow | Plans changed three times today — I'm just going with the flow. | 随大流，顺势而为，不较劲
+keep one's head above water | With three deadlines this week, I'm barely keeping my head above water. | 勉强维持，不被压垮，艰难度日
+Get one's act together | You need to get your act together before the performance review. | 振作起来，把事情整理好，不再一团糟
+Go off the rails | The project went off the rails after the lead developer quit. | 失控，脱轨，事情朝着不好的方向发展（铁路脱轨的比喻）
+Dead in the water | Without funding, the whole initiative is dead in the water. | 完全停滞，没有进展，毫无生机（原指船只动力失效漂浮在水上）
+wrap one's head around something | I still can't wrap my head around the fact that he quit such a high-paying job. | 努力去理解、消化某件复杂或难以置信的事
+have a dog in this fight | I don't have a dog in this fight, so I'll just support whatever you guys decide. | 在某件事上有切身利益；与此事有利害关系
+run into a wall | We've run into a wall trying to get regulatory approval for the new product. | 碰壁；遇到无法突破的障碍
+hold down the fort | I'm heading out for lunch — can you hold down the fort while I'm gone? | 看家、守摊子、暂时负责
+get the green light | We finally got the green light from management to launch the new feature. | 得到批准、获得放行
+take the high road | He said some nasty things, but I decided to take the high road and not respond. | 做人有格局、选择不计较、走道德高地
+eat humble pie | After predicting we'd miss the deadline, I had to eat humble pie when we shipped early. | 认错道歉、低头认栽、不得不承认自己错了
+go belly up | Three startups in that incubator went belly up last quarter. | 彻底失败、倒闭、完蛋（常指公司或计划）
+talk out of both sides of one's mouth | He tells the team one thing and the boss another — he's talking out of both sides of his mouth. | 说话前后矛盾、两面派、见人说人话见鬼说鬼话
+be on a roll | Don't interrupt him — he's on a roll and has already fixed four bugs today. | 处于顺风顺水的状态、连续成功、状态极好
+fit the bill | We tried three contractors, and this one finally fits the bill. | 完全符合要求、正好合适
+keep tabs on someone | The manager keeps tabs on everyone's progress through a shared dashboard. | 密切关注某人、盯着某人的动态
+skate by | He's been skating by with mediocre work for years — no one knows how he's still employed. | 勉强过关、混过去、仅靠最低努力蒙混（带轻微贬义）
+dumpster fire | The product launch was a complete dumpster fire — the website crashed and no one could check out. | 一团乱麻，彻底失控的灾难局面（字面意思是"垃圾桶着火了"）
+have a leg up | Having worked in this industry for five years, she has a leg up over the other candidates. | 比别人有优势，先人一步（相当于"占先机"）
+on someone's radar | That new startup hasn't been on our radar until this week's funding announcement. | 在某人的关注范围内，被某人注意到（雷达探测到）
+take a backseat | She decided to take a backseat on this project and let the junior team members lead. | 退居次要位置，让别人主导（坐到后座，不开车）
+put all your eggs in one basket | Don't put all your eggs in one basket — apply to multiple companies, not just that one. | 把所有赌注押在一件事上，不留退路（风险集中，不分散）
+schmooze | He spent the whole party schmoozing with the executives instead of actually enjoying himself. | 和人套近乎、拉关系、社交寒暄（带点"刻意讨好"的意味）
+bone up on something | I need to bone up on SQL before the technical interview tomorrow. | 临时抱佛脚、突击复习某个话题或技能
+get the boot | He got the boot after showing up late three days in a row. | 被解雇、被踢出去（口语，语气比 fired 更生动）
+swipe right on something | I'd definitely swipe right on that job offer — great pay and remote work. | 对某事表示认可、感兴趣，愿意接受它
+soft launch | She soft launched her new boyfriend on Instagram with a blurry photo. | 悄悄公开某事（新关系、新项目等），不大张旗鼓，试探反应
+have street cred | She has serious street cred in the startup world — she's built three companies from scratch. | 在某个圈子里有真实的资历和威望，让人信服
+steal someone's spotlight | He always finds a way to steal the spotlight at team meetings. | 抢走别人的风头/风光
+get one's wires crossed | I think we got our wires crossed — I thought the meeting was on Friday, not Thursday. | 产生误解，沟通出了岔子
+talk turkey | Enough small talk — let's talk turkey about the contract terms. | 直说要事，开门见山地谈正事
+nip something in the bud | We need to nip this conflict in the bud before it escalates. | 将问题扼杀在萌芽状态，趁早处理掉
+have the guts | I didn't have the guts to ask for a raise in front of everyone. | 有胆量、有勇气去做某件难事或敏感事（guts = 胆子）
+on a shoestring | They built the startup on a shoestring and still made it work. | 预算极少、用很少的钱办事（shoestring = 鞋带，比喻细如鞋带的预算）
+lose one's marbles | He's been working 80-hour weeks — I think he's losing his marbles. | 失去理智、发疯、脑子不好使（marbles = 弹珠，比喻失去脑子）
+run on fumes | I haven't slept in two days — I'm running on fumes. | 精疲力竭地硬撑，快撑不住了（像油箱快空的车还在跑）
+keep a straight face | He told the joke so seriously that I couldn't keep a straight face. | 忍住不笑，保持严肃表情
+throw one's hat in the ring | She finally threw her hat in the ring for the city council election. | 宣布参赛或参选，正式加入竞争
+take the fall | He took the fall for the whole team's mistake to protect his boss. | 替人背锅，承担责任（有时是被迫的）
+be in over one's head | She's only been coding for two months — this project has her completely in over her head. | 超出自己的能力范围，深陷无法应对的处境
+blow smoke | Don't just blow smoke at me — show me the actual data. | 吹牛、说空话，夸大其词蒙人
+get the hang of something | It took me a few weeks, but I finally got the hang of using the new software. | 逐渐掌握、摸清某件事的门道
+put one's foot down | I had to put my foot down when they kept pushing the deadline without telling me. | 坚定立场、态度强硬地拒绝或要求
+have mixed feelings | I have mixed feelings about my promotion — more money, but way more stress. | 心情复杂、喜忧参半、一时说不清楚是高兴还是担心
+be a head-scratcher | Why he quit right before the bonus payout — that's a real head-scratcher. | 令人费解的事、让人挠头的问题
+keep it in one's back pocket | That's a good idea — let's keep it in our back pocket and use it if the first plan fails. | 把（某个信息/方案）留着备用，暂时不拿出来
+under one's belt | She has three years of project management experience under her belt. | 已积累的经验或成就（已经拥有/完成了某事）
+go with the grain | Instead of fighting the market trend, let's go with the grain and adjust our strategy. | 顺势而为、顺应规律/趋势，不强行逆势（与 "go against the grain" 相对）
+eat someone's lunch | If we don't launch soon, our competitors will eat our lunch. | 把对手彻底击败、抢走他们的市场/机会（比喻"把别人的午饭都吃了"）
+get on one's high horse | Don't get on your high horse just because you read one article about it. | 摆架子、自以为是、道德说教（居高临下的态度）
+not miss a beat | When the projector broke down, she didn't miss a beat and kept presenting from memory. | 毫不迟疑、应对自如、完全没有停顿（面对突发状况依然淡定）
+be a numbers game | Sales is a numbers game—you just have to keep making calls. | 某件事成功与否取决于数量/概率，多试几次就会有结果
+have a pulse on something | She has a pulse on the latest trends in social media marketing. | 对某个领域/情况保持实时了解，掌握动态（pulse = 脉搏，引申为"感知到节奏"）
+have the upper hand | After the third round, the challenger clearly had the upper hand. | 占上风，处于有利地位
+too many cooks in the kitchen | Five managers on one small project is too many cooks in the kitchen. | 人多手杂，反而坏事
+be a drop in the bucket | A hundred dollars is a drop in the bucket against that debt. | 九牛一毛，杯水车薪
+put on a brave face | She put on a brave face at work the day after the news. | 强作镇定，硬撑着显得没事
+table something | Let's table the pricing question until the data comes in. | （美式）暂时搁置某议题
+out of pocket | I paid for the repairs out of pocket and claimed it later. | 自掏腰包；（俚语）行为出格
+in someone's face | He got right in my face and started shouting. | 逼到某人面前，咄咄逼人

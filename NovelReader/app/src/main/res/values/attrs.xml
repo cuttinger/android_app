@@ -1,0 +1,5 @@
+<resources>
+    <attr name="readerBackground" format="color" />
+    <attr name="readerText" format="color" />
+    <attr name="barBackground" format="color" />
+</resources>

@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Always the light paper look: not DayNight, and force-dark (battery saver) disabled. -->
+    <style name="Theme.NovelReader" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:forceDarkAllowed" tools:targetApi="q">false</item>
+        <!-- Draw into the camera-cutout strip in fullscreen instead of leaving it black. -->
+        <item name="android:windowLayoutInDisplayCutoutMode" tools:targetApi="o_mr1">shortEdges</item>
+        <item name="colorPrimary">@color/primary</item>
+        <item name="readerBackground">@color/paper</item>
+        <item name="readerText">@color/ink</item>
+        <item name="barBackground">@color/bar</item>
+        <item name="android:windowBackground">@color/paper</item>
+        <item name="android:statusBarColor">@color/bar</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <style name="BarIcon">
+        <item name="android:layout_width">44dp</item>
+        <item name="android:layout_height">44dp</item>
+        <item name="android:background">?attr/selectableItemBackgroundBorderless</item>
+        <item name="tint">?android:attr/textColorSecondary</item>
+    </style>
+</resources>

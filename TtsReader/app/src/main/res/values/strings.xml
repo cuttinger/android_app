@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">听读</string>
+    <string name="app_name_car">听读 · 车机</string>
+    <string name="intro">粘贴多行英文文本，逐句朗读并高亮显示；连接 Android Auto 后车机上同步显示文字。</string>
+    <string name="input_hint">在这里粘贴英文文本…</string>
+    <string name="read">朗读</string>
+    <string name="clear">清空</string>
+    <string name="saved">已保存的文本</string>
+    <string name="empty">还没有保存的文本</string>
+    <string name="empty_text">请先输入文本</string>
+    <string name="edit">编辑</string>
+    <string name="remove">删除</string>
+    <string name="back">返回</string>
+    <string name="play">播放</string>
+    <string name="pause">暂停</string>
+    <string name="previous">上一句</string>
+    <string name="next">下一句</string>
+    <string name="slower">慢</string>
+    <string name="faster">快</string>
+    <string name="progress">第 %1$d / %2$d 句</string>
+    <string name="tts_loading">正在初始化语音引擎…</string>
+    <string name="channel_name">朗读</string>
+    <string name="car_no_passages">手机上还没有保存的文本，请先在手机 App 里添加。</string>
+    <string name="car_nothing_loaded">还没有选择文本</string>
+    <string name="voice">声音</string>
+    <string name="choose_engine">选择 TTS 引擎</string>
+    <string name="choose_voice">选择音色（★ 越多质量越高）</string>
+    <string name="order_sequential">顺序</string>
+    <string name="order_shuffle">随机</string>
+    <string name="shuffle_on">随机朗读</string>
+    <string name="shuffle_off">按顺序朗读</string>
+    <string name="restore_hidden">恢复 %1$d 篇</string>
+    <!-- 朗读方式 -->
+    <string name="speak_mode">朗读</string>
+    <string name="mode_tag_full">全读</string>
+    <string name="mode_tag_word">词</string>
+    <string name="mode_tag_word_cn">词→中</string>
+    <string name="mode_tag_cn_word">中→词</string>
+    <string name="choose_mode">选择朗读方式</string>
+    <string name="mode_full">单词 → 中文释义 → 例句</string>
+    <string name="mode_word">只读单词 / 短语</string>
+    <string name="mode_word_cn">单词 → 中文释义</string>
+    <string name="mode_cn_word">中文释义 → 单词</string>
+
+    <!-- 编辑模式 -->
+    <string name="edit_mode">编辑</string>
+    <string name="edit_mode_on">编辑模式：左滑移入已掌握，右滑移入未掌握</string>
+    <string name="edit_mode_off">已退出编辑模式</string>
+    <string name="known">已掌握</string>
+    <string name="unknown">未掌握</string>
+    <string name="filed_to">已移入%1$s：%2$s</string>
+    <string name="undo">撤销</string>
+</resources>

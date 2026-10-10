@@ -1,0 +1,130 @@
+# 第二批：美国日常口语与职场地道用语（不与第一批重复，排除课本常见句）
+# phrase | example sentence | 中文解释
+my bad | Sorry, my bad. I sent you the wrong file. | 我的错，不好意思（口语道歉）
+I'm down | Pizza tonight? Yeah, I'm down. | 我愿意，我参加
+I'm good | Want another drink? No, I'm good, thanks. | 不用了，我这样就行（婉拒）
+no worries | You're five minutes late? No worries. | 没事，别担心
+it is what it is | The flight got cancelled. It is what it is. | 事已至此，就这样吧
+hang tight | Hang tight, the doctor will be with you in a minute. | 稍等一下，别走开
+sounds like a plan | Meet at seven by the fountain? Sounds like a plan. | 好主意，就这么定了
+you bet | Can you cover my shift? You bet. | 当然可以，没问题
+fair enough | I'd rather not work Sundays. Fair enough. | 有道理，可以理解
+I feel you | Mondays are rough. I feel you. | 我懂你，深有同感
+hit me up | If you're in town next week, hit me up. | 联系我，找我
+catch you later | I've got to run. Catch you later. | 回头见
+my two cents | Just my two cents, but I'd wait for the sale. | 我个人的一点看法
+heads-up | Quick heads-up: the parking lot is closed tomorrow. | 提前打个招呼，预先提醒
+bandwidth | I don't have the bandwidth to take on another client this month. | 精力、时间、余力
+loop someone in | Can you loop me in on the vendor emails? | 把某人拉进来（让其知情或参与）
+take it offline | This is getting detailed. Let's take it offline after the meeting. | 会后单独讨论
+low-hanging fruit | Fix the typos first. That's low-hanging fruit. | 最容易做到、最容易见效的事
+ping me | Ping me when the build is done. | 给我发个消息
+action item | The only action item from today is to update the roadmap. | 待办事项，行动项
+hard stop | I have a hard stop at three for another call. | 到点必须结束（不能延时）
+deep dive | Next week we'll do a deep dive into the churn numbers. | 深入分析，细致研究
+boil the ocean | We can't fix every bug at once. Let's not boil the ocean. | 想一口气把所有事都做完（不切实际）
+ballpark figure | I don't need an exact quote, just a ballpark figure. | 大概的数字，粗略估计
+back-of-the-envelope | A back-of-the-envelope calculation says we'd break even in a year. | 粗略估算的
+buy-in | We need buy-in from the sales team before launching. | 认同和支持，同意配合
+push back | The engineers pushed back on the two-week deadline. | 反对，提出异议
+wear many hats | At a startup you wear many hats: sales, support, and IT. | 身兼数职
+level set | Before we plan, let's level set on what the customer actually asked for. | 先统一认识、对齐基本情况
+EOD | Please send the draft by EOD Friday. | 当天下班前（end of day）
+OOO | I'll be OOO next week, so email Sarah instead. | 不在办公室，休假中（out of office）
+on the same call | Were you on the same call? I don't remember agreeing to that. | 我们听到的是同一件事吗（表示疑惑）
+put a pin in it | Good point. Let's put a pin in it and come back after lunch. | 先记下来，稍后再谈
+raise a flag | I want to raise a flag about the server costs before we sign. | 提出警示，指出问题
+per my last email | Per my last email, the invoice is already paid. | 如我上封邮件所说（常带不耐烦语气）
+go live | The new website goes live on Monday. | 正式上线
+open floor | That's all from me. I'll open the floor to questions. | 开放提问或讨论
+one-pager | Can you write a one-pager on the proposal for the execs? | 一页纸的摘要
+parking lot | Let's put the pricing question in the parking lot for now. | 暂存区（会议中把跑题的议题先放一边）
+sync up | Let's sync up Thursday to compare notes. | 碰头对一下进度
+offline | I'll answer that offline so we don't hold up the group. | 会后私下（处理）
+bandwidth check | Quick bandwidth check: can anyone take the Friday demo? | 问问谁还有空、有余力
+stretch goal | Ten thousand signups is our stretch goal. | 挑战性目标，理想目标
+guardrails | Set some guardrails so the interns don't touch production. | 防护措施，边界规则
+north star | Customer retention is our north star this year. | 核心目标，指导方向
+throughput | Adding a second reviewer doubled our throughput. | 处理量，吞吐量
+paper trail | Put the agreement in writing so there's a paper trail. | 书面记录，证据链
+red tape | It took months of red tape to get the permit. | 繁文缛节，官僚手续
+brownie points | He brought donuts to score brownie points with the boss. | 讨好赚来的印象分
+carrot and stick | Management uses a carrot and stick approach: bonuses and warnings. | 奖惩并用，软硬兼施
+bring to the table | What does the new hire bring to the table? | 能贡献什么，有什么价值
+across the board | Prices went up ten percent across the board. | 全面地，无一例外
+game plan | What's the game plan for the client visit? | 行动计划，策略
+touch and go | It was touch and go for a while, but the patient pulled through. | 情况不稳定，悬而未决
+crunch time | It's crunch time. The demo is in two days. | 关键冲刺期
+ramp up | It takes new engineers about a month to ramp up. | 逐步上手；逐步增加
+wind down | The project is winding down, so the team is shrinking. | 逐步收尾，减少
+onboard | We onboard new customers with a thirty-minute call. | 让新人或新客户入门、上手
+pivot | The app failed as a game, so the company pivoted to education. | 转向，调整方向
+scope creep | The client keeps adding features. Classic scope creep. | 需求不断扩大，范围蔓延
+band-aid fix | Restarting the server is a band-aid fix. We need the real cause. | 治标不治本的临时补救
+nickel and dime | The hotel nickel and dimes you with fees for everything. | 处处收小钱，斤斤计较
+cut corners | They cut corners on the wiring, and now it's a fire hazard. | 偷工减料，走捷径
+on the clock | I can't chat right now. I'm on the clock. | 在上班时间，在干活
+off the clock | Ask me about it after five, when I'm off the clock. | 下班了，不在工作时间
+clock out | Don't forget to clock out before you leave. | 打卡下班
+call in sick | I called in sick with a fever this morning. | 打电话请病假
+pull one's weight | Everyone on this team pulls their weight. | 尽自己的本分，出力
+slack off | Stop slacking off and finish the report. | 偷懒，懈怠
+flake on someone | She flaked on me again. We were supposed to meet at eight. | 放某人鸽子，爽约
+bail | The party was boring, so we bailed early. | 提前溜走，退出
+crash | Can I crash on your couch tonight? | 借宿，随便睡一晚
+grab a bite | Want to grab a bite before the movie? | 随便吃点东西
+chip in | Let's all chip in ten dollars for the gift. | 凑钱，分摊
+split the bill | Let's just split the bill three ways. | 平摊账单，AA
+go Dutch | On the first date we went Dutch. | 各付各的
+on me | Dinner is on me tonight. | 我请客
+on the house | The dessert is on the house. Enjoy. | 店家免费赠送
+tap water | Just tap water for me, please. | 自来水（餐馆里指免费水）
+to-go | Can I get this to-go? | 打包带走
+doggy bag | We couldn't finish, so we asked for a doggy bag. | 打包剩菜的袋子
+pet peeve | Loud chewing is my biggest pet peeve. | 最受不了的小事，特别讨厌的事
+bucket list | Seeing the northern lights is on my bucket list. | 人生愿望清单
+guilty pleasure | Reality TV is my guilty pleasure. | 明知不好却很享受的小癖好
+comfort food | Mac and cheese is the ultimate comfort food. | 治愈系食物，让人安心的食物
+binge-watch | We binge-watched the whole season in one weekend. | 追剧，一口气看完
+doomscrolling | I spent an hour doomscrolling the news last night. | 停不下来地刷负面新闻
+adulting | Paying taxes and cooking dinner. Adulting is hard. | 像大人一样处理生活琐事
+hangry | Feed him before he gets hangry. | 饿到发脾气
+sketchy | That website looks sketchy. Don't enter your card number. | 可疑的，不靠谱的
+legit | The deal is legit. I checked the reviews. | 真的，靠谱的
+bummer | The concert got cancelled? What a bummer. | 真扫兴，真遗憾
+flaky | He's flaky. Don't count on him showing up. | 不靠谱，常放鸽子
+salty | He's still salty about losing the game. | 不服气，耿耿于怀
+extra | She wore a ball gown to a picnic. So extra. | 太夸张，太用力
+bougie | Twelve-dollar toast? That cafe is so bougie. | 装高档，小资气
+no cap | This is the best burger in town, no cap. | 不骗你，说真的
+sus | He left right before the money went missing. That's sus. | 可疑
+it's giving | That outfit is giving nineties supermodel. | 有…的感觉，像是…（评价风格）
+slay | You slayed that presentation. | 表现极佳，惊艳全场
+rizz | He's got rizz. He talks to strangers like old friends. | 撩人的魅力，社交魅力
+ick | The way he chews with his mouth open gives me the ick. | 突然的反感，膈应
+main character energy | She walked in with main character energy. | 主角气场
+touch grass | You've been arguing online all day. Go touch grass. | 别宅了，出去接触现实
+glow up | She had a serious glow up after college. | 脱胎换骨的变美变强
+say less | Free tickets tonight? Say less. | 不用多说，我懂了（欣然同意）
+bet | Pick you up at eight? Bet. | 好的，成交
+period | That's the best pizza in the city, period. | 就是这样，没得争
+deadass | I'm deadass tired. I haven't slept in two days. | 真的，认真地（强调）
+mood | Staying in bed all Sunday? Mood. | 太有共鸣了，就是我
+big yikes | He called the client by the wrong name. Big yikes. | 太尴尬了，大型翻车
+low blow | Bringing up his divorce was a low blow. | 下作的攻击，卑劣的一击
+tough love | Her coach believes in tough love: no excuses, no shortcuts. | 严厉的爱，为你好的严格
+tone-deaf | Posting vacation photos during layoffs was tone-deaf. | 不看场合，不知轻重
+gaslight | Don't gaslight me. I know what you said. | 用歪曲事实让人怀疑自己
+mansplain | He mansplained my own research to me. | 男性居高临下地解释（对方其实更懂）
+humblebrag | "Ugh, my new car is too big for the garage." Classic humblebrag. | 以自嘲方式炫耀
+virtue signaling | Posting a black square isn't activism, it's virtue signaling. | 表演式的道德姿态
+karen | She demanded to see the manager over a coupon. Total Karen. | 无理取闹、爱投诉的中年白人女性（贬义）
+boomer | Okay, boomer. Nobody uses fax anymore. | 老古板（对老一辈的调侃）
+side hustle | Driving for a delivery app is his side hustle. | 副业
+gig economy | More people are working in the gig economy without benefits. | 零工经济
+nine-to-five | He quit his nine-to-five to start a bakery. | 朝九晚五的固定工作
+work-life balance | The company talks about work-life balance but expects late nights. | 工作与生活平衡
+burnout | After two years without a vacation, she hit burnout. | 职业倦怠，累到崩溃
+quiet quitting | Quiet quitting means doing exactly what your job requires and nothing more. | 躺平式上班，只做分内事
+PTO | I'm taking PTO the last week of December. | 带薪休假（paid time off）
+comp time | I worked the weekend, so I'm taking comp time on Friday. | 调休

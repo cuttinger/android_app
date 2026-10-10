@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">简阅</string>
+    <string name="intro">粘贴小说目录页或阅读页的网址，只看正文。</string>
+    <string name="url_hint">https://…</string>
+    <string name="paste">粘贴</string>
+    <string name="open">打开</string>
+    <string name="recent">最近阅读</string>
+    <string name="empty">还没有打开过小说</string>
+    <string name="clipboard_empty">剪贴板为空</string>
+    <string name="open_catalog">打开目录</string>
+    <string name="remove">从列表移除</string>
+
+    <string name="back">返回</string>
+    <string name="font_smaller">缩小字体</string>
+    <string name="font_larger">放大字体</string>
+    <string name="refresh">重新加载</string>
+    <string name="open_in_browser">在浏览器中打开</string>
+    <string name="prev">上一章</string>
+    <string name="next">下一章</string>
+    <string name="catalog">目录</string>
+    <string name="no_catalog">没有找到目录链接</string>
+    <string name="no_content">没有识别到正文，可以用右上角按钮在浏览器中打开。</string>
+    <string name="chapter_count">共 %1$d 章</string>
+    <string name="retry">重试</string>
+    <string name="challenge_hint">该网站要求人机验证，请在下方完成验证，完成后会自动继续加载。</string>
+
+    <!-- History -->
+    <string name="history">历史记录</string>
+    <string name="history_empty">还没有浏览记录</string>
+    <string name="history_clear">清空</string>
+    <string name="history_clear_confirm">清空全部浏览记录？</string>
+    <string name="history_catalog_title">%1$s（目录）</string>
+    <string name="history_count">最近 %1$d 条，最多保留 %2$d 条</string>
+    <string name="cancel">取消</string>
+    <string name="confirm">确定</string>
+
+    <!-- Paged reading -->
+    <string name="loading_next">正在加载下一章…</string>
+    <string name="loading_prev">正在加载上一章…</string>
+    <string name="load_failed_swipe_back">加载失败：%1$s\n\n向回滑动返回</string>
+    <string name="page_footer">%1$s　%2$d / %3$d</string>
+    <string name="go_home">回到首页</string>
+    <string name="more">更多</string>
+</resources>
