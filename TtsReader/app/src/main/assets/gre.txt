@@ -1,0 +1,515 @@
+# GRE 核心词汇表（按字母排序，释义与例句为自编）
+# 已去除与六级、托福核心词汇重复的词条
+# word | example sentence | 中文释义
+abate | The storm abated shortly before dawn. | v. 减弱，缓和
+abhor | She abhorred any form of flattery. | v. 憎恶
+abstruse | His argument was too abstruse for a general audience. | adj. 深奥难懂的
+accolade | The prize is the highest accolade in the field. | n. 荣誉，赞誉
+acerbic | Her acerbic review ended his career. | adj. 尖刻的
+acquiesce | The board acquiesced rather than prolong the fight. | v. 默许，勉强同意
+acrimony | Years of acrimony divided the two families. | n. 尖刻，敌意
+adamant | He was adamant that the date could not change. | adj. 坚决的，固执的
+admonish | The teacher admonished him for arriving late. | v. 告诫，责备
+adroit | She is adroit at handling hostile questions. | adj. 熟练的，机敏的
+adulterate | The merchants adulterated the wine with water. | v. 掺假
+affable | Their affable host put everyone at ease. | adj. 和蔼可亲的
+affectation | His English accent was a pure affectation. | n. 做作，装腔作势
+aggrandize | The war served only to aggrandize the general. | v. 扩大权势，抬高
+alacrity | She accepted the invitation with alacrity. | n. 欣然，敏捷
+allay | His calm voice allayed their fears. | v. 减轻，平息
+allude | He alluded to the scandal without naming anyone. | v. 暗指，间接提到
+aloof | The new manager remained aloof from the staff. | adj. 冷淡的，疏远的
+altruism | Pure altruism is rarer than it appears. | n. 利他主义
+amalgamate | The two firms amalgamated last spring. | v. 合并
+ambivalent | She felt ambivalent about leaving the city. | adj. 矛盾的，好恶参半的
+ameliorate | The reforms did little to ameliorate conditions. | v. 改善
+amenable | He proved amenable to a compromise. | adj. 顺从的；易受影响的
+amiable | An amiable argument broke out over dinner. | adj. 友好的，亲切的
+amorphous | The plan was still an amorphous collection of ideas. | adj. 无定形的，模糊的
+anachronism | The sword is an anachronism in a modern play. | n. 时代错误
+anathema | Compromise was anathema to the old guard. | n. 令人厌恶的事物
+anecdote | He opened the lecture with a brief anecdote. | n. 轶事
+animosity | Old animosity resurfaced during the debate. | n. 敌意
+antagonize | His remarks antagonized the entire committee. | v. 使敌对，激怒
+antipathy | She felt a deep antipathy toward crowds. | n. 反感，厌恶
+apathy | Voter apathy decided the election. | n. 冷漠，无动于衷
+aplomb | He answered the hostile question with aplomb. | n. 沉着，镇定
+apocryphal | The story of the burning ships is probably apocryphal. | adj. 杜撰的，可疑的
+appease | Concessions only appeased them for a month. | v. 平息，安抚
+approbation | The design met with general approbation. | n. 赞许，认可
+arcane | The rules of the ceremony are arcane. | adj. 神秘的，晦涩的
+archaic | The contract is written in archaic language. | adj. 古老的，过时的
+ardent | He was an ardent supporter of the reform. | adj. 热烈的，热情的
+arduous | The climb was long and arduous. | adj. 艰巨的，费力的
+artifice | The painting's depth is pure artifice. | n. 技巧；诡计
+ascetic | The monk led an ascetic life in the hills. | adj. 禁欲的 n. 苦行者
+aspersion | He cast aspersions on her motives. | n. 诽谤，中伤
+assiduous | Assiduous practice made the piece sound easy. | adj. 勤勉的
+assuage | Nothing could assuage her grief. | v. 缓和，减轻
+astute | An astute reader will notice the contradiction. | adj. 精明的，敏锐的
+attenuate | Distance attenuates the signal. | v. 减弱，变细
+audacious | The plan was audacious but it worked. | adj. 大胆的，无畏的
+augment | He augmented his income by teaching. | v. 增加，增强
+auspicious | The opening week was an auspicious start. | adj. 吉利的，有利的
+austere | The room was austere, with a bed and a chair. | adj. 朴素的；严峻的
+avarice | Avarice ruined what friendship remained. | n. 贪婪
+averse | She is not averse to taking risks. | adj. 反对的，厌恶的
+avid | He is an avid collector of old maps. | adj. 热衷的，渴望的
+banal | The speech was full of banal observations. | adj. 平庸的，陈腐的
+bane | Rust was the bane of every early engine. | n. 祸根，苦恼之源
+belie | His calm face belied his nervousness. | v. 掩饰；与…不符
+belligerent | The belligerent tone ended the negotiation. | adj. 好斗的，交战的
+benevolent | A benevolent donor paid for the new wing. | adj. 仁慈的，慈善的
+benign | The growth turned out to be benign. | adj. 良性的；温和的
+bequeath | She bequeathed her library to the college. | v. 遗赠，留给
+berate | He berated the crew for the delay. | v. 严厉斥责
+bewilder | The sudden change of rules bewildered everyone. | v. 使困惑
+blatant | It was a blatant breach of the agreement. | adj. 公然的，明目张胆的
+blight | Corruption blighted every reform attempt. | v. 毁坏 n. 枯萎病；祸害
+bolster | New evidence bolstered their case. | v. 支持，加强
+bombastic | His bombastic style wore the audience out. | adj. 夸夸其谈的
+brevity | The report is admirable for its brevity. | n. 简洁；短暂
+brusque | Her brusque reply ended the conversation. | adj. 唐突的，生硬的
+bucolic | The painting shows a bucolic scene of haymaking. | adj. 田园的，乡村的
+buttress | The study buttresses a long-held theory. | v. 支持 n. 扶壁
+cacophony | A cacophony of horns filled the street. | n. 刺耳的杂音
+cajole | He cajoled her into staying another day. | v. 哄骗，劝诱
+callous | His callous remark silenced the room. | adj. 冷酷无情的
+candor | Her candor surprised the interviewer. | n. 坦率
+capitulate | The city capitulated after a month. | v. 投降，屈服
+capricious | The weather here is notoriously capricious. | adj. 反复无常的
+castigate | The editorial castigated the whole council. | v. 严厉批评
+caustic | He made a caustic comment about the budget. | adj. 尖刻的；腐蚀性的
+censure | The committee censured him for the leak. | v./n. 谴责
+chastise | She chastised herself for the oversight. | v. 责备，惩罚
+circumspect | Be circumspect in what you put in writing. | adj. 谨慎的
+circumvent | They circumvented the rule with a technicality. | v. 规避，绕过
+clandestine | The group held clandestine meetings for years. | adj. 秘密的
+coalesce | The small groups coalesced into one party. | v. 合并，联合
+coerce | No one can coerce her into signing. | v. 强迫，胁迫
+cogent | He made a cogent case for delay. | adj. 有说服力的
+cognizant | The board was fully cognizant of the risk. | adj. 知晓的，认识到的
+complacent | Early success made the team complacent. | adj. 自满的
+conciliatory | His conciliatory tone cooled the dispute. | adj. 安抚的，调和的
+concise | Keep the summary concise and factual. | adj. 简明的
+condone | The court will not condone such delay. | v. 宽恕，纵容
+conducive | Silence is conducive to careful work. | adj. 有助于…的
+confound | The result confounded every prediction. | v. 使困惑；驳倒
+congenial | They found the atmosphere congenial. | adj. 意气相投的；宜人的
+conjecture | Her account is conjecture, not evidence. | n./v. 推测
+connoisseur | He is a connoisseur of early recordings. | n. 鉴赏家，行家
+consummate | She is a consummate negotiator. | adj. 完美的，技艺高超的 v. 完成
+contrite | He sounded contrite but changed nothing. | adj. 悔悟的
+conundrum | The funding gap is a real conundrum. | n. 难题
+convivial | The dinner was a convivial affair. | adj. 欢乐的，热闹友好的
+copious | She took copious notes during the lecture. | adj. 大量的，丰富的
+corroborate | A second witness corroborated the account. | v. 证实
+cosmopolitan | The port was a cosmopolitan city for centuries. | adj. 世界性的，国际化的
+covert | The agency ran a covert operation for years. | adj. 隐蔽的，秘密的
+covet | He had long coveted the corner office. | v. 觊觎，贪求
+credulous | Credulous investors lost everything. | adj. 轻信的
+cryptic | She left a cryptic note on the table. | adj. 神秘的，含义隐晦的
+culminate | The campaign culminated in a single vote. | v. 以…告终，达到顶点
+culpable | The report found the manager culpable. | adj. 有罪的，应受责备的
+cursory | A cursory glance showed the error. | adj. 草率的，粗略的
+curtail | The drought curtailed the harvest. | v. 缩减，削减
+daunt | The scale of the task did not daunt her. | v. 使气馁
+dearth | There is a dearth of reliable data. | n. 缺乏，匮乏
+debacle | The launch was an expensive debacle. | n. 惨败，崩溃
+debase | Inflation debased the currency. | v. 贬低，降低价值
+debilitate | The illness debilitated him for months. | v. 使虚弱
+decorum | He observed decorum even when provoked. | n. 礼节，得体
+deference | She spoke with deference to the older members. | n. 尊重，顺从
+deleterious | The policy had a deleterious effect on trade. | adj. 有害的
+delineate | The essay delineates three distinct phases. | v. 描绘，勾勒
+demur | He demurred at the suggested price. | v. 表示异议 n. 异议
+denigrate | There is no need to denigrate the earlier work. | v. 诋毁，贬低
+denounce | The press denounced the deal as a giveaway. | v. 公开谴责
+deplete | Overfishing depleted the stock within a decade. | v. 耗尽，大量减少
+deplore | We deplore the loss of the archive. | v. 强烈谴责；惋惜
+deride | Critics derided the idea at the time. | v. 嘲笑
+desolate | The valley was left desolate after the mine closed. | adj. 荒凉的；凄凉的
+despondent | He grew despondent after the third rejection. | adj. 沮丧的
+destitute | The flood left hundreds destitute. | adj. 赤贫的
+desultory | The discussion was desultory and went nowhere. | adj. 散漫的，无条理的
+detrimental | Late nights proved detrimental to her health. | adj. 有害的
+devious | He took a devious route to the same goal. | adj. 不正直的；迂回的
+diatribe | The letter was a diatribe against the new rules. | n. 抨击，谩骂
+didactic | The novel is spoiled by its didactic tone. | adj. 说教的
+diffident | She was too diffident to press her claim. | adj. 缺乏自信的，羞怯的
+digress | The speaker digressed for ten minutes. | v. 离题
+dilatory | The agency was dilatory in answering. | adj. 拖延的，磨蹭的
+diligent | Diligent checking caught the mistake. | adj. 勤勉的，认真的
+discern | It is hard to discern a pattern in the data. | v. 辨别，看出
+discord | Discord within the party cost it the election. | n. 不和，分歧
+discredit | A single error discredited the whole study. | v. 使丧失信誉
+discrepancy | There is a discrepancy between the two accounts. | n. 差异，不一致
+disdain | He regarded the award with disdain. | n./v. 轻蔑
+disingenuous | It is disingenuous to call that a minor change. | adj. 不诚恳的，虚伪的
+disinterested | We need a disinterested party to judge. | adj. 公正的，无私利的
+dismay | The news was received with dismay. | n./v. 沮丧，惊愕
+disparage | He never disparaged a rival in public. | v. 贬低
+disparate | The two accounts are entirely disparate. | adj. 迥异的
+dispassionate | The judge gave a dispassionate summary. | adj. 冷静客观的
+dissemble | He dissembled when asked about the delay. | v. 掩饰，装假
+disseminate | The findings were disseminated widely. | v. 散布，传播
+dissent | One member recorded her dissent. | n./v. 异议，反对
+dissipate | The crowd dissipated within minutes. | v. 消散；挥霍
+dissonance | There is a dissonance between policy and practice. | n. 不一致；不协和音
+docile | The animal is docile and easy to handle. | adj. 温顺的
+dogmatic | His dogmatic manner ended all discussion. | adj. 武断的，教条的
+dubious | The evidence is dubious at best. | adj. 可疑的；犹豫的
+duplicity | The duplicity of the broker cost them everything. | n. 口是心非，欺骗
+ebullient | She was ebullient after the result. | adj. 热情洋溢的
+eclectic | His taste in music is thoroughly eclectic. | adj. 兼收并蓄的
+efface | Time has effaced the inscription. | v. 抹去，擦掉
+effusive | Her effusive praise made him uneasy. | adj. 热情过分的
+egalitarian | The society was unusually egalitarian. | adj. 平等主义的
+egregious | It was an egregious error of judgment. | adj. 极恶劣的，过分的
+elicit | The question elicited a surprising answer. | v. 引出，诱导出
+eloquent | His eloquent plea changed several votes. | adj. 雄辩的，有说服力的
+elucidate | She elucidated the point with an example. | v. 阐明
+elusive | A clear answer remains elusive. | adj. 难以捉摸的
+embellish | He embellished the story with each telling. | v. 修饰；添油加醋
+eminent | An eminent historian reviewed the book. | adj. 杰出的，著名的
+emulate | Younger writers tried to emulate her style. | v. 效仿
+enervate | The long heat enervated the whole crew. | v. 使衰弱，使无力
+engender | The decision engendered lasting resentment. | v. 引起，产生
+enigma | His early career remains an enigma. | n. 谜，费解的事物
+enmity | The enmity between them lasted decades. | n. 敌意，仇恨
+entrenched | The practice is deeply entrenched. | adj. 根深蒂固的
+ephemeral | Fame of that kind is ephemeral. | adj. 短暂的
+epitome | The design is the epitome of restraint. | n. 典型，缩影
+equanimity | She faced the verdict with equanimity. | n. 镇定，平静
+equivocal | His answer was deliberately equivocal. | adj. 模棱两可的
+erudite | The footnotes are erudite and dense. | adj. 博学的
+eschew | He eschewed publicity throughout his life. | v. 避开，回避
+esoteric | The debate grew esoteric very quickly. | adj. 深奥的，少数人懂的
+espouse | She espoused the cause long before it was popular. | v. 支持，拥护
+euphemism | Downsizing is a euphemism for firing people. | n. 委婉语
+exacerbate | The delay exacerbated the shortage. | v. 加剧，恶化
+exalt | The biography exalts him beyond reason. | v. 赞扬；提升
+exasperate | The endless forms exasperated the applicants. | v. 激怒，使恼火
+exemplary | Her conduct throughout was exemplary. | adj. 模范的
+exhort | The captain exhorted them to hold on. | v. 劝诫，力劝
+exonerate | The inquiry exonerated the pilot. | v. 使免罪，证明无辜
+expedient | Silence seemed the expedient course. | adj. 权宜的 n. 权宜之计
+expedite | A second clerk expedited the paperwork. | v. 加快，加速
+expound | He expounded his theory for an hour. | v. 详细阐述
+extant | Only three copies are still extant. | adj. 现存的
+extol | Reviewers extolled the clarity of the writing. | v. 颂扬
+extraneous | Cut the extraneous detail from the opening. | adj. 无关的，外来的
+extricate | She could not extricate herself from the deal. | v. 使解脱，救出
+exuberant | The crowd was exuberant after the win. | adj. 兴高采烈的；茂盛的
+fabricate | He fabricated the whole interview. | v. 捏造；制造
+facetious | Her facetious answer annoyed the panel. | adj. 轻佻的，开玩笑的
+facile | The explanation is facile and leaves much out. | adj. 肤浅的；轻易的
+fallacy | The argument rests on a simple fallacy. | n. 谬论，谬误
+fastidious | He is fastidious about every citation. | adj. 挑剔的，一丝不苟的
+feign | She feigned surprise at the news. | v. 假装
+fervent | He made a fervent appeal for funds. | adj. 热情的，热烈的
+fickle | Public taste is notoriously fickle. | adj. 易变的，善变的
+flagrant | It was a flagrant disregard of the order. | adj. 公然的，恶劣的
+flaunt | He never flaunted his wealth. | v. 炫耀
+fledgling | The fledgling company survived its first year. | adj. 初出茅庐的 n. 新手
+flippant | A flippant reply was not what the moment needed. | adj. 轻率的，不严肃的
+flout | The firm flouted the regulations for years. | v. 公然藐视
+foment | The pamphlets fomented unrest in the capital. | v. 煽动
+forestall | Early action forestalled a panic. | v. 预先阻止
+forthright | Her forthright manner won respect. | adj. 直率的
+fortuitous | The meeting was entirely fortuitous. | adj. 偶然的
+frivolous | The court dismissed the claim as frivolous. | adj. 无聊的，轻浮的
+frugal | He led a frugal life despite his income. | adj. 节俭的
+furtive | She cast a furtive glance at the door. | adj. 鬼鬼祟祟的
+futile | Further argument proved futile. | adj. 徒劳的
+garrulous | Their garrulous neighbor kept them an hour. | adj. 唠叨的，话多的
+germane | That point is not germane to the question. | adj. 相关的，贴切的
+glean | We gleaned what we could from the fragments. | v. 搜集，费力获得
+grandiose | His grandiose plan was never funded. | adj. 浮夸的，宏大的
+gratuitous | The violence in the film is gratuitous. | adj. 无端的；免费的
+gregarious | He is gregarious and knows everyone. | adj. 爱交际的；群居的
+guile | She won by patience rather than guile. | n. 狡诈
+hackneyed | The phrase has grown hackneyed. | adj. 陈腐的，老套的
+hapless | The hapless clerk took all the blame. | adj. 倒霉的
+harangue | He delivered a long harangue on discipline. | n./v. 长篇训斥
+haughty | Her haughty manner put people off. | adj. 傲慢的
+heresy | Questioning the model was once heresy. | n. 异端邪说
+hyperbole | The claim is hyperbole, not analysis. | n. 夸张
+iconoclast | He was an iconoclast in a conservative field. | n. 打破传统的人
+idiosyncrasy | Every writer has some idiosyncrasy of style. | n. 怪癖，特质
+illicit | The illicit trade continued despite patrols. | adj. 非法的
+immutable | No rule here is immutable. | adj. 不可改变的
+impartial | We need an impartial review of the data. | adj. 公正的
+impasse | The talks reached an impasse over wages. | n. 僵局
+impeccable | Her timing was impeccable. | adj. 无可挑剔的
+impede | Heavy snow impeded the rescue. | v. 阻碍
+imperious | His imperious tone offended the staff. | adj. 专横的
+impertinent | The question struck her as impertinent. | adj. 无礼的；不相干的
+impervious | He is impervious to criticism. | adj. 不受影响的；不透的
+impetuous | The decision was impetuous and costly. | adj. 冲动的，鲁莽的
+impetus | The grant gave fresh impetus to the work. | n. 推动力，刺激
+implacable | They faced an implacable opponent. | adj. 不可平息的，毫不妥协的
+impromptu | She gave an impromptu talk on the subject. | adj. 即兴的
+impudent | The impudent reply got him dismissed. | adj. 无耻的，放肆的
+inadvertent | The omission was inadvertent. | adj. 疏忽的，无意的
+incessant | The incessant noise made study impossible. | adj. 不停的
+incisive | Her incisive questions exposed the gap. | adj. 尖锐的，敏锐的
+incongruous | The modern tower looks incongruous beside the church. | adj. 不协调的
+incredulous | He gave her an incredulous look. | adj. 不相信的，怀疑的
+indifferent | He was indifferent to the outcome. | adj. 漠不关心的；平庸的
+indignant | She was indignant at the suggestion. | adj. 愤慨的
+indolent | The climate encourages an indolent pace. | adj. 懒惰的
+inept | The inept handling of the crisis cost him his job. | adj. 无能的，笨拙的
+inexorable | The decline was slow but inexorable. | adj. 不可阻挡的
+infallible | No method of dating is infallible. | adj. 绝对可靠的，不会出错的
+ingenious | The solution was ingenious in its simplicity. | adj. 巧妙的，机灵的
+ingenuous | Her ingenuous reply disarmed them. | adj. 天真的，坦率的
+inimical | The climate is inimical to such crops. | adj. 有害的，敌意的
+innocuous | The remark seemed innocuous at the time. | adj. 无害的，无恶意的
+inordinate | He spent an inordinate amount on the frame. | adj. 过度的
+insatiable | She has an insatiable curiosity. | adj. 贪得无厌的
+inscrutable | His expression remained inscrutable. | adj. 高深莫测的
+insidious | The damage is slow and insidious. | adj. 暗中为害的，潜伏的
+insinuate | He insinuated that the data had been altered. | v. 暗示，旁敲侧击
+insipid | The sauce was thin and insipid. | adj. 乏味的
+insolent | The insolent tone ended the meeting. | adj. 傲慢无礼的
+instigate | He instigated the strike from abroad. | v. 煽动，发起
+insular | The community grew insular over time. | adj. 狭隘的；岛屿的
+intractable | The problem has proved intractable. | adj. 棘手的，难驾驭的
+intransigent | Both sides remained intransigent. | adj. 不妥协的
+inundate | Requests inundated the small office. | v. 淹没；大量涌入
+inveterate | He is an inveterate note-taker. | adj. 根深蒂固的，积习难改的
+irascible | The old editor was famously irascible. | adj. 易怒的
+itinerant | Itinerant traders followed the harvest. | adj. 巡回的，流动的
+jargon | Strip the jargon out of the summary. | n. 行话，术语
+judicious | A judicious cut improved the whole essay. | adj. 明智的，审慎的
+juxtapose | The exhibit juxtaposes old and new work. | v. 并置，并列
+laconic | His laconic reply told them nothing. | adj. 简洁的，言简意赅的
+lament | She lamented the loss of the old orchard. | v. 哀悼，惋惜 n. 挽歌
+languid | The afternoon had a languid air. | adj. 倦怠的，无精打采的
+latent | The talent lay latent for years. | adj. 潜在的，潜伏的
+laud | Critics lauded the restraint of the design. | v. 赞美
+lavish | They gave the project lavish support. | adj. 慷慨的，奢华的 v. 慷慨给予
+lax | Lax record-keeping caused the loss. | adj. 松懈的，不严格的
+lethargic | The heat left everyone lethargic. | adj. 昏昏欲睡的，无精打采的
+levity | A moment of levity eased the tension. | n. 轻松，诙谐
+loquacious | Their loquacious guide left no silence. | adj. 健谈的
+lucid | The lecture was lucid and well paced. | adj. 清晰的；头脑清醒的
+lucrative | Translation proved a lucrative sideline. | adj. 赚钱的
+ludicrous | The estimate was ludicrous. | adj. 荒唐可笑的
+magnanimous | He was magnanimous in defeat. | adj. 宽宏大量的
+malevolent | There was nothing malevolent in the mistake. | adj. 恶毒的，有恶意的
+malice | She bore him no malice. | n. 恶意
+malleable | Warm metal is more malleable. | adj. 可塑的；易受影响的
+mandate | The new mandate requires annual reports. | n. 授权，指令 v. 强制执行
+maverick | He was a maverick within his own party. | n. 特立独行者
+meager | They survived on meager rations. | adj. 微薄的，贫乏的
+meander | The talk meandered for an hour. | v. 漫谈；蜿蜒
+mediocre | The results were mediocre at best. | adj. 平庸的
+melancholy | A melancholy tone runs through the late work. | n./adj. 忧郁（的）
+mercurial | His mercurial moods made him hard to work with. | adj. 多变的，反复无常的
+meticulous | Her meticulous notes saved the project. | adj. 一丝不苟的
+mitigate | Shade trees mitigate the summer heat. | v. 缓和，减轻
+mollify | An apology mollified the client. | v. 安抚，平息
+morose | He grew morose as the evening wore on. | adj. 郁郁寡欢的
+mundane | Most of the job is mundane paperwork. | adj. 平凡的，世俗的
+myriad | A myriad of small errors added up. | n./adj. 无数（的）
+naive | It was naive to expect a quick answer. | adj. 天真的
+nebulous | The proposal is still nebulous. | adj. 模糊的
+negate | One bad season negated three good ones. | v. 否定，抵消
+nonchalant | He was nonchalant about the whole affair. | adj. 漫不经心的
+nostalgia | The book trades on nostalgia for the fifties. | n. 怀旧
+novice | As a novice she asked very good questions. | n. 新手
+nuance | The translation loses every nuance. | n. 细微差别
+obdurate | The committee remained obdurate. | adj. 顽固的
+obfuscate | The jargon obfuscates a simple point. | v. 使模糊，混淆
+obliterate | The fire obliterated every record. | v. 抹去，摧毁
+oblivious | She was oblivious to the noise around her. | adj. 未察觉的
+obstinate | His obstinate refusal delayed everything. | adj. 固执的
+obtuse | He was being deliberately obtuse. | adj. 迟钝的；钝角的
+ominous | An ominous silence followed the question. | adj. 不祥的
+onerous | The terms proved onerous for small firms. | adj. 繁重的
+opulent | The hall was opulent beyond their means. | adj. 豪华的，富丽的
+ostensible | The ostensible reason was budget cuts. | adj. 表面的，声称的
+ostentatious | The house is large without being ostentatious. | adj. 炫耀的，张扬的
+ostracize | The group ostracized him after the dispute. | v. 排斥，放逐
+painstaking | The restoration was painstaking and slow. | adj. 煞费苦心的
+palatable | The terms were made palatable by a long deadline. | adj. 可接受的；美味的
+panacea | More funding is no panacea. | n. 万能药
+paradigm | The discovery shifted the whole paradigm. | n. 范式，典范
+paradox | It is a paradox that the richest region borrowed most. | n. 悖论
+paragon | She is held up as a paragon of restraint. | n. 典范，完美的人
+parochial | His outlook is parochial for someone so travelled. | adj. 狭隘的；教区的
+parody | The sketch was a parody of the evening news. | n./v. 模仿嘲弄
+parsimony | Her parsimony was legendary in the office. | n. 吝啬；节俭
+partisan | The report was criticized as partisan. | adj. 党派的，有偏见的 n. 党羽
+paucity | A paucity of sources limits the study. | n. 缺乏，少量
+pedantic | His pedantic corrections slowed the meeting. | adj. 迂腐的，卖弄学问的
+penchant | He has a penchant for long sentences. | n. 嗜好，倾向
+pensive | She grew pensive after reading the letter. | adj. 沉思的
+perfunctory | He gave the file a perfunctory look. | adj. 敷衍的
+peripheral | That concern is peripheral to the main issue. | adj. 次要的；外围的
+pernicious | The rumor had a pernicious effect on morale. | adj. 有害的，恶性的
+perplex | The result perplexed the whole team. | v. 使困惑
+pertinent | She asked a pertinent question about cost. | adj. 中肯的，相关的
+peruse | He perused the contract line by line. | v. 细读
+pervasive | The influence is subtle but pervasive. | adj. 普遍存在的
+petulant | His petulant response surprised everyone. | adj. 使性子的，脾气坏的
+philanthropy | The hospital was built by private philanthropy. | n. 慈善，博爱
+pious | He was pious without being severe. | adj. 虔诚的
+pithy | Her pithy summary said it all. | adj. 简练有力的
+placate | Nothing he said could placate the crowd. | v. 安抚
+placid | The placid surface hid a strong current. | adj. 平静的
+platitude | The speech was a string of platitudes. | n. 陈词滥调
+plethora | A plethora of options paralyzed the buyer. | n. 过多，大量
+poignant | The final scene is quietly poignant. | adj. 令人心酸的
+ponderous | The prose is ponderous but thorough. | adj. 笨重的；冗长乏味的
+pragmatic | They took a pragmatic view of the budget. | adj. 务实的
+precarious | The firm is in a precarious position. | adj. 不稳的，危险的
+precedent | The ruling set an awkward precedent. | n. 先例
+preclude | The wording precludes any appeal. | v. 排除，阻止
+precocious | The precocious child read before she was four. | adj. 早熟的
+predilection | He has a predilection for older instruments. | n. 偏爱
+preposterous | The charge is preposterous. | adj. 荒谬的
+pretentious | The menu is pretentious and overpriced. | adj. 自命不凡的
+pristine | The valley remains pristine. | adj. 原始的，纯净的
+proclivity | He showed an early proclivity for languages. | n. 倾向，癖性
+prodigal | After a prodigal decade he had nothing left. | adj. 挥霍的
+prodigious | She has a prodigious memory for dates. | adj. 惊人的，巨大的
+proficient | He is proficient in three languages. | adj. 熟练的
+prolific | The author was prolific well into old age. | adj. 多产的
+propensity | Steel has a propensity to rust in salt air. | n. 倾向
+propitious | The timing was not propitious. | adj. 吉利的，有利的
+prosaic | The real reason is rather prosaic. | adj. 平淡无奇的
+protagonist | The protagonist never appears in the first act. | n. 主角
+provincial | His views are provincial and dated. | adj. 狭隘的；省的
+proximity | The proximity of the river explains the site. | n. 接近，邻近
+pugnacious | His pugnacious style suited the courtroom. | adj. 好斗的
+pungent | A pungent smell filled the workshop. | adj. 刺鼻的；尖刻的
+quaint | The village has a quaint stone bridge. | adj. 古雅的，古怪有趣的
+quandary | She was in a quandary over the offer. | n. 窘境，进退两难
+quell | Troops quelled the disturbance by evening. | v. 平息，镇压
+quintessential | He is the quintessential careful editor. | adj. 典型的，精髓的
+quixotic | The scheme was quixotic but endearing. | adj. 不切实际的，空想的
+rampant | Rumors were rampant that week. | adj. 猖獗的，蔓延的
+rancor | He spoke without rancor about the dismissal. | n. 积怨，仇恨
+rapport | She quickly built a rapport with the crew. | n. 融洽关系
+ratify | Parliament ratified the agreement in June. | v. 批准
+raucous | A raucous cheer went up from the back. | adj. 刺耳的，喧闹的
+rebuke | The letter was a public rebuke. | n./v. 指责，斥责
+rebut | He rebutted the charge point by point. | v. 反驳
+recalcitrant | The recalcitrant member blocked every motion. | adj. 顽抗的，不服从的
+recant | Under pressure he recanted his earlier claim. | v. 公开改口，撤回
+reciprocal | The arrangement is reciprocal. | adj. 互惠的，相互的
+reclusive | The painter grew reclusive in later life. | adj. 隐居的
+rectify | A single line of code rectified the error. | v. 纠正
+redundant | The third paragraph is redundant. | adj. 多余的；被裁员的
+refute | New data refuted the earlier estimate. | v. 驳斥，反驳
+relegate | The team was relegated to the lower division. | v. 降级，贬谪
+relentless | The pace was relentless all week. | adj. 不懈的，无情的
+remorse | He showed no remorse at the hearing. | n. 悔恨
+renounce | She renounced her claim to the estate. | v. 放弃，断绝
+repudiate | The author repudiated the earlier edition. | v. 否认，拒绝承认
+rescind | The board rescinded the order a week later. | v. 废除，撤回
+resolute | She was resolute in the face of pressure. | adj. 坚决的
+respite | The rain gave a brief respite from the heat. | n. 暂歇，喘息
+reticent | He was reticent about his own role. | adj. 沉默寡言的
+revere | Students revered the old professor. | v. 尊敬，崇敬
+rhetoric | Strip away the rhetoric and little remains. | n. 修辞；花言巧语
+rudimentary | Her grasp of the language was rudimentary. | adj. 基本的，初步的
+ruminate | He ruminated on the offer for a week. | v. 反复思考
+sagacious | A sagacious investor sold early. | adj. 睿智的
+salient | The salient point was buried in a footnote. | adj. 显著的，突出的
+salutary | The failure had a salutary effect on the team. | adj. 有益的，有警示作用的
+sanction | The treaty sanctions inspections at any time. | v. 批准；制裁 n. 认可；制裁
+sanguine | He is sanguine about next year. | adj. 乐观的
+sardonic | A sardonic smile crossed his face. | adj. 讥讽的
+scathing | The review was scathing. | adj. 严厉的，尖刻的
+scrupulous | She is scrupulous about sources. | adj. 一丝不苟的；审慎正直的
+sedentary | A sedentary life weakens the heart. | adj. 久坐不动的；定居的
+serene | The lake was serene at that hour. | adj. 宁静的
+servile | His servile manner embarrassed everyone. | adj. 卑躬屈膝的
+shrewd | It was a shrewd piece of bargaining. | adj. 精明的
+sinister | There is nothing sinister in the delay. | adj. 阴险的，不祥的
+slander | He sued the paper for slander. | n./v. 诽谤
+solace | She found solace in long walks. | n. 安慰 v. 慰藉
+solicit | The charity solicited donations by mail. | v. 请求，征求
+solicitous | He was solicitous about her health. | adj. 关切的
+somber | The mood in the room was somber. | adj. 阴郁的，严肃的
+soporific | The lecture had a soporific effect. | adj. 催眠的 n. 安眠药
+specious | The argument is specious but attractive. | adj. 似是而非的
+spurious | The letter turned out to be spurious. | adj. 伪造的，虚假的
+spurn | She spurned every offer of help. | v. 摒弃，拒绝
+squander | They squandered a decade of goodwill. | v. 挥霍，浪费
+stark | The contrast is stark. | adj. 鲜明的；严酷的
+steadfast | He was steadfast in his support. | adj. 坚定不移的
+stigma | The stigma attached to the illness has faded. | n. 污名，耻辱
+stipulate | The contract stipulates monthly reports. | v. 规定，明确要求
+stoic | She was stoic about the long recovery. | adj. 隐忍的 n. 坚忍克己的人
+strident | The campaign took a strident tone. | adj. 刺耳的；尖锐强硬的
+strife | Years of strife emptied the countryside. | n. 冲突，争斗
+stringent | Stringent rules govern the export of the material. | adj. 严格的
+subdue | He subdued his irritation and answered calmly. | v. 制服；抑制
+sublime | The view from the ridge is sublime. | adj. 壮丽的，崇高的
+subservient | The office became subservient to the parent firm. | adj. 从属的，屈从的
+subside | The swelling subsided overnight. | v. 消退，平息
+substantiate | Nothing in the file substantiates the claim. | v. 证实
+subterfuge | They got in by subterfuge. | n. 诡计，托词
+succinct | Give me a succinct account of what happened. | adj. 简洁的
+succumb | The orchard succumbed to a single hard frost. | v. 屈服；死于
+sullen | He left with a sullen nod. | adj. 愠怒的，阴沉的
+supercilious | The clerk had a supercilious manner. | adj. 傲慢的
+superfluous | The last chapter is superfluous. | adj. 多余的
+supplant | Steel supplanted iron within a generation. | v. 取代
+surreptitious | He took a surreptitious look at the file. | adj. 偷偷摸摸的
+susceptible | Young trees are susceptible to the blight. | adj. 易受影响的
+sycophant | The court was full of sycophants. | n. 谄媚者
+tacit | There was a tacit agreement not to mention it. | adj. 心照不宣的，默许的
+taciturn | Her taciturn partner said almost nothing. | adj. 沉默寡言的
+tangential | The remark was tangential to the debate. | adj. 离题的，切线的
+tantamount | Silence here is tantamount to consent. | adj. 等同于…的
+temerity | He had the temerity to ask for more. | n. 鲁莽，冒失
+tenacious | She is tenacious once she takes a case. | adj. 顽强的，坚持的
+tenet | Openness is a central tenet of the method. | n. 信条，原则
+tenuous | The link between the two is tenuous. | adj. 薄弱的，脆弱的
+tepid | The proposal got a tepid reception. | adj. 不冷不热的，温吞的
+terse | His terse note ended the exchange. | adj. 简短生硬的
+thwart | Bad weather thwarted the attempt. | v. 阻挠，挫败
+timid | He was too timid to object. | adj. 胆小的
+tortuous | The negotiation followed a tortuous path. | adj. 曲折的，迂回的
+tractable | The problem is more tractable than it looks. | adj. 易处理的，驯服的
+transient | The effect is transient and fades by morning. | adj. 短暂的
+trepidation | She opened the letter with trepidation. | n. 惶恐，不安
+truculent | His truculent reply ended the matter. | adj. 好斗的，凶狠的
+turmoil | The department was in turmoil for a year. | n. 混乱，动荡
+ubiquitous | The design became ubiquitous within a decade. | adj. 无处不在的
+unassuming | Her unassuming manner hid real authority. | adj. 谦逊的，不张扬的
+uncanny | The resemblance is uncanny. | adj. 离奇的，不可思议的
+unequivocal | The answer was an unequivocal no. | adj. 明确的，毫不含糊的
+unprecedented | The decision was unprecedented. | adj. 前所未有的
+unscrupulous | An unscrupulous agent took half the fee. | adj. 不择手段的
+untenable | His position became untenable. | adj. 站不住脚的
+usurp | A cousin usurped the throne. | v. 篡夺
+vacillate | She vacillated for weeks before deciding. | v. 犹豫不决
+vapid | The conversation was vapid. | adj. 乏味的
+vehement | He made a vehement denial. | adj. 激烈的，强烈的
+venerate | The town venerates its founder. | v. 尊崇
+veracity | No one questioned her veracity. | n. 诚实，真实性
+verbose | The report is verbose and repetitive. | adj. 冗长的
+vex | The question vexed the committee for months. | v. 使烦恼
+vigilant | Crews stayed vigilant through the night. | adj. 警惕的
+vilify | The press vilified him for the decision. | v. 诽谤，中伤
+vindicate | The later data vindicated her claim. | v. 证明…正确，为…辩白
+vindictive | The ruling struck many as vindictive. | adj. 报复心强的
+virtuoso | He is a virtuoso of the early keyboard. | n. 大师，演奏能手
+virulent | The virulent strain spread in days. | adj. 致命的；恶毒的
+vociferous | A vociferous minority blocked the plan. | adj. 大声疾呼的
+volatile | The market stayed volatile all quarter. | adj. 不稳定的；易挥发的
+voracious | He is a voracious reader of biography. | adj. 贪婪的，狼吞虎咽的
+wane | Her interest waned after the first month. | v. 衰退，减弱
+wary | Investors remain wary of the sector. | adj. 谨慎的，警惕的
+whimsical | The design has a whimsical charm. | adj. 异想天开的，古怪有趣的
+wistful | He gave a wistful look at the old building. | adj. 惆怅的，怀念的
+wry | She made a wry comment about the budget. | adj. 揶揄的，苦笑的
+zeal | His zeal for the cause never faded. | n. 热忱
+zenith | The movement reached its zenith in 1890. | n. 顶点，巅峰

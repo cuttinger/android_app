@@ -220,6 +220,8 @@ class Library(context: Context) {
             Triple("vocab.txt", "builtin-vocab", "生词本"),
             Triple("daily.txt", "builtin-daily", "每日地道英语短语"),
             Triple("cet6.txt", "builtin-cet6", "六级核心词汇"),
+            Triple("toefl.txt", "builtin-toefl", "托福核心词汇"),
+            Triple("gre.txt", "builtin-gre", "GRE 核心词汇"),
         )
 
         /** Ids used by earlier builds -> the stable id now in use. */
