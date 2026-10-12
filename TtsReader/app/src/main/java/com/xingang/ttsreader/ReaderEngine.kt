@@ -108,6 +108,9 @@ object ReaderEngine {
         val v = voices().firstOrNull { it.name == name } ?: return
         library.ttsVoice = name
         tts?.voice = v
+        // Switching to Chinese clears the voice, and speakCurrent() restores it
+        // from englishVoice; without this the next switch back would undo the choice.
+        englishVoice = v
         if (_state.value.playing) { stopSpeaking(); speakCurrent() }
     }
 
