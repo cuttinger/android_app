@@ -55,14 +55,20 @@ object ReaderEngine {
     private var retries = 0
     /** An output error is followed by a spurious focus loss; ignore losses until this time. */
     private var ignoreFocusLossUntil = 0L
-    /** Which part of the current sentence (word / 中文 / example) is being spoken. */
-    private var partIndex = 0
     /** Whether the engine can speak Chinese; when it cannot, those parts are skipped. */
     private var chineseAvailable = false
     /** Language currently loaded into the engine, to avoid redundant switches. */
     private var currentLocale: Locale? = null
     /** Reading order: the identity permutation, or a shuffled one when [State.shuffle] is on. */
     private var order: List<Int> = emptyList()
+    /** Makes each utterance id unique, so a stale callback cannot match a re-read of the same part. */
+    private var utteranceSeq = 0
+    /** Consecutive failures to bind the TTS service. */
+    private var initAttempts = 0
+    /** Token for the retry and watchdog callbacks of the current entry. */
+    private val speakToken = Any()
+    /** Batch number of the utterances now queued; stale callbacks carry an older one. */
+    private var speakingSeq = 0
 
     fun init(context: Context) {
         if (::appContext.isInitialized) return
@@ -106,11 +112,16 @@ object ReaderEngine {
     }
 
     private fun createEngine() {
+        try { tts?.shutdown() } catch (e: Exception) { /* the old client may already be dead */ }
+        tts = null
         val preferred = library.ttsEngine
+        var created: TextToSpeech? = null
         val listener = TextToSpeech.OnInitListener { status ->
             main.post {
                 if (status == TextToSpeech.SUCCESS) {
-                    val engine = tts ?: return@post
+                    val engine = created ?: return@post
+                    // A newer client has replaced this one; let that one configure itself.
+                    if (engine !== tts) return@post
                     val res = engine.setLanguage(Locale.US)
                     if (res == TextToSpeech.LANG_MISSING_DATA || res == TextToSpeech.LANG_NOT_SUPPORTED) {
                         _state.value = _state.value.copy(error = "TTS 引擎缺少英语语音包")
@@ -130,15 +141,39 @@ object ReaderEngine {
                     )
                     engine.setSpeechRate(_state.value.rate)
                     engine.setOnUtteranceProgressListener(progressListener)
+                    initAttempts = 0
                     _state.value = _state.value.copy(ready = true)
                     Log.d(TAG, "tts ready, engine=${engine.defaultEngine}")
                     if (_state.value.playing) speakCurrent()
                 } else {
-                    _state.value = _state.value.copy(error = "TTS 引擎初始化失败")
+                    // Binding fails while the engine app is being updated, or after
+                    // the system has frozen it. Back off and try again rather than
+                    // leaving the reader permanently mute.
+                    Log.w(TAG, "tts init failed (attempt $initAttempts)")
+                    if (initAttempts < MAX_INIT_ATTEMPTS) {
+                        initAttempts++
+                        main.postDelayed({ createEngine() }, 2_000L * initAttempts)
+                    } else {
+                        _state.value = _state.value.copy(error = "TTS 引擎初始化失败")
+                    }
                 }
             }
         }
-        tts = if (preferred != null) TextToSpeech(appContext, listener, preferred) else TextToSpeech(appContext, listener)
+        created = if (preferred != null) TextToSpeech(appContext, listener, preferred) else TextToSpeech(appContext, listener)
+        tts = created
+    }
+
+    /**
+     * Build a fresh TextToSpeech client after the link to the engine process is
+     * lost. [createEngine] resumes playback once the new client reports ready.
+     */
+    private fun rebuildEngine() {
+        speakingId = null
+        main.removeCallbacksAndMessages(speakToken)
+        currentLocale = null
+        englishVoice = null
+        _state.value = _state.value.copy(ready = false)
+        createEngine()
     }
 
     // ---- commands (main thread) -------------------------------------------
@@ -148,7 +183,6 @@ object ReaderEngine {
         val sentences = Sentences.split(passage.body)
         val index = startIndex.coerceIn(0, (sentences.size - 1).coerceAtLeast(0))
         stopSpeaking()
-        partIndex = 0
         _state.value = _state.value.copy(
             passageId = passage.id, title = passage.title, sentences = sentences, index = index, playing = false,
         )
@@ -160,7 +194,6 @@ object ReaderEngine {
         val s = _state.value
         if (!s.hasContent) return
         val index = if (s.index >= s.sentences.size) 0 else s.index
-        if (index != s.index) partIndex = 0
         _state.value = s.copy(index = index, playing = true, error = null)
         ReaderService.start(appContext)
         appContext.startService(Intent(appContext, ReaderMediaService::class.java))
@@ -182,7 +215,6 @@ object ReaderEngine {
         if (!s.hasContent) return
         val i = index.coerceIn(0, s.sentences.size - 1)
         stopSpeaking()
-        partIndex = 0
         _state.value = s.copy(index = i)
         s.passageId?.let { library.savePosition(it, i) }
         if (s.playing) speakCurrent()
@@ -243,45 +275,65 @@ object ReaderEngine {
 
     // ---- speaking -----------------------------------------------------------
 
+    /**
+     * Queue every part of the current entry at once (word, 中文释义, example).
+     * The engine then plays them back to back; waiting for each callback before
+     * issuing the next one adds an audible pause between them.
+     */
     private fun speakCurrent() {
+        main.removeCallbacksAndMessages(speakToken)
         val s = _state.value
         val engine = tts ?: return
         if (!s.ready || !s.playing) return
         val sentence = s.current ?: run { finish(); return }
         val parts = partsOf(sentence)
-        if (partIndex >= parts.size) partIndex = 0
-        val part = parts.getOrNull(partIndex) ?: run { finish(); return }
-        val text = part.text
-        // Switching locale resets the selected voice, so re-apply it for English.
-        if (currentLocale != part.locale) {
-            engine.setLanguage(part.locale)
-            currentLocale = part.locale
-            if (part.locale.language == "en") englishVoice?.let { engine.voice = it }
-        }
-        val id = "${s.passageId}#${s.index}.$partIndex"
-        speakingId = id
+        if (parts.isEmpty()) { finish(); return }
+        val seq = ++utteranceSeq
+        speakingSeq = seq
         s.passageId?.let { library.savePosition(it, s.index) }
-        val r = engine.speak(text, TextToSpeech.QUEUE_FLUSH, null, id)
-        Log.d(TAG, "speak $id -> $r ready=${s.ready}")
-        if (r != TextToSpeech.SUCCESS) {
-            Log.w(TAG, "speak failed for $id (retry $retries)")
-            if (retries < MAX_RETRIES) {
-                retries++
-                main.postDelayed({ if (speakingId == id && _state.value.playing) speakCurrent() }, 1_500)
-            } else {
-                retries = 0
-                _state.value = s.copy(playing = false, error = "朗读失败")
-                abandonFocus()
+        var mode = TextToSpeech.QUEUE_FLUSH
+        var last: String? = null
+        for ((i, part) in parts.withIndex()) {
+            // The language travels with each queued utterance, so switching here
+            // affects only the part being queued. Switching also drops the chosen
+            // voice, which has to be re-applied for English.
+            if (currentLocale != part.locale) {
+                engine.setLanguage(part.locale)
+                currentLocale = part.locale
+                if (part.locale.language == "en") englishVoice?.let { engine.voice = it }
             }
-            return
+            val id = "${s.passageId}#${s.index}.$i@$seq"
+            val r = engine.speak(part.text, mode, null, id)
+            Log.d(TAG, "speak $id -> $r")
+            if (r != TextToSpeech.SUCCESS) {
+                // speak() only fails synchronously when the link to the engine process
+                // is gone, and the client never reconnects by itself, so retrying on it
+                // would fail just as surely. Build a new one instead.
+                Log.w(TAG, "speak failed for $id (attempt $retries); rebuilding engine")
+                if (retries < MAX_RETRIES) {
+                    retries++
+                    rebuildEngine()
+                } else {
+                    retries = 0
+                    _state.value = s.copy(playing = false, error = "朗读失败")
+                    abandonFocus()
+                }
+                return
+            }
+            mode = TextToSpeech.QUEUE_ADD
+            last = id
         }
+        // Only the last part signals that the entry is finished.
+        speakingId = last
         // Watchdog: some audio paths swallow an utterance without any callback
         // (seen on the Automotive emulator right after start-up). Re-issue it.
-        val units = if (part.locale.language == "zh") text.length else text.split(' ').size
+        val units = parts.sumOf { p ->
+            if (p.locale.language == "zh") p.text.length else p.text.split(' ').size
+        }
         val budget = (units * 700L / s.rate).toLong().coerceAtLeast(8_000L) + 4_000L
         main.postDelayed({
-            if (speakingId == id && _state.value.playing) {
-                Log.w(TAG, "utterance $id timed out after $budget ms; retrying")
+            if (speakingId == last && _state.value.playing) {
+                Log.w(TAG, "entry $last timed out after $budget ms; retrying")
                 if (retries < MAX_RETRIES) {
                     retries++
                     engine.stop()
@@ -292,8 +344,11 @@ object ReaderEngine {
                     abandonFocus()
                 }
             }
-        }, budget)
+        }, speakToken, budget)
     }
+
+    /** Whether [id] belongs to the batch of utterances now queued. */
+    private fun inCurrentBatch(id: String?) = id != null && id.endsWith("@$speakingSeq")
 
     /** Utterances for one entry under the current mode, dropping Chinese if the engine lacks it. */
     private fun partsOf(sentence: Sentence): List<SpokenPart> {
@@ -307,7 +362,6 @@ object ReaderEngine {
     fun setSpeakMode(mode: SpeakMode) {
         library.speakMode = mode
         _state.value = _state.value.copy(speakMode = mode)
-        partIndex = 0
         if (_state.value.playing) { stopSpeaking(); speakCurrent() }
     }
 
@@ -333,7 +387,6 @@ object ReaderEngine {
         if (rest.isEmpty()) {
             _state.value = _state.value.copy(playing = false)
         } else if (wasCurrent && s.playing) {
-            partIndex = 0
             speakCurrent()
         }
         return sentence
@@ -349,7 +402,8 @@ object ReaderEngine {
 
     private fun stopSpeaking() {
         speakingId = null
-        tts?.stop()
+        main.removeCallbacksAndMessages(speakToken)
+        try { tts?.stop() } catch (e: Exception) { /* the client may already be dead */ }
     }
 
     private fun finish() {
@@ -364,22 +418,17 @@ object ReaderEngine {
         override fun onDone(utteranceId: String?) {
             Log.d(TAG, "utterance done $utteranceId")
             main.post {
+                // Earlier parts of the entry need no action: the rest is already queued.
                 if (utteranceId != speakingId) return@post
                 retries = 0
                 val s = _state.value
                 if (!s.playing) return@post
-                val parts = s.current?.let { partsOf(it) } ?: emptyList()
-                if (partIndex + 1 < parts.size) {
-                    // More parts of this entry: word -> 中文释义 -> example.
-                    partIndex++
-                    speakCurrent()
-                } else if (nextInOrder(s.index) != null) {
-                    partIndex = 0
-                    _state.value = s.copy(index = nextInOrder(s.index)!!)
+                val next = nextInOrder(s.index)
+                if (next != null) {
+                    _state.value = s.copy(index = next)
                     speakCurrent()
                 } else {
                     // Reached the end: stop and rewind so the next play starts over.
-                    partIndex = 0
                     val first = order.firstOrNull() ?: 0
                     _state.value = s.copy(playing = false, index = first)
                     s.passageId?.let { library.savePosition(it, first) }
@@ -395,15 +444,15 @@ object ReaderEngine {
         override fun onError(utteranceId: String?, errorCode: Int) {
             Log.w(TAG, "utterance error $utteranceId code=$errorCode")
             main.post {
-                if (utteranceId != speakingId) return@post
+                if (!inCurrentBatch(utteranceId)) return@post
                 if (retries < MAX_RETRIES && _state.value.playing) {
                     // Transient output errors happen right after start-up on some heads; try again.
                     // The system also reports a focus loss right after such an error: not a real one.
                     retries++
                     ignoreFocusLossUntil = System.currentTimeMillis() + 3_000
                     main.postDelayed({
-                        if (speakingId == utteranceId && _state.value.playing) { requestFocus(); speakCurrent() }
-                    }, 1_500)
+                        if (inCurrentBatch(utteranceId) && _state.value.playing) { requestFocus(); speakCurrent() }
+                    }, speakToken, 1_500)
                     return@post
                 }
                 retries = 0
@@ -427,7 +476,7 @@ object ReaderEngine {
         }
     }
 
-    private fun requestFocus() {
+    private fun requestFocus(): Boolean {
         val am = appContext.getSystemService(Context.AUDIO_SERVICE) as AudioManager
         val req = focusRequest ?: AudioFocusRequest.Builder(AudioManager.AUDIOFOCUS_GAIN)
             .setAudioAttributes(
@@ -441,6 +490,11 @@ object ReaderEngine {
             .also { focusRequest = it }
         val r = am.requestAudioFocus(req)
         Log.d(TAG, "requestAudioFocus -> $r")
+        val granted = r == AudioManager.AUDIOFOCUS_REQUEST_GRANTED
+        // Speaking without focus often still works, but it can come out silent;
+        // say so rather than showing a playing state the user cannot hear.
+        if (!granted) _state.value = _state.value.copy(error = "未取得音频焦点，可能听不到声音")
+        return granted
     }
 
     private fun abandonFocus() {
@@ -454,4 +508,5 @@ object ReaderEngine {
 
     private const val TAG = "TtsReader"
     private const val MAX_RETRIES = 2
+    private const val MAX_INIT_ATTEMPTS = 3
 }
