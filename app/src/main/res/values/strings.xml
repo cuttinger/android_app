@@ -1,8 +1,5 @@
 <resources>
     <string name="app_name">最近使用</string>
-    <string name="subtitle_count">共 %1$d 个应用，%2$d 个有使用记录</string>
-    <string name="subtitle_no_permission">需要「使用情况访问权限」</string>
-    <string name="never_used">无记录</string>
     <string name="cannot_launch">无法打开该应用</string>
     <string name="permission_title">需要使用情况访问权限</string>
     <string name="permission_body">要按最近打开顺序排列应用，需要读取系统的应用使用记录。请在设置中找到「最近使用」并开启访问权限，然后返回本应用。</string>
@@ -10,7 +7,35 @@
     <string name="search_hint">搜索应用（支持拼音 / 首字母）</string>
     <string name="clear_search">清除搜索</string>
     <string name="no_match">没有匹配的应用</string>
-    <string name="subtitle_filtered">匹配 %1$d 个，共 %2$d 个应用</string>
+
+    <!-- Pinned page -->
+    <string name="add_favorite">添加</string>
+    <string name="remove_favorite">移除</string>
+    <string name="favorites_hint">长按进入编辑：拖动排序，点红标移除</string>
+    <string name="favorites_edit_on">编辑中：拖动排序，点红标移除，返回键退出</string>
+    <string name="pick_favorites">选择常用应用</string>
+    <string name="pinned">已添加到常用：%1$s</string>
+    <string name="already_pinned">%1$s 已在常用中</string>
+
+    <!-- Quick settings page -->
+    <string name="qs_rotate">自动旋转</string>
+    <string name="qs_torch">手电筒</string>
+    <string name="qs_screenshot">截图</string>
+    <string name="qs_qr">扫二维码</string>
+    <string name="qs_hotspot">热点</string>
+    <string name="qs_wifi">WLAN</string>
+    <string name="qs_bluetooth">蓝牙</string>
+    <string name="qs_airplane">飞行模式</string>
+    <string name="qs_battery">省电模式</string>
+    <string name="qs_developer">开发者选项</string>
+    <string name="qs_hint">亮起的可直接开关，其余跳转到系统页面</string>
+    <string name="needs_write_settings">需要先授予「修改系统设置」权限</string>
+    <string name="no_torch">本机不支持手电筒</string>
+    <string name="screenshot_needs_service">截图需要先开启「最近使用」的无障碍服务</string>
+    <string name="screenshot_unsupported">系统版本过低，无法截图</string>
+    <string name="no_scanner">没有找到可用的扫码应用</string>
+    <string name="screen_not_found">本机没有这个系统页面</string>
+    <string name="screenshot_service_desc">仅用于执行截图动作，不读取任何屏幕内容。</string>
 
     <!-- Settings -->
     <string name="settings">设置</string>
