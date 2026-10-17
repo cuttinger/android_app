@@ -1,0 +1,545 @@
+# 专业四级核心词汇表（按字母排序，释义与例句为自编）
+# 已去除与其他语料重复的词条
+# word | example sentence | 中文释义
+absence | His absence from the meeting was noticed. | n. 缺席，不在
+abuse | The system is open to abuse. | n./v. 滥用；虐待
+accent | She speaks English with a slight accent. | n. 口音；重音
+acceptance | The idea met with general acceptance. | n. 接受，认可
+accessory | The lamp comes with no accessories. | n. 配件；从犯
+accordance | The work was done in accordance with the plan. | n. 一致，符合
+accountant | The accountant found the error at once. | n. 会计
+ache | My back aches after a long drive. | v. 疼痛 n. 疼痛
+achievement | Finishing the race was a real achievement. | n. 成就
+acquaintance | He is an acquaintance rather than a friend. | n. 熟人；相识
+activate | Heat activates the chemical. | v. 激活，启动
+addiction | The clinic treats addiction to painkillers. | n. 成瘾
+admission | Admission to the museum is free on Sundays. | n. 准入；承认
+adventure | The trip turned into a real adventure. | n. 冒险
+affection | She showed great affection for her students. | n. 喜爱，感情
+afford | We cannot afford a longer delay. | v. 负担得起
+agency | The agency handles all the bookings. | n. 机构，代理处
+agony | He was in agony until the doctor arrived. | n. 极度痛苦
+aisle | Please keep the aisle clear. | n. 过道
+alarm | The alarm woke the whole building. | n. 警报 v. 使惊恐
+alert | Guards stayed alert through the night. | adj. 警觉的 v. 警告
+alike | The twins dress alike. | adj./adv. 相似的，同样地
+allergy | She has an allergy to shellfish. | n. 过敏
+allowance | Students receive a small travel allowance. | n. 津贴，限额
+amateur | The play was staged by an amateur company. | adj. 业余的 n. 业余爱好者
+amaze | The size of the hall amazed us. | v. 使惊讶
+ambassador | The ambassador was recalled in March. | n. 大使
+ambulance | An ambulance arrived within minutes. | n. 救护车
+amuse | The story amused everyone at the table. | v. 逗乐
+ancient | The ruins date from ancient times. | adj. 古代的
+angle | Look at the problem from another angle. | n. 角度
+anniversary | The school marked its hundredth anniversary. | n. 周年纪念
+announce | The winner was announced at noon. | v. 宣布
+anxiety | Exam anxiety affects many students. | n. 焦虑
+apologize | He apologized for the delay. | v. 道歉
+apparent | It soon became apparent that we were lost. | adj. 明显的；表面的
+appetite | The walk gave us a good appetite. | n. 食欲；欲望
+applaud | The audience applauded warmly. | v. 鼓掌，称赞
+appoint | She was appointed head of the department. | v. 任命
+appreciate | I appreciate your help. | v. 感激；欣赏；领会
+approach | We need a fresh approach. | n. 方法 v. 接近
+approve | The board approved the budget. | v. 批准，赞成
+argue | They argued about the cost for an hour. | v. 争论；主张
+arise | Problems arise when the rules are unclear. | v. 出现，产生
+arrange | She arranged the chairs in a circle. | v. 安排；整理
+arrest | Two men were arrested at the scene. | v./n. 逮捕
+arrogant | His arrogant manner lost him friends. | adj. 傲慢的
+artificial | The lake is artificial. | adj. 人造的，虚假的
+ashamed | He felt ashamed of his outburst. | adj. 羞愧的
+aspect | Every aspect of the plan was examined. | n. 方面
+assist | A nurse assisted the surgeon. | v. 协助
+associate | We associate the smell with childhood. | v. 联想；交往 n. 同事
+athlete | The athlete trained twice a day. | n. 运动员
+attach | Please attach the receipt to the form. | v. 附上，固定
+attempt | Her first attempt failed. | n./v. 尝试
+attend | Two hundred people attended the lecture. | v. 出席；照料
+attitude | His attitude to work changed completely. | n. 态度
+attract | The festival attracts visitors from abroad. | v. 吸引
+audience | The audience sat in silence. | n. 观众，听众
+automatic | The doors are automatic. | adj. 自动的
+available | Tickets are no longer available. | adj. 可获得的
+average | The average rainfall is low here. | adj. 平均的 n. 平均数
+avoid | Try to avoid the rush hour. | v. 避免
+award | She won an award for the design. | n. 奖 v. 授予
+aware | Few were aware of the risk. | adj. 意识到的
+bachelor | He holds a bachelor's degree in history. | n. 学士；单身汉
+badge | Visitors must wear a badge. | n. 徽章
+baggage | Our baggage was delayed. | n. 行李
+balance | She lost her balance on the step. | n. 平衡；余额 v. 使平衡
+balcony | They watched the parade from the balcony. | n. 阳台
+ban | The city banned traffic in the old town. | v./n. 禁止
+bandage | He wrapped a bandage round his wrist. | n. 绷带 v. 包扎
+bankrupt | The firm went bankrupt last winter. | adj. 破产的 v. 使破产
+banner | A banner hung across the street. | n. 横幅，旗帜
+bargain | The coat was a real bargain. | n. 便宜货；协议 v. 讨价还价
+barrel | The wine ages in an oak barrel. | n. 桶；枪管
+basement | The archive is kept in the basement. | n. 地下室
+basis | The decision has no factual basis. | n. 基础，依据
+battery | The battery lasts about two days. | n. 电池
+beam | A beam of light crossed the floor. | n. 光束；梁 v. 照射
+beard | He grew a beard over the winter. | n. 胡须
+beg | She begged him to reconsider. | v. 恳求；乞讨
+behalf | He spoke on behalf of the whole team. | n. 代表，利益
+behave | The children behaved well all day. | v. 表现，举止
+belief | Her belief in the project never wavered. | n. 信念
+belong | These papers belong in the other file. | v. 属于
+beneath | The coins lay beneath a layer of ash. | prep. 在…下面
+benefit | Both sides benefit from the deal. | n. 好处 v. 受益
+besides | Besides the cost, there is the delay. | prep. 除…之外 adv. 而且
+beverage | Hot beverages are served all day. | n. 饮料
+bid | They bid for the contract and lost. | v./n. 出价，投标
+bind | Tradition binds the community together. | v. 捆绑；约束
+bitter | The coffee was too bitter to drink. | adj. 苦的；痛苦的
+blame | No one blamed the driver. | v./n. 责备
+blank | Leave the last column blank. | adj. 空白的 n. 空白
+blanket | A blanket of fog covered the valley. | n. 毯子；覆盖层
+bless | The harvest was blessed with good weather. | v. 保佑，赐福
+blind | He was blind in one eye. | adj. 失明的；盲目的
+bold | It was a bold decision. | adj. 大胆的；粗体的
+bolt | He bolted the door behind him. | v. 闩上；猛冲 n. 螺栓
+bomb | The bomb damaged two shops. | n. 炸弹 v. 轰炸
+boost | The grant boosted morale. | v./n. 提振
+border | The river marks the border. | n. 边界 v. 毗邻
+borrow | May I borrow your notes? | v. 借入
+bother | Don't bother with the details. | v. 费心；打扰
+bound | The ship is bound for Lisbon. | adj. 开往…的；必然的 v. 跳跃
+bow | The violinist bowed to the audience. | v. 鞠躬 n. 弓；蝴蝶结
+brake | He braked hard at the corner. | v. 刹车 n. 制动器
+branch | The bank closed its rural branches. | n. 树枝；分支机构
+brave | It was a brave thing to admit. | adj. 勇敢的
+breadth | The breadth of her reading is impressive. | n. 宽度；广度
+breeze | A cool breeze came off the sea. | n. 微风
+brick | The wall is solid brick. | n. 砖
+bride | The bride arrived late. | n. 新娘
+brief | He gave a brief account of the trip. | adj. 简短的 v. 简要介绍
+broadcast | The match was broadcast live. | v./n. 广播
+bruise | She bruised her arm on the door. | v. 擦伤 n. 瘀伤
+bucket | He filled a bucket at the well. | n. 桶
+bundle | A bundle of letters lay on the desk. | n. 捆，束 v. 捆扎
+bureau | The bureau handles all complaints. | n. 局，办事处
+burst | The pipe burst in the frost. | v. 爆裂 n. 爆发
+bury | The coins were buried under the floor. | v. 埋葬
+cabin | They stayed in a wooden cabin. | n. 小屋；船舱
+cage | The bird escaped from its cage. | n. 笼子
+calendar | The date was marked on the calendar. | n. 日历
+campus | The campus is closed at weekends. | n. 校园
+canvas | The painting is oil on canvas. | n. 帆布；画布
+capable | She is capable of far more. | adj. 有能力的
+capital | Lisbon is the capital of Portugal. | n. 首都；资本 adj. 主要的
+captive | The birds were bred in captive conditions. | adj. 被俘的 n. 俘虏
+career | He changed career at forty. | n. 职业生涯
+carpenter | A carpenter made the shelves. | n. 木匠
+casualty | There were no casualties in the fire. | n. 伤亡人员
+catalogue | The museum published a full catalogue. | n. 目录 v. 编目
+cattle | The cattle graze on the hillside. | n. 牛，牲畜
+caution | He proceeded with caution. | n. 谨慎 v. 警告
+ceiling | Water stains marked the ceiling. | n. 天花板；上限
+celebrate | The village celebrates the harvest each year. | v. 庆祝
+cement | The path is set in cement. | n. 水泥 v. 巩固
+cemetery | The old cemetery lies behind the church. | n. 墓地
+ceremony | The ceremony lasted an hour. | n. 仪式
+certificate | A birth certificate is required. | n. 证书
+challenge | The job is a real challenge. | n./v. 挑战
+champion | She is a champion of free speech. | n. 冠军；拥护者
+channel | The channel between the islands is narrow. | n. 海峡；频道；渠道
+chapter | The last chapter is the strongest. | n. 章节
+charm | The village has great charm. | n. 魅力 v. 迷住
+chase | The dog chased the ball. | v./n. 追逐
+cheat | He cheated in the examination. | v. 作弊，欺骗
+chemical | The chemical reacts with water. | n. 化学品 adj. 化学的
+chest | He kept the letters in a wooden chest. | n. 箱子；胸部
+chew | Chew the food slowly. | v. 咀嚼
+chimney | Smoke rose from the chimney. | n. 烟囱
+chop | She chopped the wood for the fire. | v. 砍，切碎
+circus | The circus came to town in July. | n. 马戏团
+citizen | Every citizen has the right to vote. | n. 公民
+civil | The dispute was settled in a civil court. | adj. 民事的；文明的
+claim | He claimed the money was his. | v./n. 声称；索赔
+clash | The two accounts clash on one point. | v./n. 冲突
+classic | The design has become a classic. | n. 经典 adj. 典型的
+clause | The contract has an escape clause. | n. 条款；从句
+claw | The cat sharpened its claws. | n. 爪 v. 抓
+clerk | The clerk stamped the form. | n. 职员
+client | The firm lost its biggest client. | n. 客户
+climate | The climate here is mild. | n. 气候；氛围
+clinic | The clinic opens at eight. | n. 诊所
+cloth | The cloth is woven by hand. | n. 布料
+clue | The police found no clue. | n. 线索
+coach | The team hired a new coach. | n. 教练；长途客车 v. 指导
+coal | The mine produced coal for a century. | n. 煤
+coast | They drove along the coast. | n. 海岸
+coin | The coin dates from the Roman period. | n. 硬币 v. 创造（新词）
+collar | The shirt has a stiff collar. | n. 衣领
+colleague | A colleague covered her classes. | n. 同事
+collision | The collision damaged both cars. | n. 碰撞
+combine | The two departments were combined. | v. 结合
+comfort | The news brought little comfort. | n. 安慰 v. 安慰
+command | He took command of the ship. | n./v. 指挥，命令
+comment | She declined to comment. | n./v. 评论
+commercial | The building is in commercial use. | adj. 商业的 n. 广告
+committee | A committee was set up to review the case. | n. 委员会
+companion | A dog is good companion for a long walk. | n. 同伴
+compare | Compare the two drafts carefully. | v. 比较
+compete | Six teams competed for the prize. | v. 竞争
+complain | Residents complained about the noise. | v. 抱怨
+complex | The issue is more complex than it looks. | adj. 复杂的 n. 综合体
+compose | The piece was composed in 1890. | v. 创作；构成
+concentrate | It is hard to concentrate with the radio on. | v. 集中，专注
+concept | The concept is simple enough. | n. 概念
+concern | The report raises serious concerns. | n. 担忧 v. 涉及
+conclude | The study concluded that the risk is small. | v. 得出结论；结束
+concrete | We need concrete evidence. | adj. 具体的 n. 混凝土
+condition | The building is in poor condition. | n. 状况；条件
+confess | He confessed to the theft. | v. 承认，坦白
+confidence | She spoke with quiet confidence. | n. 信心
+conflict | The two accounts conflict. | n./v. 冲突
+confuse | The labels confuse most buyers. | v. 使困惑
+congratulate | We congratulated her on the result. | v. 祝贺
+connect | The bridge connects the two banks. | v. 连接
+conscience | His conscience troubled him. | n. 良心
+consent | The patient gave written consent. | n./v. 同意
+consider | We should consider the alternatives. | v. 考虑；认为
+consist | The course consists of six modules. | v. 由…组成
+contact | Keep in contact with the office. | n./v. 联系
+contain | The report contains three errors. | v. 包含；抑制
+content | She seemed content with the result. | adj. 满足的 n. 内容
+contest | The result of the contest was close. | n. 比赛 v. 争辩
+contrast | The contrast between the two is striking. | n./v. 对比
+convenience | The shop is open for the convenience of travellers. | n. 方便
+conversation | The conversation turned to politics. | n. 交谈
+convince | Nothing could convince him otherwise. | v. 说服，使信服
+corporation | The corporation employs nine thousand people. | n. 公司，法人团体
+cosmetic | The changes are merely cosmetic. | adj. 表面的 n. 化妆品
+costume | The costumes were made locally. | n. 服装，戏服
+cottage | They rented a cottage by the lake. | n. 小屋，农舍
+cough | A dry cough kept him awake. | n./v. 咳嗽
+council | The council meets once a month. | n. 议会，理事会
+counsel | She sought legal counsel. | n. 建议；律师 v. 劝告
+courage | It took courage to speak out. | n. 勇气
+court | The case went to court. | n. 法庭；球场
+crack | A crack ran down the wall. | n. 裂缝 v. 破裂
+craft | The craft takes years to learn. | n. 工艺；船只
+cream | Add cream to the sauce. | n. 奶油
+creep | Ivy crept up the wall. | v. 爬行，蔓延
+crew | The crew worked through the night. | n. 全体船员，工作人员
+crime | Crime fell for the third year. | n. 犯罪
+crisis | The crisis passed within a week. | n. 危机
+critic | One critic called the book dull. | n. 批评家
+crop | The crop failed after the drought. | n. 作物 v. 剪短
+crowd | A crowd gathered outside. | n. 人群 v. 挤满
+crown | The crown is kept in the museum. | n. 王冠 v. 加冕
+cruel | The winter was cruel that year. | adj. 残酷的
+cruise | They took a cruise along the coast. | n./v. 巡游
+crush | The box was crushed in transit. | v. 压碎 n. 拥挤
+cure | There is no cure for the condition. | n. 治愈方法 v. 治愈
+curl | Her hair curls in damp weather. | v. 卷曲 n. 卷发
+current | The current view is more cautious. | adj. 当前的 n. 水流；电流
+curse | He cursed under his breath. | v. 诅咒 n. 诅咒
+curtain | She drew the curtains at dusk. | n. 窗帘
+curve | The road curves to the left. | v. 弯曲 n. 曲线
+custom | It is the custom to bring a gift. | n. 习俗
+customer | The shop lost half its customers. | n. 顾客
+damage | The frost damaged the young plants. | n./v. 损害
+dawn | They set out at dawn. | n. 黎明 v. 破晓
+deaf | He has been deaf since childhood. | adj. 聋的
+debate | The debate lasted three hours. | n./v. 辩论
+debt | The company cleared its debts. | n. 债务
+decorate | They decorated the hall with flowers. | v. 装饰
+defeat | The team suffered its first defeat. | n./v. 击败，失败
+defend | He defended his decision calmly. | v. 保卫，辩护
+define | The term is hard to define. | v. 定义
+delay | Fog delayed the flight. | n./v. 延误
+delight | The garden was a delight. | n. 愉快 v. 使高兴
+deliver | The parcel was delivered on Tuesday. | v. 递送；发表
+demand | Demand for housing keeps rising. | n./v. 需求，要求
+depend | The outcome depends on the weather. | v. 依靠，取决于
+deserve | She deserves the recognition. | v. 应得
+desire | He had no desire to argue. | n./v. 渴望
+destroy | The fire destroyed the records. | v. 摧毁
+detail | The report goes into great detail. | n. 细节 v. 详述
+determine | The court will determine the amount. | v. 决定；查明
+develop | The town developed around the mill. | v. 发展
+device | The device measures humidity. | n. 装置
+differ | The two versions differ slightly. | v. 不同
+difficulty | He had difficulty finding the street. | n. 困难
+dig | They dug a well behind the house. | v. 挖
+disappoint | The result disappointed everyone. | v. 使失望
+discover | The error was discovered too late. | v. 发现
+discuss | We discussed the plan at length. | v. 讨论
+disease | The disease spreads through water. | n. 疾病
+disgust | The smell filled her with disgust. | n. 厌恶 v. 使厌恶
+display | The map was on display in the hall. | n./v. 展示
+distance | The distance is only two miles. | n. 距离
+disturb | Please do not disturb the exhibits. | v. 打扰
+divide | The river divides the town. | v. 分开
+doubt | There is no doubt about the figures. | n./v. 怀疑
+drown | Two sheep drowned in the flood. | v. 淹死
+due | The report is due on Friday. | adj. 到期的；应有的
+dull | The afternoon was long and dull. | adj. 乏味的；暗淡的
+duty | It is your duty to report it. | n. 责任；税
+eager | The students were eager to begin. | adj. 热切的
+earn | She earns a modest salary. | v. 赚得，获得
+edge | He sat on the edge of the table. | n. 边缘 v. 缓慢移动
+educate | The scheme educates parents as well. | v. 教育
+effect | The medicine had no effect. | n. 效果 v. 实现
+effort | The effort was worth it. | n. 努力
+elect | He was elected by a narrow margin. | v. 选举
+emergency | The exit is for emergencies only. | n. 紧急情况
+employ | The farm employs twelve people. | v. 雇用；使用
+empty | The hall was almost empty. | adj. 空的 v. 倒空
+encourage | Her teacher encouraged her to apply. | v. 鼓励
+engage | The talk engaged the whole room. | v. 吸引；从事；订婚
+enjoy | They enjoyed the walk despite the rain. | v. 享受
+enter | He entered without knocking. | v. 进入；录入
+envelope | The envelope was already open. | n. 信封
+envy | She felt no envy at his success. | n./v. 嫉妒
+equal | The two halves are equal in size. | adj. 相等的 v. 等于
+error | A single error spoiled the result. | n. 错误
+escape | The bird escaped through the window. | v./n. 逃脱
+estate | The estate covers four hundred acres. | n. 庄园；房地产
+evidence | There is little evidence for the claim. | n. 证据
+exact | The exact figure is not known. | adj. 精确的
+examine | The doctor examined her knee. | v. 检查
+example | This is a good example of the style. | n. 例子
+exchange | They exchanged addresses. | v./n. 交换
+excite | The news excited the whole village. | v. 使兴奋
+excuse | That is no excuse for rudeness. | n. 借口 v. 原谅
+exercise | Regular exercise lowers the risk. | n./v. 锻炼；练习
+exist | No record of the house exists. | v. 存在
+expect | We expect a decision this week. | v. 期待，预计
+expense | The expense was shared equally. | n. 费用
+explain | He explained the rule twice. | v. 解释
+explore | They explored the cave system. | v. 探索
+express | She found it hard to express her view. | v. 表达 adj. 快速的
+extreme | The weather was extreme that winter. | adj. 极端的 n. 极端
+fade | The colours fade in sunlight. | v. 褪色，减弱
+failure | The failure was blamed on poor planning. | n. 失败；故障
+faint | A faint noise came from upstairs. | adj. 微弱的 v. 昏倒
+faith | She had faith in the process. | n. 信任；信仰
+fame | Fame came late in his life. | n. 名声
+familiar | The name sounded familiar. | adj. 熟悉的
+fancy | He took a fancy to the old clock. | n. 喜爱 adj. 花哨的 v. 想要
+fare | The bus fare has doubled. | n. 车费
+fasten | Fasten the lid before shaking. | v. 系紧，扣上
+fault | The fault lies with the design. | n. 过错；故障
+favour | He asked a favour of his neighbour. | n. 恩惠 v. 赞成
+fear | Fear of failure held her back. | n./v. 害怕
+feature | The main feature is the glass roof. | n. 特征 v. 以…为特色
+fee | The fee covers two lessons. | n. 费用
+feed | The birds feed on insects. | v. 喂养，以…为食
+fellow | A fellow student lent him the book. | n. 同伴 adj. 同样的
+fence | A low fence surrounds the field. | n. 栅栏
+festival | The festival runs for a week. | n. 节日
+fetch | Could you fetch the ladder? | v. 去取来
+fever | She ran a fever for two days. | n. 发烧
+fiction | The book is fiction, not history. | n. 小说，虚构
+figure | The figure in the doorway was his brother. | n. 数字；人影 v. 认为
+file | The documents are kept on file. | n. 文件 v. 归档
+fill | He filled the jug from the tap. | v. 装满
+film | The film was shot in one summer. | n. 电影；薄膜
+finance | The council finances the library. | v. 提供资金 n. 财政
+firm | The firm employs sixty people. | n. 公司 adj. 坚定的
+fit | The lid does not fit. | v. 适合 adj. 健康的
+flame | The flame went out in the wind. | n. 火焰
+flash | A flash of lightning lit the valley. | n. 闪光 v. 闪烁
+flat | The ground here is perfectly flat. | adj. 平坦的 n. 公寓
+flavour | The sauce has a smoky flavour. | n. 味道
+float | The log floated downstream. | v. 漂浮
+flood | The flood reached the first floor. | n. 洪水 v. 淹没
+flow | The river flows north. | v./n. 流动
+focus | The study focuses on rural schools. | v. 聚焦 n. 焦点
+fold | Fold the paper in half. | v. 折叠 n. 褶
+follow | The dog followed us home. | v. 跟随；遵循
+fond | She is fond of early music. | adj. 喜爱的
+force | The wind forced the door open. | v. 强迫 n. 力量
+forgive | He forgave the mistake at once. | v. 原谅
+formal | The letter was formal in tone. | adj. 正式的
+former | The former director opened the hall. | adj. 以前的
+fortune | He made a fortune in shipping. | n. 财富；运气
+forward | She stepped forward to speak. | adv. 向前 v. 转发
+found | The college was founded in 1820. | v. 创立
+frame | The frame is older than the picture. | n. 框架 v. 构建
+freedom | Freedom of the press was restored. | n. 自由
+freeze | The pond freezes every January. | v. 结冰，冻结
+frequent | Frequent delays annoyed passengers. | adj. 频繁的 v. 常去
+fresh | The fresh air helped at once. | adj. 新鲜的
+friction | Friction between the two departments grew. | n. 摩擦；分歧
+fright | The noise gave her a fright. | n. 惊吓
+frozen | The ground was frozen solid. | adj. 冻结的
+fuel | The ship ran out of fuel. | n. 燃料 v. 加剧
+furniture | The furniture came with the flat. | n. 家具
+gain | The scheme gained wide support. | v. 获得 n. 收益
+gap | There is a gap in the record. | n. 缺口，差距
+garage | The car is in the garage. | n. 车库
+gather | A crowd gathered at the gate. | v. 聚集；收集
+general | The general view is more cautious. | adj. 普遍的 n. 将军
+generous | He was generous with his time. | adj. 慷慨的
+gentle | The slope is gentle at first. | adj. 温和的，平缓的
+gesture | He made a small gesture of thanks. | n. 手势，姿态
+glance | She glanced at the clock. | v./n. 瞥一眼
+glory | The abbey was restored to its former glory. | n. 荣耀
+glue | The joint is held with glue. | n. 胶水 v. 粘合
+goal | The goal is to halve waste. | n. 目标；进球
+grace | She accepted the result with grace. | n. 优雅；恩典
+grade | The eggs are sorted by grade. | n. 等级 v. 分级
+grasp | He failed to grasp the point. | v. 抓住；理解
+grateful | We are grateful for the help. | adj. 感激的
+greet | The host greeted each guest. | v. 问候
+grip | Keep a firm grip on the rail. | n./v. 紧握
+guess | Your guess is as good as mine. | n./v. 猜测
+guidance | Students need more guidance. | n. 指导
+guilt | He admitted his guilt. | n. 内疚；罪行
+habit | Reading at night became a habit. | n. 习惯
+handle | She handled the complaint well. | v. 处理 n. 把手
+harm | The frost did no harm to the roots. | n./v. 伤害
+harvest | The harvest was poor that year. | n./v. 收获
+hate | He hates waiting. | v./n. 憎恨
+heal | The wound healed within a week. | v. 愈合
+health | Her health improved over the summer. | n. 健康
+heaven | The idea of heaven varies by culture. | n. 天堂
+height | The height of the tower is forty metres. | n. 高度
+hide | He hid the key under a stone. | v. 隐藏 n. 兽皮
+hire | They hired a van for the day. | v. 租用；雇用
+honest | Give me an honest answer. | adj. 诚实的
+honour | The award was a great honour. | n. 荣誉 v. 尊敬
+hope | There is still hope of a deal. | n./v. 希望
+humour | Her humour lightened the mood. | n. 幽默
+hunt | The museum hunted for the missing page. | v./n. 寻找，打猎
+hurry | There is no need to hurry. | v./n. 匆忙
+ignore | He ignored the warning. | v. 忽视
+illness | Illness kept her from the exam. | n. 疾病
+image | The image is slightly out of focus. | n. 图像；形象
+imagine | It is hard to imagine the scale. | v. 想象
+immediate | The effect was immediate. | adj. 立即的
+import | The country imports most of its grain. | v./n. 进口
+impress | The design impressed the judges. | v. 使印象深刻
+improve | Her writing improved quickly. | v. 改进
+include | The price includes delivery. | v. 包括
+income | Household income has stalled. | n. 收入
+increase | Costs increased by a fifth. | v./n. 增加
+indeed | The result was, indeed, surprising. | adv. 确实
+independent | The review was carried out by an independent panel. | adj. 独立的
+individual | Each individual case is different. | adj. 个别的 n. 个人
+industry | The industry employs thousands. | n. 工业，行业
+influence | Climate influences the whole system. | n./v. 影响
+inform | Please inform the office of any change. | v. 通知
+injure | Three workers were injured. | v. 伤害
+innocent | The court found him innocent. | adj. 无辜的
+inquire | She inquired about the opening hours. | v. 询问
+insist | He insisted on paying. | v. 坚持
+instance | This is one instance of the problem. | n. 实例
+instead | Use water instead of oil. | adv. 代替
+insult | The remark was taken as an insult. | n./v. 侮辱
+intend | They intend to reopen in spring. | v. 打算
+interest | The subject holds little interest for him. | n. 兴趣；利息 v. 使感兴趣
+interrupt | Please do not interrupt the speaker. | v. 打断
+introduce | The chair introduced the speaker. | v. 介绍；引入
+invent | He invented a simpler method. | v. 发明
+invite | They invited the whole street. | v. 邀请
+involve | The job involves some travel. | v. 涉及
+iron | The gate is made of iron. | n. 铁；熨斗 v. 熨
+issue | The issue was settled quietly. | n. 问题；期号 v. 发布
+item | Each item is priced separately. | n. 项目，物品
+journey | The journey takes four hours. | n./v. 旅行
+joy | The news brought great joy. | n. 喜悦
+judge | It is too early to judge. | v. 判断 n. 法官
+jump | He jumped the fence easily. | v./n. 跳
+junior | She joined as a junior clerk. | adj. 初级的 n. 下级
+justice | They demanded justice for the victims. | n. 正义，司法
+kill | Frost killed the seedlings. | v. 杀死
+kind | It was kind of you to call. | adj. 友善的 n. 种类
+knock | Someone knocked at the door. | v./n. 敲
+knowledge | Her knowledge of the period is deep. | n. 知识
+label | Each jar carries a label. | n. 标签 v. 贴标签
+labour | Manual labour built the whole wall. | n. 劳动 v. 劳作
+lack | The plan lacks detail. | v. 缺乏 n. 缺乏
+land | The plane landed in fog. | v. 降落 n. 土地
+language | The language of the report is dense. | n. 语言
+last | The meeting lasted two hours. | v. 持续 adj. 最后的
+late | The train was twenty minutes late. | adj./adv. 迟的，晚
+laugh | No one laughed at the joke. | v./n. 笑
+law | The law changed in April. | n. 法律
+lay | She laid the map on the table. | v. 放置；产卵
+lead | The path leads to the river. | v. 引导 n. 领先
+lean | He leaned against the wall. | v. 倚靠 adj. 瘦的
+learn | She learned Spanish in a year. | v. 学习
+leave | They left before dawn. | v. 离开 n. 休假
+lecture | The lecture was well attended. | n./v. 讲座
+legal | The legal costs were high. | adj. 法律的，合法的
+lend | The bank lent him the money. | v. 借出
+length | The length of the course is six weeks. | n. 长度
+less | Less rain fell this year. | adj./adv. 更少
+lesson | The lesson was clear enough. | n. 教训；课
+level | The water level fell sharply. | n. 水平 adj. 平的
+library | The library opens at nine. | n. 图书馆
+licence | A licence is needed to fish here. | n. 执照
+lie | The village lies in a valley. | v. 位于；躺；说谎
+lift | He lifted the box onto the shelf. | v. 举起 n. 电梯
+light | The light faded early. | n. 光 adj. 轻的 v. 点燃
+limit | There is a limit on class size. | n. 限制 v. 限制
+line | A line formed outside the door. | n. 线；队列
+link | The two events are linked. | n./v. 联系
+liquid | The liquid turns blue when heated. | n. 液体 adj. 液态的
+list | Her name was on the list. | n. 名单 v. 列出
+listen | He listened without interrupting. | v. 听
+load | The lorry carried a heavy load. | n. 负载 v. 装载
+loan | The loan is repaid monthly. | n. 贷款 v. 借出
+local | Local shops suffered most. | adj. 当地的 n. 当地人
+lock | He locked the gate behind him. | v. 锁 n. 锁
+logic | The logic of the argument is sound. | n. 逻辑
+lonely | The road was lonely at night. | adj. 孤独的；偏僻的
+loose | One of the screws is loose. | adj. 松的 v. 释放
+lose | They lost the match on penalties. | v. 失去，输
+loud | The music was too loud. | adj. 大声的
+love | She loves early mornings. | v./n. 爱
+low | Prices were unusually low. | adj. 低的
+luck | They had the luck of good weather. | n. 运气
+lung | Smoking damages the lungs. | n. 肺
+machine | The machine broke down twice. | n. 机器
+mad | He was mad with worry. | adj. 发疯的；恼火的
+mail | The mail arrives at ten. | n. 邮件 v. 邮寄
+major | The major problem is cost. | adj. 主要的 n. 专业；少校
+manage | She manages a team of eight. | v. 管理；设法做到
+manner | His manner was polite but cold. | n. 方式；举止
+mark | The flood left a mark on the wall. | n. 痕迹；分数 v. 标记
+market | The market opens on Saturdays. | n. 市场 v. 推销
+marry | They married in the spring. | v. 结婚
+match | The colours do not match. | v. 匹配 n. 比赛；火柴
+material | The material tears easily. | n. 材料 adj. 物质的
+matter | The matter was settled quietly. | n. 事情；物质 v. 要紧
+meal | The meal was included in the price. | n. 一餐
+mean | The word means something different here. | v. 意味 adj. 吝啬的 n. 平均
+measure | The room measures four metres across. | v. 测量 n. 措施
+medical | Medical costs have risen. | adj. 医疗的
+medium | The artist works in several media. | n. 媒介 adj. 中等的
+meet | They met at a conference. | v. 遇见；满足
+melt | The snow melted by noon. | v. 融化
+member | Every member must sign. | n. 成员
+memory | My memory of the day is vague. | n. 记忆
+mend | He mended the fence himself. | v. 修补
+mention | She mentioned it only once. | v./n. 提及
+message | The message never arrived. | n. 消息
+method | The method is simple and cheap. | n. 方法
+middle | The table stood in the middle. | n. 中间 adj. 中间的
+might | The storm's might surprised them. | n. 力量
+mild | The winter was unusually mild. | adj. 温和的
+mind | She changed her mind overnight. | n. 头脑 v. 介意
+minor | The damage was minor. | adj. 次要的 n. 未成年人
+miss | He missed the last train. | v. 错过；想念
+mistake | The mistake cost them the match. | n. 错误 v. 弄错
+mix | Mix the flour with the water. | v. 混合 n. 混合物
+model | The model predicts a dry summer. | n. 模型；模特 v. 塑造
+modern | The wing is entirely modern. | adj. 现代的
+moment | For a moment no one spoke. | n. 时刻
+money | The money was raised locally. | n. 钱
+month | The work took three months. | n. 月
+morning | The meeting is on Friday morning. | n. 早晨
+motor | The motor runs quietly. | n. 发动机 adj. 机动的
+move | They moved to the coast. | v. 移动，搬家 n. 行动
+murder | The murder remains unsolved. | n./v. 谋杀
+music | The music carried across the water. | n. 音乐
+mystery | The author of the letter is a mystery. | n. 谜，神秘

@@ -1,0 +1,196 @@
+# SAT 核心词汇表（按字母排序，释义与例句为自编）
+# 已去除与其他语料重复的词条
+# word | example sentence | 中文释义
+adept | She is adept at reading a balance sheet. | adj. 熟练的 n. 内行
+adversarial | The hearing was unnecessarily adversarial. | adj. 对抗性的
+allegiance | He swore allegiance to the new state. | n. 忠诚
+aloft | The banner hung aloft all week. | adv. 在高处
+analogous | The situation is analogous to the 1970s. | adj. 类似的
+animated | The debate grew animated. | adj. 活跃的；动画的
+annotate | The editor annotated every page. | v. 注释
+antagonist | The antagonist is never named. | n. 对手，反派
+apprehension | She waited with some apprehension. | n. 忧虑；理解；逮捕
+assertive | A more assertive reply was needed. | adj. 果断自信的
+atypical | The reading was atypical. | adj. 非典型的
+audacity | He had the audacity to complain. | n. 大胆，厚颜
+belittle | Do not belittle their contribution. | v. 贬低
+bereft | The town was bereft of industry. | adj. 丧失的，被剥夺的
+blunder | The blunder cost them the contract. | n. 大错 v. 犯错
+candid | Her candid account surprised the panel. | adj. 坦率的
+cerebral | The film is cerebral rather than exciting. | adj. 理智的；大脑的
+circuitous | They took a circuitous route home. | adj. 迂回的
+clairvoyant | His warning now looks clairvoyant. | adj. 有预见力的 n. 通灵者
+coalition | A coalition of charities backed the bill. | n. 联盟
+commendable | The restraint was commendable. | adj. 值得称赞的
+compelling | The evidence is compelling. | adj. 令人信服的
+compliant | The design is compliant with the standard. | adj. 符合的；顺从的
+confide | She confided in no one. | v. 吐露，信赖
+conformist | The school is deeply conformist. | adj. 墨守成规的 n. 循规蹈矩者
+consecrate | The chapel was consecrated in 1340. | v. 奉献，使神圣
+consequential | The change was more consequential than it looked. | adj. 重大的；随之而来的
+considerate | He was considerate of the older staff. | adj. 体贴的
+consolation | The result was no consolation. | n. 安慰
+contemplative | The garden has a contemplative mood. | adj. 沉思的
+contentious | The clause proved contentious. | adj. 有争议的
+conviviality | The conviviality of the evening surprised him. | n. 欢乐气氛
+decipher | No one could decipher the handwriting. | v. 破译，辨认
+defiant | The crowd remained defiant. | adj. 挑衅的，反抗的
+deliberation | After long deliberation they agreed. | n. 深思熟虑；审议
+demeanor | His demeanor never changed. | n. 举止，风度
+derivative | The work is derivative of earlier styles. | adj. 模仿的 n. 衍生物
+detached | She gave a detached account. | adj. 超然的；分离的
+devout | A devout crowd filled the square. | adj. 虔诚的
+digression | The digression lasted ten minutes. | n. 离题
+diminutive | A diminutive figure stood at the door. | adj. 小型的
+discerning | The piece appeals to discerning readers. | adj. 有鉴赏力的
+disdainful | He was disdainful of the award. | adj. 轻蔑的
+disillusioned | Voters grew disillusioned. | adj. 幻想破灭的
+dismissive | Her tone was dismissive. | adj. 轻蔑的，不屑的
+disposition | He has a cheerful disposition. | n. 性情；处置
+divulge | She refused to divulge the source. | v. 泄露
+dogged | Dogged effort finished the job. | adj. 顽强的
+elated | They were elated by the result. | adj. 欣喜若狂的
+eloquence | His eloquence carried the vote. | n. 雄辩
+embody | The building embodies the spirit of the age. | v. 体现
+emphatic | The denial was emphatic. | adj. 强调的，断然的
+endearing | Her shyness was endearing. | adj. 惹人喜爱的
+enduring | The friendship proved enduring. | adj. 持久的
+enigmatic | The ending is enigmatic. | adj. 神秘难解的
+enthrall | The storyteller enthralled the children. | v. 迷住
+erudition | The notes display real erudition. | n. 博学
+evasive | His answers were evasive. | adj. 回避的
+exacting | The work is exacting. | adj. 严格的，费力的
+exasperation | She sighed in exasperation. | n. 恼怒
+exemplar | The hall is an exemplar of the style. | n. 典范
+exhaustive | The search was exhaustive. | adj. 详尽无遗的
+expansive | He was expansive after dinner. | adj. 健谈的；广阔的
+explicitly | The rule states it explicitly. | adv. 明确地
+exuberance | The exuberance of the crowd was infectious. | n. 热情洋溢
+facilitator | A neutral facilitator chaired the talks. | n. 协调人
+fallible | Every method is fallible. | adj. 会出错的
+fervor | The campaign was conducted with fervor. | n. 热情
+frank | He gave a frank assessment. | adj. 坦率的
+futility | The futility of the effort became clear. | n. 徒劳
+galling | The comparison was galling. | adj. 令人恼火的
+garrulity | His garrulity emptied the room. | n. 饶舌
+gaudy | The decoration was gaudy. | adj. 俗丽的
+generalize | It is risky to generalize from one case. | v. 概括，一概而论
+gracious | She was gracious in defeat. | adj. 亲切的，宽厚的
+gratify | The response gratified the author. | v. 使满意
+guarded | His reply was guarded. | adj. 谨慎的
+haphazard | The filing was haphazard. | adj. 杂乱无章的
+heed | He paid no heed to the warning. | v. 留意 n. 注意
+humility | She spoke with real humility. | n. 谦逊
+idealize | Memory tends to idealize childhood. | v. 理想化
+illuminating | The comparison is illuminating. | adj. 有启发性的
+impartiality | The review questioned his impartiality. | n. 公正
+impassioned | She made an impassioned plea. | adj. 充满激情的
+imperceptible | The change was imperceptible. | adj. 察觉不到的
+implausible | The account is implausible. | adj. 难以置信的
+inarticulate | He was inarticulate with rage. | adj. 表达不清的
+incite | The speech incited the crowd. | v. 煽动
+incoherent | The letter was incoherent. | adj. 语无伦次的
+inconclusive | The trial was inconclusive. | adj. 无定论的
+indicative | The rise is indicative of a wider trend. | adj. 表明的
+indifference | Public indifference killed the scheme. | n. 冷漠
+indignation | The ruling caused indignation. | n. 愤慨
+inevitability | The inevitability of change was accepted. | n. 必然性
+infuriate | The delay infuriated passengers. | v. 激怒
+ingenuity | The repair showed real ingenuity. | n. 心灵手巧，独创性
+inhibited | He seemed inhibited in company. | adj. 拘谨的
+innovate | Small firms innovate faster. | v. 创新
+inquisitive | An inquisitive child asked why. | adj. 好奇的
+insightful | Her comments were insightful. | adj. 有洞察力的
+insurmountable | The barrier is not insurmountable. | adj. 不可逾越的
+intrepid | An intrepid traveller crossed the range. | adj. 无畏的
+introspective | The later poems are introspective. | adj. 内省的
+irony | The irony was lost on him. | n. 讽刺，反讽
+jubilant | The jubilant crowd filled the square. | adj. 欢欣鼓舞的
+lofty | The aims were lofty. | adj. 崇高的；高耸的
+magnanimity | He showed magnanimity in victory. | n. 宽宏大量
+meandering | The essay is meandering. | adj. 漫无目的的
+melodramatic | The reaction was melodramatic. | adj. 夸张做作的
+methodical | His approach is methodical. | adj. 有条理的
+mitigating | The court found mitigating circumstances. | adj. 减轻罪责的
+modesty | Her modesty hid real ability. | n. 谦虚
+momentous | It was a momentous decision. | adj. 重大的
+morality | The play questions conventional morality. | n. 道德
+nonchalance | He answered with studied nonchalance. | n. 漠不关心
+notoriety | The case brought him notoriety. | n. 恶名
+novelty | The novelty soon wore off. | n. 新奇；新鲜事物
+objectivity | The report lacks objectivity. | n. 客观性
+obscurity | He died in obscurity. | n. 默默无闻；晦涩
+obsolescence | Planned obsolescence drives replacement. | n. 过时，淘汰
+opportunism | The move was pure opportunism. | n. 机会主义
+optimism | Early optimism faded. | n. 乐观
+ornate | The ceiling is ornate. | adj. 华丽的
+outspoken | She was outspoken about the risks. | adj. 直言不讳的
+painstakingly | The text was painstakingly restored. | adv. 费尽心思地
+partiality | His partiality was obvious. | n. 偏袒；偏爱
+passivity | The passivity of the response puzzled her. | n. 被动
+perceptive | A perceptive reader will notice it. | adj. 敏锐的
+perseverance | Perseverance finished the work. | n. 坚持不懈
+pessimism | Pessimism spread through the industry. | n. 悲观
+philosophical | He was philosophical about the loss. | adj. 豁达的；哲学的
+placidity | The placidity of the lake was deceptive. | n. 平静
+plausibility | The plausibility of the story faded. | n. 合理性
+poised | She remained poised throughout. | adj. 泰然自若的
+pragmatism | Pragmatism won over principle. | n. 务实
+precision | The work demands precision. | n. 精确
+predisposed | Readers are predisposed to agree. | adj. 有倾向的
+preoccupation | His preoccupation with detail slowed everything. | n. 全神贯注，执念
+presumptuous | It would be presumptuous to advise her. | adj. 冒昧的，放肆的
+prodigy | The young prodigy played at eight. | n. 神童
+profusion | Flowers grew in profusion. | n. 大量
+proliferate | Rumours proliferated online. | v. 激增
+provocative | The essay is deliberately provocative. | adj. 挑衅的，引发思考的
+prowess | Her prowess on the field was obvious. | n. 卓越才能
+reconciliation | Reconciliation took a generation. | n. 和解
+reluctance | He agreed with obvious reluctance. | n. 不情愿
+remiss | It would be remiss not to mention her. | adj. 疏忽的
+renown | The town is of international renown. | n. 名望
+repose | The figure is at repose. | n. 休息，安详
+reprehensible | The conduct was reprehensible. | adj. 该受谴责的
+reproach | The letter was free of reproach. | n./v. 责备
+resentment | Resentment simmered for years. | n. 怨恨
+resourceful | The crew proved resourceful. | adj. 足智多谋的
+reticence | Her reticence was mistaken for coldness. | n. 沉默寡言
+reverence | The text is treated with reverence. | n. 崇敬
+rhetorician | The speaker is a skilled rhetorician. | n. 修辞家
+sanctity | The sanctity of the contract matters. | n. 神圣性
+scrutinize | Auditors scrutinized every entry. | v. 细查
+sensibility | The poems show a fine sensibility. | n. 感受力
+serenity | The serenity of the cloister struck him. | n. 宁静
+skepticism | Skepticism greeted the claim. | n. 怀疑态度
+solemn | The occasion was solemn. | adj. 庄严的
+solitude | He worked best in solitude. | n. 独处
+speculative | The conclusion is speculative. | adj. 推测的
+spontaneity | The performance lost its spontaneity. | n. 自发性
+squalid | They lived in squalid conditions. | adj. 肮脏的
+subdued | The mood was subdued. | adj. 低沉的，柔和的
+submissive | A submissive reply ended it. | adj. 顺从的
+superficiality | The superficiality of the piece disappoints. | n. 肤浅
+surmise | We can only surmise the reason. | v./n. 推测
+tact | The matter needs tact. | n. 机智，圆通
+tentatively | They tentatively agreed. | adv. 暂定地
+tirade | The letter became a tirade. | n. 长篇斥责
+tolerance | The policy tests public tolerance. | n. 容忍；公差
+transgression | The transgression was minor. | n. 违法，越界
+trivia | He has a memory for trivia. | n. 琐事
+unassailable | Her argument is unassailable. | adj. 无懈可击的
+uncompromising | The stance was uncompromising. | adj. 不妥协的
+undaunted | Undaunted, she applied again. | adj. 无畏的
+unorthodox | His methods are unorthodox. | adj. 非正统的
+unwarranted | The criticism was unwarranted. | adj. 无正当理由的
+unwavering | Her support was unwavering. | adj. 坚定不移的
+vehemence | The vehemence of the reply surprised him. | n. 激烈
+venerable | The venerable institution adapted slowly. | adj. 德高望重的
+veneration | The founder is held in veneration. | n. 崇敬
+verbosity | The verbosity of the draft hides the point. | n. 冗长
+vexation | He hid his vexation. | n. 恼怒
+vindication | The later data was a vindication. | n. 证明无罪，昭雪
+virtuous | The motive was virtuous. | adj. 品德高尚的
+vivacity | Her vivacity carried the evening. | n. 活力
+wariness | A certain wariness remained. | n. 警惕
+whimsy | The design has a touch of whimsy. | n. 奇思异想
+zealotry | Zealotry ruined the movement. | n. 狂热

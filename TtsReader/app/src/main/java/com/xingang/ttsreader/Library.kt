@@ -234,6 +234,11 @@ class Library(context: Context) {
             Triple("toefl.txt", "builtin-toefl", "托福核心词汇"),
             Triple("gre.txt", "builtin-gre", "GRE 核心词汇"),
             Triple("ielts.txt", "builtin-ielts", "雅思核心词汇"),
+            Triple("tem4.txt", "builtin-tem4", "专业四级词汇"),
+            Triple("tem8.txt", "builtin-tem8", "专业八级词汇"),
+            Triple("toeic.txt", "builtin-toeic", "托业核心词汇"),
+            Triple("sat.txt", "builtin-sat", "SAT 核心词汇"),
+            Triple("gmat.txt", "builtin-gmat", "GMAT 核心词汇"),
         )
 
         /** Ids used by earlier builds -> the stable id now in use. */

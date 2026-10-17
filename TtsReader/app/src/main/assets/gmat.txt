@@ -1,0 +1,131 @@
+# GMAT 核心词汇表（商务与逻辑论证方向，按字母排序，释义与例句为自编）
+# 已去除与其他语料重复的词条
+# word | example sentence | 中文释义
+abstain | Two directors abstained. | v. 弃权，戒除
+accrual | Accrual accounting records revenue when earned. | n. 权责发生制
+accrue | Interest accrues from the first day. | v. 累积
+annuity | The settlement was paid as an annuity. | n. 年金
+anomalous | The reading was anomalous. | adj. 反常的
+antitrust | Antitrust rules blocked the deal. | adj. 反垄断的
+arbitrage | Traders profit from arbitrage between markets. | n. 套利
+arbitral | The arbitral award was final. | adj. 仲裁的
+austerity | Austerity cut services sharply. | n. 紧缩
+benchmarking | Benchmarking showed the gap. | n. 对标
+binding | The agreement is binding on both sides. | adj. 有约束力的
+breakeven | The plant reached breakeven in year three. | n. 盈亏平衡
+burn | The monthly burn exceeded the plan. | n. 资金消耗 v. 燃烧
+buyout | A management buyout saved the plant. | n. 收购
+cannibalize | The new model cannibalized its own sales. | v. 蚕食
+capitalization | The capitalization doubled in a year. | n. 市值；资本化
+cartel | The cartel fixed prices for a decade. | n. 卡特尔，价格联盟
+causal | No causal link was established. | adj. 因果的
+causation | Correlation is not causation. | n. 因果关系
+cogency | The cogency of the argument won the vote. | n. 说服力
+collateralize | The debt was collateralized by property. | v. 以…作抵押
+commoditize | Cheap imports commoditized the product. | v. 使商品化
+confounding | A confounding variable was overlooked. | adj. 混淆的
+consolidation | Consolidation reduced the field to four. | n. 整合，合并
+contractual | The obligation is contractual. | adj. 合同的
+convene | The board convened at short notice. | v. 召集，开会
+correlation | Correlation between the two is weak. | n. 相关性
+counterexample | One counterexample destroys the rule. | n. 反例
+cross-subsidy | Cross-subsidy keeps the branch open. | n. 交叉补贴
+damages | The court awarded damages. | n. 损害赔偿金
+deductive | The proof is deductive. | adj. 演绎的
+defendant | The defendant denied all charges. | n. 被告
+depreciate | The equipment depreciates over five years. | v. 折旧，贬值
+deregulation | Deregulation opened the market. | n. 放松管制
+deviation | The deviation from the mean is small. | n. 偏差
+differentiation | Product differentiation protects margins. | n. 差异化
+disclosure | Full disclosure is required. | n. 披露
+discounting | Discounting future cash flows is standard. | n. 折现
+disruption | Digital disruption reshaped the sector. | n. 颠覆，中断
+diversified | A diversified portfolio lowers risk. | adj. 多元化的
+divestiture | The divestiture raised four billion. | n. 资产剥离
+elasticity | Price elasticity varies by product. | n. 弹性
+entrant | New entrants pushed prices down. | n. 进入者
+escrow | The deposit is held in escrow. | n. 第三方托管
+extrapolate | It is risky to extrapolate from one year. | v. 外推，推断
+fiduciary | Directors owe a fiduciary duty. | adj. 受信的 n. 受托人
+flotation | The flotation raised less than hoped. | n. 上市发行
+forecasting | Demand forecasting drives production. | n. 预测
+forfeit | He forfeited the deposit. | v. 丧失 n. 罚金
+hedge | The firm hedged against currency moves. | v. 对冲 n. 对冲手段
+impropriety | No impropriety was found. | n. 不当行为
+incentivize | The scheme incentivizes early payment. | v. 激励
+incorporation | Incorporation limits personal liability. | n. 公司注册
+incremental | The gains were incremental. | adj. 渐进的
+incubator | The incubator funded twelve startups. | n. 孵化器
+incumbent | The incumbent supplier kept the contract. | adj. 现任的 n. 在职者
+indemnify | The seller indemnifies the buyer. | v. 赔偿，保障
+inductive | Inductive reasoning starts from cases. | adj. 归纳的
+inference | The inference does not follow. | n. 推论
+injunction | An injunction halted the work. | n. 禁制令
+insolvent | The company was declared insolvent. | adj. 资不抵债的
+interpolate | Missing values were interpolated. | v. 插值，插入
+jurisprudence | The ruling changed commercial jurisprudence. | n. 法学，判例
+leveraged | The buyout was heavily leveraged. | adj. 杠杆的
+licensing | Licensing income exceeds product sales. | n. 许可经营
+liquidate | The firm liquidated its holdings. | v. 变现，清算
+liquidity | The bank ran short of liquidity. | n. 流动性
+materiality | Materiality determines what must be reported. | n. 重要性
+median | The median income fell. | n. 中位数 adj. 中间的
+merger | The merger was blocked by regulators. | n. 合并
+meritocracy | The firm claims to be a meritocracy. | n. 精英管理制
+monetize | The site has yet to monetize its traffic. | v. 变现，盈利
+negligent | The driver was found negligent. | adj. 疏忽的
+nepotism | Nepotism damaged the firm's reputation. | n. 任人唯亲
+null | The clause was declared null. | adj. 无效的
+oligopoly | Three firms form a effective oligopoly. | n. 寡头垄断
+optimization | Route optimization cut fuel use. | n. 优化
+partnership | The partnership dissolved in 1998. | n. 合伙企业
+payback | The payback period is four years. | n. 投资回收
+penetration | Market penetration remains low. | n. 渗透率
+percentile | She scored in the ninetieth percentile. | n. 百分位
+plaintiff | The plaintiff withdrew the claim. | n. 原告
+positioning | The positioning of the brand shifted. | n. 定位
+precedence | Safety takes precedence over speed. | n. 优先
+premiumize | The brand tried to premiumize its range. | v. 高端化
+presupposition | The question carries a presupposition. | n. 预设
+proportional | The fee is proportional to the sum. | adj. 成比例的
+proprietorship | The shop is a sole proprietorship. | n. 独资经营
+prospectus | The prospectus omitted the risk. | n. 招股说明书
+protectionism | Protectionism raised consumer prices. | n. 保护主义
+provisional | The figures are provisional. | adj. 临时的
+qualitative | Qualitative interviews followed the survey. | adj. 定性的
+quantitative | The study is purely quantitative. | adj. 定量的
+quorum | The meeting lacked a quorum. | n. 法定人数
+ratification | Ratification took six months. | n. 批准
+rebate | A rebate applies to bulk orders. | n. 回扣 v. 退还
+receivership | The chain went into receivership. | n. 破产管理
+refutation | His refutation was point by point. | n. 驳斥
+regression | Regression explains most of the variance. | n. 回归分析
+remediation | Remediation of the site cost millions. | n. 整治，补救
+remit | The sum was remitted the same day. | v. 汇款；免除 n. 职权范围
+remunerate | Consultants are well remunerated. | v. 付酬
+rescission | Rescission of the contract was sought. | n. 撤销
+restitution | Full restitution was ordered. | n. 归还，赔偿
+restructuring | Restructuring cut two divisions. | n. 重组
+robustness | The robustness of the finding was tested. | n. 稳健性
+royalty | The author receives a royalty on each copy. | n. 版税
+runway | The startup has nine months of runway. | n. 资金可用期；跑道
+sampling | Sampling error explains the gap. | n. 抽样
+scalability | Scalability was the main concern. | n. 可扩展性
+segmentation | Market segmentation guided the launch. | n. 细分
+significance | The result lacks statistical significance. | n. 显著性
+solvency | Auditors questioned the firm's solvency. | n. 偿付能力
+spin-off | The spin-off listed separately. | n. 分拆公司
+stagflation | The decade ended in stagflation. | n. 滞胀
+statute | The statute dates from 1972. | n. 法令
+stipulated | The stipulated deadline passed. | adj. 规定的
+subpoena | The court issued a subpoena. | n./v. 传票
+subsidize | The state subsidizes rural routes. | v. 补贴
+syllogism | The argument is a simple syllogism. | n. 三段论
+syndicate | A syndicate financed the deal. | n. 财团 v. 联合组成
+takeover | The takeover was hostile. | n. 收购
+tautology | The definition is a tautology. | n. 同义反复
+tort | The case turns on a question of tort. | n. 侵权行为
+unanimously | The motion passed unanimously. | adv. 一致地
+underwrite | Two banks underwrote the issue. | v. 承销，承保
+valuation | The valuation assumed steady growth. | n. 估值
+whistleblower | A whistleblower alerted the regulator. | n. 举报人

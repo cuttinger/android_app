@@ -1,0 +1,229 @@
+# 托业核心词汇表（商务职场方向，按字母排序，释义与例句为自编）
+# 已去除与其他语料重复的词条
+# word | example sentence | 中文释义
+accommodation | The firm arranges accommodation for new staff. | n. 住宿；适应
+accreditation | The course lost its accreditation. | n. 认证资格
+acknowledgment | Please send an acknowledgment of receipt. | n. 确认，收悉
+addendum | An addendum covers the extra work. | n. 附录，补遗
+adhesive | Use a strong adhesive on the label. | n. 黏合剂 adj. 有黏性的
+advisory | The bank issued an advisory to clients. | n. 公告 adj. 咨询的
+allocation | Budget allocation is reviewed quarterly. | n. 分配
+alternate | An alternate route avoids the bridge. | adj. 备选的 v. 交替
+amendment | The amendment was accepted without debate. | n. 修正案
+amenities | The hotel lists its amenities online. | n. 便利设施
+amortize | The loan is amortized over ten years. | v. 分期摊还
+apparel | The store specialises in outdoor apparel. | n. 服装
+appendix | Details appear in the appendix. | n. 附录
+applicant | Every applicant is interviewed twice. | n. 申请人
+appraise | Managers appraise staff each spring. | v. 评估
+apprentice | The workshop takes two apprentices a year. | n. 学徒
+approval | Approval took three weeks. | n. 批准
+arrears | The tenant fell into arrears. | n. 欠款，拖欠
+assembly | The assembly line runs two shifts. | n. 装配；集会
+assignment | The assignment is due on Monday. | n. 任务，分配
+attachment | The quotation is in the attachment. | n. 附件；依恋
+attendance | Attendance at the briefing is compulsory. | n. 出席
+attendee | Each attendee receives a badge. | n. 与会者
+audit | The annual audit found no problems. | n./v. 审计
+authorization | Authorization is required for refunds. | n. 授权
+backorder | The item is on backorder until June. | n. 延期交货订单
+backup | A backup generator cut in. | n. 备用设备 v. 备份
+barcode | Every item carries a barcode. | n. 条形码
+bill | The bill was settled in cash. | n. 账单；法案 v. 开账单
+billboard | A billboard advertised the opening. | n. 广告牌
+boarding | Boarding begins thirty minutes before departure. | n. 登机，登船
+bonus | Staff received a year-end bonus. | n. 奖金
+booth | Our booth is near the entrance. | n. 展位，亭
+brand | The brand is well known in Asia. | n. 品牌 v. 打烙印
+briefing | The briefing lasted ten minutes. | n. 简报
+brochure | The brochure lists all the models. | n. 小册子
+bulletin | The bulletin is updated hourly. | n. 公告
+calibrate | The scales are calibrated monthly. | v. 校准
+carpool | Several staff carpool to the plant. | v./n. 拼车
+certification | Certification must be renewed yearly. | n. 认证
+checklist | Run through the checklist before closing. | n. 清单
+checkout | Checkout is at eleven. | n. 结账，退房
+circular | A circular went to every branch. | n. 通知，传阅函
+clearance | Clearance of the goods took two days. | n. 清关；清仓
+collateral | The loan requires collateral. | n. 抵押品 adj. 附带的
+complaint | The complaint was resolved the same day. | n. 投诉
+complimentary | Breakfast is complimentary. | adj. 免费赠送的；赞美的
+concierge | The concierge arranged a taxi. | n. 礼宾员
+confidential | The file is strictly confidential. | adj. 机密的
+confidentiality | Staff sign a confidentiality agreement. | n. 保密
+consignment | The consignment cleared customs on Friday. | n. 托运货物
+contingency | A contingency fund covers overruns. | n. 应急措施
+conveyor | A conveyor moves the parts to packing. | n. 传送带
+correspondence | All correspondence is filed. | n. 通信，信件
+counteroffer | They made a counteroffer the same day. | n. 还价
+coupon | The coupon gives two euros off. | n. 优惠券
+courier | The documents went by courier. | n. 快递员 v. 快递
+courtesy | A courtesy car was provided. | n. 礼貌 adj. 免费提供的
+creditor | Creditors were paid in full. | n. 债权人
+custodian | The custodian keeps the keys. | n. 管理员，保管人
+customs | Customs held the shipment for a day. | n. 海关；关税
+debtor | The debtor agreed a repayment plan. | n. 债务人
+declaration | A customs declaration is required. | n. 申报，声明
+defective | Defective units are returned to the plant. | adj. 有缺陷的
+deliverable | Each deliverable has a due date. | n. 交付物
+delivery | Delivery takes three working days. | n. 送货
+dependency | The task has two dependencies. | n. 依赖关系
+depreciation | Depreciation is charged over five years. | n. 折旧
+disclaimer | The brochure carries a disclaimer. | n. 免责声明
+discount | Members receive a ten percent discount. | n. 折扣 v. 打折
+dismissal | The dismissal was ruled unfair. | n. 解雇
+dispatch | The goods were dispatched this morning. | v. 发送 n. 发货
+dispatcher | The dispatcher rerouted the van. | n. 调度员
+distributor | The regional distributor holds the stock. | n. 经销商
+diversity | The firm reports on diversity annually. | n. 多样性
+dividend | The dividend was cut this quarter. | n. 股息
+downpayment | A downpayment secures the order. | n. 首付
+downtime | Downtime cost the plant a full shift. | n. 停机时间
+draft | The draft went out for comment. | n. 草稿 v. 起草
+embargo | The embargo closed the market. | n. 禁运 v. 禁运
+enrollment | Enrollment closed in September. | n. 注册人数
+ergonomic | The chairs are ergonomic. | adj. 符合人体工学的
+excursion | An afternoon excursion is included. | n. 短途旅行
+exemption | Small firms may apply for exemption. | n. 豁免
+expiry | Check the expiry date before use. | n. 到期
+extension | Dial extension 204. | n. 分机；延期
+fair | The fair runs through Sunday. | n. 博览会 adj. 公平的
+feedback | Customer feedback shaped the redesign. | n. 反馈
+finalize | We finalized the terms on Friday. | v. 敲定
+fiscal | The fiscal year ends in March. | adj. 财政的
+fluent | She is fluent in three languages. | adj. 流利的
+forklift | A forklift moved the crates. | n. 叉车
+forwarding | Leave a forwarding address. | n. 转寄
+handout | The handout summarises the figures. | n. 讲义；施舍
+harassment | The policy covers harassment at work. | n. 骚扰
+helpdesk | The helpdesk answers within an hour. | n. 服务台
+indemnity | The policy provides indemnity against loss. | n. 赔偿，保障
+induction | The induction covers safety rules. | n. 入职引导；归纳
+inspection | A safety inspection is due. | n. 检查
+installation | Installation is included in the price. | n. 安装
+installment | The first installment falls due in May. | n. 分期付款
+intercom | She called him on the intercom. | n. 内部通话系统
+interpreter | An interpreter joined the call. | n. 口译员
+invoice | The invoice is payable within thirty days. | n. 发票 v. 开发票
+itinerary | The itinerary was changed twice. | n. 行程表
+janitor | The janitor unlocks the building at seven. | n. 看门人，清洁工
+keynote | She gave the keynote at the conference. | n. 主旨演讲
+landlord | The landlord agreed to repair the roof. | n. 房东
+launch | The launch was delayed twice. | n./v. 发布，启动
+layover | We had a six-hour layover in Doha. | n. 中途停留
+leaflet | A leaflet was left at every door. | n. 传单
+lease | The lease runs for three years. | n. 租约 v. 租赁
+ledger | The entry was missing from the ledger. | n. 分类账
+levy | A levy was placed on packaging. | n. 征税 v. 征收
+liaise | She liaises with the overseas office. | v. 联络
+litigation | Litigation would cost more than settling. | n. 诉讼
+loyalty | The loyalty scheme rewards repeat buyers. | n. 忠诚；忠实度
+malfunction | The scanner malfunctioned twice. | v./n. 故障
+markup | The markup on imports is high. | n. 加价
+membership | Membership renews automatically. | n. 会员资格
+memo | A memo went round on Tuesday. | n. 备忘录
+mentorship | A mentorship scheme supports new hires. | n. 导师制
+merchandise | The merchandise arrived damaged. | n. 商品 v. 推销
+meter | The meter is read every quarter. | n. 仪表 v. 计量
+mortgage | They took out a thirty-year mortgage. | n. 抵押贷款 v. 抵押
+negotiation | Negotiations resume on Monday. | n. 谈判
+newsletter | The newsletter goes out monthly. | n. 通讯，简报
+notarize | The contract must be notarized. | v. 公证
+occupant | The previous occupant left no address. | n. 占用者，住户
+onboarding | Onboarding takes a full week. | n. 入职培训
+optional | The extended warranty is optional. | adj. 可选的
+outage | A power outage stopped the line. | n. 断电，中断
+overdraft | The account slipped into overdraft. | n. 透支
+overhead | Overheads rose with the new premises. | n. 经常开支 adj. 头顶上的
+overrun | The project overran its budget. | v./n. 超支，超时
+overtime | Overtime is paid at time and a half. | n. 加班
+packaging | The packaging is fully recyclable. | n. 包装
+pallet | The goods arrive on wooden pallets. | n. 托盘
+parking | Parking is free for customers. | n. 停车
+payroll | The payroll is processed on the 25th. | n. 工资名单
+pension | He drew a small company pension. | n. 养老金
+personnel | All personnel must sign in. | n. 全体员工
+petty | Petty cash covers small purchases. | adj. 琐碎的；小额的
+photocopier | The photocopier jammed again. | n. 复印机
+pilot | The pilot scheme ran for six months. | n. 试点 adj. 试验性的
+premises | Smoking is banned on the premises. | n. 房屋，经营场所
+prioritize | We prioritized the safety work. | v. 优先处理
+probation | New staff serve a six-month probation. | n. 试用期
+procurement | Procurement is handled centrally. | n. 采购
+proficiency | A proficiency test is required. | n. 熟练程度
+profit | Profit fell for the second quarter. | n. 利润 v. 获益
+projector | The projector would not connect. | n. 投影仪
+promotion | She was offered a promotion in June. | n. 晋升；促销
+proprietary | The format is proprietary. | adj. 专有的
+protective | Protective gear is mandatory. | adj. 防护的
+quarterly | The report is published quarterly. | adj./adv. 季度的，每季
+query | Please log the query in the system. | n. 疑问 v. 询问
+questionnaire | The questionnaire takes five minutes. | n. 问卷
+quotation | We asked three firms for a quotation. | n. 报价；引文
+receipt | Keep the receipt for the warranty. | n. 收据；收到
+referral | Most work comes by referral. | n. 推荐，转介
+refund | The shop issued a full refund. | n./v. 退款
+refurbishment | The refurbishment closed the wing. | n. 翻新
+registration | Registration closes on Friday. | n. 登记，注册
+regulation | New regulations take effect in July. | n. 规章
+reimbursement | Reimbursement takes two weeks. | n. 报销
+reinstatement | The tribunal ordered reinstatement. | n. 复职
+relocation | The firm paid relocation costs. | n. 搬迁
+remittance | The remittance cleared on Monday. | n. 汇款
+renewal | The renewal notice arrives in March. | n. 续订，更新
+repair | Repairs will take a week. | n./v. 修理
+replacement | A replacement part is on order. | n. 替换件
+reschedule | The meeting was rescheduled to Thursday. | v. 重新安排时间
+reservation | The reservation is under another name. | n. 预订；保留意见
+resignation | His resignation took effect at once. | n. 辞职
+restock | The shelves are restocked overnight. | v. 补货
+retailer | The retailer stocks forty brands. | n. 零售商
+retirement | She took early retirement. | n. 退休
+revision | The revision corrects two figures. | n. 修订
+rollout | The rollout begins next quarter. | n. 推广，上线
+roster | The roster is posted on Friday. | n. 值班表
+sabbatical | She took a sabbatical to finish the book. | n. 休假
+satisfaction | Customer satisfaction rose this year. | n. 满意度
+seminar | The seminar runs for two days. | n. 研讨会
+servicing | Annual servicing keeps the warranty valid. | n. 保养
+severance | Staff received severance pay. | n. 遣散费；切断
+shareholder | Shareholders approved the merger. | n. 股东
+shipment | The shipment is due on the fifth. | n. 装运，发货
+shortage | A chip shortage delayed production. | n. 短缺
+shuttle | A shuttle runs to the terminal. | n. 班车 v. 往返运送
+sign-off | Final sign-off came from the board. | n. 批准
+signage | New signage improved the layout. | n. 标识系统
+spare | Keep a spare key at reception. | adj. 备用的 n. 备件
+specification | The part meets the specification. | n. 规格，明细
+sponsor | A local firm sponsors the team. | n. 赞助商 v. 赞助
+statement | The bank statement arrives monthly. | n. 对账单；声明
+stationery | The order included office stationery. | n. 文具
+strike | The strike lasted four days. | n./v. 罢工
+sublet | They sublet the upper floor. | v. 转租
+subordinate | He never spoke down to a subordinate. | n. 下属 adj. 从属的
+supervisor | Ask your supervisor to approve it. | n. 主管
+supplier | The supplier missed the delivery date. | n. 供应商
+surcharge | A fuel surcharge was added. | n. 附加费
+survey | The survey went to two thousand buyers. | n./v. 调查
+switchboard | The switchboard closes at six. | n. 总机
+taxation | Taxation of online sales changed in April. | n. 税收
+tenancy | The tenancy ends in August. | n. 租期
+tender | Three firms submitted a tender. | n. 投标 v. 提出
+testimonial | The website carries customer testimonials. | n. 推荐语，证明书
+ticket | A support ticket was raised. | n. 工单；票 v. 开票
+timeline | The timeline slipped by a month. | n. 时间表
+tracking | A tracking number was emailed. | n. 追踪
+trade | The trade fair draws buyers from abroad. | n. 贸易 v. 交易
+translation | The translation took a week. | n. 翻译
+troubleshoot | Engineers troubleshoot by phone first. | v. 排除故障
+union | The union called a ballot. | n. 工会；联合
+utilities | Utilities are billed separately. | n. 水电费
+utility | Utility costs doubled over the winter. | n. 公用事业；效用
+vendor | The vendor delivers twice a week. | n. 供应商，卖主
+venue | The venue seats four hundred. | n. 场地
+visa | A business visa takes two weeks. | n. 签证
+voicemail | He left a voicemail for the manager. | n. 语音留言
+voucher | The voucher expires at the end of May. | n. 代金券，凭证
+waiver | He signed a waiver before the trial. | n. 弃权书
+warranty | The warranty covers parts and labour. | n. 保修，保证
+withdrawal | A withdrawal fee applies abroad. | n. 取款；撤回
