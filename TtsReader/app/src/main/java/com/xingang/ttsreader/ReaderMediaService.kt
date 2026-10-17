@@ -21,7 +21,8 @@ import kotlinx.coroutines.launch
  * through the media session.
  *
  * Browse tree: root -> passages -> sentences. Metadata: title = the sentence
- * being spoken, artist = its note (中文解释), album = passage title.
+ * being spoken: title = the word with its 中文解释, subtitle = the example
+ * sentence, album = passage title.
  */
 class ReaderMediaService : MediaBrowserServiceCompat() {
 
@@ -74,8 +75,8 @@ class ReaderMediaService : MediaBrowserServiceCompat() {
                     items += MediaBrowserCompat.MediaItem(
                         MediaDescriptionCompat.Builder()
                             .setMediaId("$SENTENCE_PREFIX$id:$i")
-                            .setTitle(s.text)
-                            .setSubtitle(s.note ?: "")
+                            .setTitle(s.carTitle)
+                            .setSubtitle(s.carSubtitle)
                             .setIconUri(ArtProvider.badgeUri(i + 1))
                             .build(),
                         MediaBrowserCompat.MediaItem.FLAG_PLAYABLE,
@@ -147,11 +148,11 @@ class ReaderMediaService : MediaBrowserServiceCompat() {
                     }
                 }
                 .putString(MediaMetadataCompat.METADATA_KEY_MEDIA_ID, "$SENTENCE_PREFIX${s.passageId}:${s.index}")
-                .putString(MediaMetadataCompat.METADATA_KEY_TITLE, current?.text ?: getString(R.string.app_name))
-                .putString(MediaMetadataCompat.METADATA_KEY_ARTIST, current?.note ?: "")
+                .putString(MediaMetadataCompat.METADATA_KEY_TITLE, current?.carTitle ?: getString(R.string.app_name))
+                .putString(MediaMetadataCompat.METADATA_KEY_ARTIST, current?.carSubtitle ?: "")
                 .putString(MediaMetadataCompat.METADATA_KEY_ALBUM, s.title)
-                .putString(MediaMetadataCompat.METADATA_KEY_DISPLAY_TITLE, current?.text ?: "")
-                .putString(MediaMetadataCompat.METADATA_KEY_DISPLAY_SUBTITLE, current?.note ?: "")
+                .putString(MediaMetadataCompat.METADATA_KEY_DISPLAY_TITLE, current?.carTitle ?: "")
+                .putString(MediaMetadataCompat.METADATA_KEY_DISPLAY_SUBTITLE, current?.carSubtitle ?: "")
                 .putLong(MediaMetadataCompat.METADATA_KEY_TRACK_NUMBER, (s.index + 1).toLong())
                 .putLong(MediaMetadataCompat.METADATA_KEY_NUM_TRACKS, s.sentences.size.toLong())
                 .putLong(MediaMetadataCompat.METADATA_KEY_DURATION, -1L)
@@ -188,8 +189,8 @@ class ReaderMediaService : MediaBrowserServiceCompat() {
                 MediaSessionCompat.QueueItem(
                     MediaDescriptionCompat.Builder()
                         .setMediaId("$SENTENCE_PREFIX${s.passageId}:$i")
-                        .setTitle(sentence.text)
-                        .setSubtitle(sentence.note ?: "")
+                        .setTitle(sentence.carTitle)
+                        .setSubtitle(sentence.carSubtitle)
                         .setIconUri(ArtProvider.badgeUri(i + 1))
                         .build(),
                     i.toLong(),
@@ -208,3 +209,7 @@ class ReaderMediaService : MediaBrowserServiceCompat() {
         @Volatile var token: MediaSessionCompat.Token? = null
     }
 }
+
+/** Car rows lead with the word and its gloss; the example sentence follows beneath. */
+private val Sentence.carTitle: String get() = note ?: text
+private val Sentence.carSubtitle: String get() = if (note != null) text else ""

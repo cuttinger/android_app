@@ -68,6 +68,19 @@ class SentencesTest {
         assertEquals("否则，要不然", stripPartsOfSpeech("否则，要不然"))
     }
 
+    // 词性标记夹在中间、没有分号隔开时也要去掉，并把两个义项分开
+    @Test
+    fun stripsPartsOfSpeechInTheMiddle() {
+        assertEquals("每年的；年刊", stripPartsOfSpeech("adj. 每年的 n. 年刊"))
+        assertEquals("挖洞；洞穴", stripPartsOfSpeech("v. 挖洞 n. 洞穴"))
+        assertEquals("档案馆；存档", stripPartsOfSpeech("n. 档案馆 v. 存档"))
+        assertEquals("总计；合计的", stripPartsOfSpeech("n. 总计 adj. 合计的"))
+        // 已经用分号隔开的照旧
+        assertEquals("耻辱；使丢脸", stripPartsOfSpeech("n. 耻辱；v. 使丢脸"))
+        // 中文里的句号不受影响
+        assertEquals("名词解释", stripPartsOfSpeech("名词解释"))
+    }
+
     // 四种朗读方式各自朗读哪些段
     @Test
     fun speakModesPickTheRightParts() {

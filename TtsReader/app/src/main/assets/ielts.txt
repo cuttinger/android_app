@@ -1,0 +1,470 @@
+# 雅思核心词汇表（按字母排序，释义与例句为自编）
+# 已去除与生词本、六级、托福、GRE 及各短语语料重复的词条
+# word | example sentence | 中文释义
+academia | She left academia for a post in industry. | n. 学术界
+accountability | Voters demanded greater accountability from the council. | n. 问责，责任制
+acquisition | Language acquisition is fastest in early childhood. | n. 习得；收购
+advancement | Medical advancement has doubled life expectancy. | n. 进步，发展
+adversity | He showed remarkable calm in the face of adversity. | n. 逆境，困难
+affinity | She has a natural affinity for languages. | n. 亲和力，天生的喜爱
+aftermath | The town rebuilt slowly in the aftermath of the flood. | n. 余波，后果
+alignment | The policy is in alignment with national targets. | n. 一致，结盟
+allure | The allure of city life draws young workers away. | n. 吸引力 v. 诱惑
+amenity | The estate offers few amenities for families. | n. 便利设施
+amplify | Social media amplifies minor disputes. | v. 放大，增强
+analytical | The job calls for strong analytical skills. | adj. 分析的
+anonymity | Online anonymity encourages rude behaviour. | n. 匿名
+antiquated | The factory still runs on antiquated machinery. | adj. 陈旧的，过时的
+appraisal | Staff receive a written appraisal each year. | n. 评估，评价
+apprenticeship | He served a four-year apprenticeship as an electrician. | n. 学徒期
+aptitude | The test measures aptitude rather than knowledge. | n. 天资，才能
+arbitration | The dispute went to arbitration after talks failed. | n. 仲裁
+archetype | The character is the archetype of the self-made man. | n. 典型，原型
+ascribe | Historians ascribe the collapse to poor harvests. | v. 把…归因于
+aspire | Many graduates aspire to work abroad. | v. 渴望，立志
+assertion | His assertion was not supported by the data. | n. 断言，主张
+attainment | Educational attainment varies widely by region. | n. 成就，达到
+attrition | Staff numbers fell through natural attrition. | n. 自然减员；消耗
+automation | Automation has reshaped the factory floor. | n. 自动化
+avert | Early warning averted a serious accident. | v. 避免，防止
+backdrop | The reforms took place against a backdrop of unrest. | n. 背景
+backlog | The office faces a backlog of applications. | n. 积压的工作
+barometer | House prices are a barometer of economic health. | n. 晴雨表，指标
+benchmark | The results set a new benchmark for the industry. | n. 基准 v. 以…为基准
+beneficiary | Rural families were the main beneficiaries of the scheme. | n. 受益人
+bilingual | Bilingual children often switch languages mid-sentence. | adj. 双语的
+biodegradable | The packaging is fully biodegradable. | adj. 可生物降解的
+blueprint | The report is a blueprint for reform. | n. 蓝图，方案
+bottleneck | Customs clearance is the main bottleneck. | n. 瓶颈
+buffer | Savings act as a buffer against job loss. | n. 缓冲 v. 缓冲
+burden | Rising rents place a heavy burden on students. | n. 负担 v. 使负担
+capitalize | The firm capitalized on the sudden demand. | v. 利用；资本化
+captivate | The exhibition captivated visitors of all ages. | v. 迷住，吸引
+caregiver | Most unpaid caregivers are women. | n. 照护者
+censorship | Press censorship was lifted in the same year. | n. 审查制度
+centralize | The government centralized control of the railways. | v. 集中，中央集权化
+charitable | The hospital relies on charitable donations. | adj. 慈善的
+circulation | The newspaper's circulation has halved. | n. 发行量；流通
+civic | Voting is a basic civic duty. | adj. 公民的，市民的
+clarity | The report lacks clarity about costs. | n. 清晰，明确
+coexist | The two species coexist in the same valley. | v. 共存
+cohesion | Shared festivals strengthen social cohesion. | n. 凝聚力
+collectively | The members collectively own the land. | adv. 共同地，集体地
+commend | The judge commended the volunteers. | v. 表扬，称赞
+commonplace | Remote work has become commonplace. | adj. 普通的，常见的
+commute | A long commute eats into family time. | n./v. 通勤
+compatible | The software is not compatible with older phones. | adj. 兼容的，相容的
+complementary | The two approaches are complementary rather than rival. | adj. 互补的
+compliance | Compliance with the new rules is mandatory. | n. 遵守，合规
+comprehension | The exercise tests reading comprehension. | n. 理解力
+compulsory | Schooling is compulsory until the age of sixteen. | adj. 强制的，义务的
+concession | Neither side was willing to make a concession. | n. 让步；特许权
+conformity | Strict conformity stifles original thinking. | n. 遵从，一致
+congestion | A new ring road eased congestion in the centre. | n. 拥堵
+consolidate | The firm consolidated its position in Asia. | v. 巩固；合并
+constructive | She offered constructive criticism of the draft. | adj. 建设性的
+consumption | Household water consumption fell by a fifth. | n. 消耗，消费
+contention | His main contention is that the data are flawed. | n. 论点；争论
+contingent | Funding is contingent on annual review. | adj. 视情况而定的 n. 代表团
+continuity | Staff turnover threatens continuity of care. | n. 连续性
+conviction | She spoke with real conviction. | n. 信念；定罪
+counterargument | The essay fails to address the obvious counterargument. | n. 反驳论点
+counterproductive | Longer hours proved counterproductive. | adj. 适得其反的
+craftsmanship | The craftsmanship of the roof is remarkable. | n. 工艺，手艺
+credentials | Candidates must submit their credentials by Friday. | n. 资格证明
+custody | The children were placed in the custody of an aunt. | n. 监护权；拘留
+deadlock | The talks ended in deadlock. | n. 僵局
+debatable | Whether the policy worked is debatable. | adj. 有争议的
+decentralize | The reform decentralized decision-making. | v. 分散，下放
+deduction | The conclusion follows by simple deduction. | n. 推论；扣除
+defer | The decision was deferred until spring. | v. 推迟；遵从
+degradation | Soil degradation threatens future harvests. | n. 退化，恶化
+demographic | The country faces a shrinking demographic of workers. | n. 人口群体 adj. 人口的
+demolish | The old terminal was demolished last year. | v. 拆除，推翻
+deprivation | Sleep deprivation affects memory. | n. 剥夺，匮乏
+desalination | Desalination supplies a third of the city's water. | n. 海水淡化
+detachment | He described the scene with cool detachment. | n. 超然，冷漠
+deterrent | Heavy fines act as a deterrent. | n. 威慑物 adj. 制止的
+detractor | Even its detractors admit the plan is bold. | n. 批评者，诋毁者
+devastate | The storm devastated the coastal villages. | v. 摧毁
+deviate | The study deviated from its original aim. | v. 偏离
+dictate | Cost should not dictate every decision. | v. 决定；口述
+dignity | The scheme aims to let the elderly age with dignity. | n. 尊严
+dilemma | Parents face a dilemma between cost and quality. | n. 困境，两难
+dilute | Heavy rain diluted the chemical in the river. | v. 稀释，削弱
+discontent | Public discontent grew over the winter. | n. 不满
+discourage | High fees discourage poorer applicants. | v. 阻止，使气馁
+discourse | Public discourse has grown more polarised. | n. 论述，话语
+discretion | Teachers may use their discretion in grading. | n. 自行决定权；谨慎
+disguise | The tax is a subsidy in disguise. | n. 伪装 v. 掩饰
+disincentive | The penalty acts as a disincentive to driving. | n. 抑制因素
+disposable | Disposable cups make up most of the waste. | adj. 一次性的；可支配的
+disposal | Safe disposal of batteries is a growing problem. | n. 处理，处置
+disproportionate | Rural areas bear a disproportionate share of the cost. | adj. 不成比例的
+distinction | There is a clear distinction between the two terms. | n. 区别；殊荣
+diversification | Diversification protected the farm from a bad season. | n. 多样化
+diversify | The region diversified away from coal. | v. 使多样化
+divisive | The proposal proved deeply divisive. | adj. 引起分歧的
+doctrine | The doctrine shaped policy for a generation. | n. 教义，学说
+downturn | The downturn hit construction hardest. | n. 衰退，下滑
+drawback | The main drawback is the cost. | n. 缺点，不利之处
+dynamics | Family dynamics shape a child's confidence. | n. 动态，相互作用
+ecological | The dam had severe ecological consequences. | adj. 生态的
+embark | They embarked on a five-year study. | v. 着手，开始
+empathy | Good teaching requires empathy. | n. 同理心
+empower | Microloans empower women to start businesses. | v. 赋权，使有能力
+encroach | Housing is encroaching on farmland. | v. 侵占，蚕食
+endowment | The library runs on a private endowment. | n. 捐赠基金；天赋
+envisage | Planners envisage a car-free centre. | v. 设想，预想
+equitable | The aim is an equitable distribution of funding. | adj. 公平的
+equity | The policy is a question of equity, not charity. | n. 公平；股本
+eradicate | The disease was eradicated within a decade. | v. 根除
+esteem | The profession is held in high esteem. | n. 尊重 v. 尊敬
+ethical | The trial raised difficult ethical questions. | adj. 道德的，伦理的
+ethos | The school has a strong cooperative ethos. | n. 精神特质，风气
+excel | She excels at problem-solving. | v. 擅长，突出
+exclusion | Social exclusion often begins at school. | n. 排斥，排除
+exemplify | This building exemplifies the style of the period. | v. 例证，是…的典型
+exodus | A rural exodus emptied the villages. | n. 大批离去
+facet | The report examines every facet of the problem. | n. 方面
+fallout | The political fallout lasted for years. | n. 后果，余波
+fatality | Road fatalities fell after the speed limit changed. | n. 死亡事故
+fidelity | The recording has remarkable fidelity. | n. 保真度；忠诚
+flagship | The clinic is the flagship of the new programme. | n. 旗舰，最重要的
+flaw | The argument has one serious flaw. | n. 缺陷
+fluency | Fluency matters more than perfect grammar. | n. 流利
+footprint | The firm cut its carbon footprint by half. | n. 足迹，占地面积
+forefront | The university is at the forefront of the field. | n. 最前沿
+foresee | No one foresaw how quickly prices would rise. | v. 预见
+formation | The formation of good habits takes time. | n. 形成
+fraught | The negotiations were fraught with difficulty. | adj. 充满（问题的）；焦虑的
+functional | The design is functional rather than beautiful. | adj. 实用的，功能性的
+fusion | The cuisine is a fusion of two traditions. | n. 融合
+galvanize | The report galvanized public opinion. | v. 激励，促使行动
+garner | The campaign garnered wide support. | v. 获得，收集
+genesis | The genesis of the idea lies in the war years. | n. 起源
+gentrification | Gentrification pushed out long-term residents. | n. 绅士化，中产化
+globalization | Globalization has reshaped local labour markets. | n. 全球化
+governance | Good governance matters more than new laws. | n. 治理
+grassroots | The movement began at the grassroots. | n. 基层 adj. 基层的
+gratification | Social media offers instant gratification. | n. 满足，快感
+grievance | Staff aired their grievances at the meeting. | n. 不满，申诉
+groundbreaking | The study was groundbreaking at the time. | adj. 开创性的
+hallmark | Attention to detail is the hallmark of her work. | n. 特征，标志
+handicap | A lack of capital handicapped the project. | v. 妨碍 n. 障碍
+harness | The country aims to harness solar energy. | v. 利用，驾驭
+headway | The talks made little headway. | n. 进展
+heighten | The delay heightened public frustration. | v. 加剧，提高
+hurdle | Funding is the biggest hurdle. | n. 障碍，难关
+hygiene | Better hygiene cut infection rates sharply. | n. 卫生
+hypothetical | The question is purely hypothetical. | adj. 假设的
+idealistic | His plan is idealistic but impractical. | adj. 理想主义的
+ideology | The two parties differ in ideology, not detail. | n. 意识形态
+idle | The machines stood idle for months. | adj. 闲置的 v. 空转
+illiterate | A tenth of the adult population remains illiterate. | adj. 文盲的
+immeasurable | The social benefit is immeasurable. | adj. 无法衡量的
+impoverished | The policy left many households impoverished. | adj. 贫困的
+incidence | The incidence of asthma rose in urban areas. | n. 发生率
+inclusive | The curriculum aims to be inclusive. | adj. 包容的；包含的
+incur | The delay incurred additional costs. | v. 招致，遭受
+indicator | Literacy is a useful indicator of development. | n. 指标
+inefficiency | Inefficiency in the supply chain raised prices. | n. 低效
+inequality | Income inequality widened over the decade. | n. 不平等
+influx | The city absorbed a sudden influx of workers. | n. 涌入
+infringe | The law infringes on personal privacy. | v. 侵犯，违反
+ingrained | The habit is deeply ingrained. | adj. 根深蒂固的
+initiative | The council launched a recycling initiative. | n. 倡议；主动性
+instability | Political instability deterred investors. | n. 不稳定
+instill | Schools try to instill a sense of responsibility. | v. 逐渐灌输
+institutional | The problem is institutional, not personal. | adj. 制度上的
+instrumental | She was instrumental in founding the charity. | adj. 起关键作用的
+insufficient | The evidence is insufficient to draw a conclusion. | adj. 不足的
+intensify | Competition intensified after the merger. | v. 加剧
+interdependence | Trade creates interdependence between nations. | n. 相互依赖
+interplay | The interplay of climate and soil shapes the crop. | n. 相互作用
+intuitive | The interface is intuitive for new users. | adj. 直观的，凭直觉的
+invaluable | Her local knowledge proved invaluable. | adj. 极其宝贵的
+invariably | The meetings invariably run late. | adv. 总是，一贯地
+inventory | The shop takes inventory twice a year. | n. 存货清单 v. 盘点
+irrational | The fear of flying is largely irrational. | adj. 不理性的
+irrelevant | That point is irrelevant to the question. | adj. 无关的
+irreversible | Some of the damage is irreversible. | adj. 不可逆转的
+juvenile | Juvenile crime fell after the youth centre opened. | adj. 青少年的
+keystone | Trust is the keystone of the agreement. | n. 基石，关键
+kinship | Kinship ties still govern land ownership. | n. 亲属关系
+lag | Wages lag behind the cost of living. | v./n. 落后，滞后
+landfill | Less waste now goes to landfill. | n. 垃圾填埋场
+lapse | After a lapse of ten years the festival resumed. | n. 间隔；失误 v. 失效
+layoff | The layoffs hit the plant hardest. | n. 裁员
+leeway | The rules allow little leeway. | n. 余地，回旋空间
+legitimacy | The election restored the government's legitimacy. | n. 合法性，正当性
+lenient | Critics called the sentence too lenient. | adj. 宽大的，仁慈的
+lessen | Insulation lessens heat loss. | v. 减轻，减少
+leverage | The union used its leverage to win concessions. | n. 影响力 v. 利用
+liability | The old building is a liability. | n. 责任；累赘
+lifelong | Reading gave him a lifelong interest in history. | adj. 终身的
+lifespan | The average lifespan has risen by ten years. | n. 寿命
+lobby | Farmers lobbied for lower fuel taxes. | v. 游说 n. 游说团体
+logistics | The logistics of moving the library were daunting. | n. 物流，后勤
+longevity | Diet partly explains the longevity of the islanders. | n. 长寿
+loom | A funding crisis looms. | v. 逼近，隐约出现
+lure | High wages lure graduates to the capital. | v. 引诱 n. 诱惑
+magnify | The lens magnifies the sample forty times. | v. 放大；夸大
+maintenance | Deferred maintenance left the bridge unsafe. | n. 维护，保养
+malnutrition | Malnutrition stunts growth in early childhood. | n. 营养不良
+mandatory | Helmets are mandatory on building sites. | adj. 强制的
+manpower | The project failed for lack of manpower. | n. 人力
+marginalize | The reform marginalized small growers. | v. 边缘化
+mastery | Mastery of a language takes years. | n. 精通
+materialize | The promised funding never materialized. | v. 实现，成为现实
+mentor | A good mentor shortens the learning curve. | n. 导师 v. 指导
+methodology | The paper explains its methodology in detail. | n. 方法论
+milestone | Opening the clinic was a major milestone. | n. 里程碑
+mindset | Changing the mindset is harder than changing the rules. | n. 心态，思维方式
+misinformation | Misinformation spreads faster than corrections. | n. 错误信息
+misuse | Misuse of antibiotics breeds resistance. | n./v. 滥用
+mobility | Social mobility has stalled since the eighties. | n. 流动性
+modest | The scheme brought a modest improvement. | adj. 适度的；谦虚的
+monetary | Monetary policy alone cannot fix the problem. | adj. 货币的
+monumental | Rebuilding was a monumental task. | adj. 巨大的；纪念碑式的
+morale | Pay cuts damaged staff morale. | n. 士气
+mortality | Infant mortality halved in a generation. | n. 死亡率
+motive | The motive behind the donation was unclear. | n. 动机
+multinational | Multinational firms dominate the sector. | adj. 跨国的 n. 跨国公司
+multitude | A multitude of small changes added up. | n. 大量，众多
+myopic | The policy was criticised as myopic. | adj. 目光短浅的
+nationwide | The survey was conducted nationwide. | adj./adv. 全国性的，在全国
+necessity | Clean water is a necessity, not a luxury. | n. 必需品，必要性
+negligence | The accident was blamed on negligence. | n. 疏忽，过失
+networking | Much hiring happens through networking. | n. 人脉关系；建立联系
+nominal | The fee is nominal. | adj. 名义上的；象征性的
+nominate | She was nominated for the award twice. | v. 提名
+nonetheless | The plan is costly; nonetheless it is necessary. | adv. 尽管如此
+noteworthy | The decline in rural areas is noteworthy. | adj. 值得注意的
+nuisance | Noise from the airport is a constant nuisance. | n. 滋扰，麻烦事
+numeracy | The course builds basic numeracy. | n. 计算能力
+nurture | Schools should nurture curiosity. | v. 培养 n. 养育
+obesity | Childhood obesity has tripled since 1990. | n. 肥胖
+obsession | The culture's obsession with speed has a cost. | n. 痴迷
+obstruct | Parked cars obstruct the pavement. | v. 阻碍
+occupancy | Hotel occupancy fell over the winter. | n. 入住率，占用
+offender | First-time offenders are treated differently. | n. 罪犯，违法者
+omission | The omission of costs weakens the report. | n. 遗漏
+ongoing | The research is ongoing. | adj. 持续进行的
+onset | The onset of symptoms is gradual. | n. 开始，发作
+onus | The onus is on the employer to prove it. | n. 责任，义务
+opt | Many families opt for state schools. | v. 选择
+optimal | The optimal temperature for storage is four degrees. | adj. 最佳的
+orchestrate | The campaign was carefully orchestrated. | v. 精心策划
+ordeal | The journey was an ordeal for the children. | n. 磨难
+outbreak | An outbreak of flu closed two schools. | n. 爆发
+outdated | The equipment is badly outdated. | adj. 过时的
+outlay | The initial outlay is recovered within three years. | n. 支出，花费
+outnumber | Applicants outnumber places five to one. | v. 数量多于
+outreach | The museum runs an outreach programme in schools. | n. 外展服务
+outset | The risks were clear from the outset. | n. 开端
+outsourcing | Outsourcing cut costs but hurt quality. | n. 外包
+outweigh | The benefits outweigh the drawbacks. | v. 比…更重要
+overhaul | The system needs a complete overhaul. | n./v. 彻底检修
+oversee | A committee oversees the spending. | v. 监督
+oversight | The error was a simple oversight. | n. 疏忽；监管
+overstate | It is hard to overstate the importance of sleep. | v. 夸大
+overtake | Online sales overtook shop sales in 2019. | v. 超过，赶上
+overturn | The court overturned the earlier ruling. | v. 推翻
+paramount | Safety is paramount on site. | adj. 至高无上的，首要的
+parental | Parental involvement improves results. | adj. 父母的
+parity | Women have yet to reach parity in senior roles. | n. 同等，平等
+partake | Few residents partake in the consultation. | v. 参加
+pedagogy | The college is rethinking its pedagogy. | n. 教学法
+pedestrian | The street was closed to all but pedestrian traffic. | adj. 行人的；平庸的 n. 行人
+penalize | Late payment is penalized with a fee. | v. 处罚
+perk | Free childcare is a valuable perk. | n. 额外福利
+permeate | A sense of unease permeated the meeting. | v. 渗透，弥漫
+perpetuate | The textbook perpetuates an old myth. | v. 使持续，延续
+pertain | The rules pertain only to full-time staff. | v. 适用于，与…有关
+petition | Residents signed a petition against the road. | n./v. 请愿
+pillar | Trade is one of the pillars of the economy. | n. 支柱
+pinpoint | Engineers could not pinpoint the fault. | v. 准确指出
+pitfall | The essay avoids the usual pitfalls. | n. 陷阱，易犯的错误
+plight | The report highlights the plight of refugees. | n. 困境
+plummet | Share prices plummeted overnight. | v. 暴跌
+populace | The populace was largely rural. | n. 民众
+portfolio | The fund holds a diverse portfolio. | n. 投资组合；作品集
+poverty | Child poverty rose for a third year. | n. 贫困
+practitioner | General practitioners handle most referrals. | n. 从业者，医师
+preference | Students showed a clear preference for evening classes. | n. 偏好
+premium | Buyers pay a premium for organic produce. | n. 溢价，额外费用 adj. 高档的
+prerequisite | Basic maths is a prerequisite for the course. | n. 先决条件
+pressing | Housing is the most pressing issue. | adj. 紧迫的
+privatization | Privatization of the railways remains contentious. | n. 私有化
+proactive | A proactive approach prevents most faults. | adj. 主动的，前瞻的
+probability | The probability of error is small but real. | n. 概率，可能性
+procure | The hospital procures supplies centrally. | v. 采购，获得
+productivity | Productivity rose while hours fell. | n. 生产率
+projection | The projection assumes steady growth. | n. 预测；投影
+proliferation | The proliferation of apps confuses users. | n. 激增，扩散
+prolong | Better drugs prolong survival. | v. 延长
+promote | The campaign promotes cycling to work. | v. 促进；提升
+proponent | Proponents argue the cost will fall. | n. 支持者
+prosecute | The company was prosecuted for pollution. | v. 起诉
+protocol | Staff must follow the safety protocol. | n. 规程，协议
+prototype | The prototype was tested for a year. | n. 原型
+provision | The act makes provision for free meals. | n. 提供；条款
+proxy | Income is a poor proxy for wellbeing. | n. 代理；替代指标
+prudence | Financial prudence saved the firm. | n. 谨慎，审慎
+publicize | The results were widely publicized. | v. 宣传，公开
+punitive | The tax was seen as punitive. | adj. 惩罚性的
+pursuit | The pursuit of growth has environmental costs. | n. 追求
+quantify | The benefit is real but hard to quantify. | v. 量化
+quest | The quest for cheaper energy continues. | n. 探索，追求
+quota | Each region has a recruitment quota. | n. 配额
+rally | Supporters rallied behind the proposal. | v. 集结，团结 n. 集会
+ramification | The ruling has wide ramifications. | n. 影响，后果
+ratio | The staff-to-student ratio has worsened. | n. 比率
+rationale | The rationale for the change was never explained. | n. 理由，根本原因
+rationalize | The firm rationalized its product range. | v. 精简；合理化
+reassess | The council will reassess the plan next year. | v. 重新评估
+rebound | Tourism rebounded strongly in the summer. | v./n. 反弹
+rebuttal | Her rebuttal was brief and effective. | n. 反驳
+reciprocity | The agreement rests on reciprocity. | n. 互惠
+recruit | The hospital struggles to recruit nurses. | v. 招募 n. 新成员
+recur | The fault recurred within a week. | v. 再次发生
+redistribute | The tax redistributes income to poorer regions. | v. 重新分配
+redundancy | Voluntary redundancy was offered to older staff. | n. 裁员；冗余
+referendum | The issue was settled by referendum. | n. 公投
+refurbish | The library was refurbished last summer. | v. 翻新
+regeneration | Urban regeneration transformed the docks. | n. 复兴，再生
+regress | Without practice, skills regress. | v. 退步
+regulator | The regulator fined three providers. | n. 监管机构
+rehabilitation | Prisons should focus on rehabilitation. | n. 康复；改造
+reimburse | The company reimburses travel costs. | v. 报销，偿还
+reinstate | The worker was reinstated after an appeal. | v. 恢复，使复职
+reiterate | The minister reiterated the pledge. | v. 重申
+reliance | Over-reliance on one crop is risky. | n. 依赖
+relocate | The firm relocated to a cheaper city. | v. 搬迁
+remainder | The remainder of the budget went on staff. | n. 剩余部分
+remedial | The school offers remedial classes. | adj. 补救的，补习的
+remuneration | Remuneration has not kept pace with inflation. | n. 报酬
+renewable | Renewable sources supply a third of demand. | adj. 可再生的
+renovate | They renovated the hall without closing it. | v. 翻修
+repeal | The law was repealed after ten years. | v. 废除
+repercussion | The decision had lasting repercussions. | n. 不良后果
+repository | The archive is a repository of local history. | n. 存放处，宝库
+reputable | Buy only from a reputable supplier. | adj. 声誉好的
+resemblance | The copy bears little resemblance to the original. | n. 相似
+resurgence | There has been a resurgence of interest in crafts. | n. 复苏，再起
+retention | Staff retention improved after the pay rise. | n. 保留，留存
+retrofit | Older homes can be retrofitted with insulation. | v. 改造加装
+revamp | The website was revamped last month. | v. 改造，翻新
+revert | The land reverted to woodland. | v. 恢复，回到
+revitalize | The grant revitalized the town centre. | v. 使恢复活力
+rote | Learning by rote suits few subjects. | n. 死记硬背
+safeguard | The law safeguards tenants' rights. | v. 保护 n. 保障措施
+salvage | Little could be salvaged from the wreck. | v. 抢救，挽回
+sanitation | Poor sanitation spreads disease. | n. 卫生设施
+screening | Routine screening detects the illness early. | n. 筛查
+seamless | The transfer was seamless. | adj. 无缝的，流畅的
+secular | The state runs a secular school system. | adj. 世俗的
+segregation | Residential segregation persists in many cities. | n. 隔离
+selective | The university is highly selective. | adj. 选择性的，严格挑选的
+sentiment | Public sentiment turned against the war. | n. 情绪，看法
+setback | The trial suffered a serious setback. | n. 挫折
+shortcoming | The main shortcoming is the small sample. | n. 缺点
+shortfall | A shortfall in funding delayed the work. | n. 缺口，不足
+showcase | The fair showcases local producers. | v. 展示 n. 展示场合
+simulate | The model simulates traffic flow. | v. 模拟
+skew | A few outliers skew the average. | v. 使偏斜 n. 偏差
+slash | The budget was slashed by a third. | v. 大幅削减
+slump | Sales slumped after the price rise. | v./n. 暴跌，萧条
+solidarity | Workers expressed solidarity with the strikers. | n. 团结
+spearhead | She spearheaded the recycling drive. | v. 带头，领导
+specialize | Smaller farms specialize in one crop. | v. 专门从事
+sponsorship | Corporate sponsorship funds the festival. | n. 赞助
+spur | Tax breaks spurred investment. | v. 刺激 n. 刺激因素
+stabilize | Prices stabilized after the harvest. | v. 使稳定
+stakeholder | Every stakeholder was consulted. | n. 利益相关者
+standardize | Exams were standardized across regions. | v. 使标准化
+statutory | There is a statutory duty to report the figures. | adj. 法定的
+steer | The chair steered the discussion back on topic. | v. 引导，驾驶
+stereotype | The advert plays on an old stereotype. | n. 刻板印象 v. 对…有成见
+stipend | Research students receive a modest stipend. | n. 津贴
+streamline | The process was streamlined to three steps. | v. 精简
+strengthen | The evidence strengthens the case for change. | v. 加强
+subjective | Judging art is inevitably subjective. | adj. 主观的
+subscription | Subscription income now exceeds advertising. | n. 订阅费
+substantive | The talks produced no substantive change. | adj. 实质性的
+suffice | A short note will suffice. | v. 足够
+summarize | The final chapter summarizes the findings. | v. 总结
+surmount | They surmounted every technical obstacle. | v. 克服
+surveillance | Public surveillance raises privacy concerns. | n. 监控
+sustainable | The current rate of use is not sustainable. | adj. 可持续的
+swift | The response was swift and effective. | adj. 迅速的
+syndrome | The syndrome was first described in 1960. | n. 综合征
+synergy | There is real synergy between the two teams. | n. 协同效应
+systematic | The search was slow but systematic. | adj. 系统的
+tailor | The course is tailored to working adults. | v. 定制 n. 裁缝
+tally | The figures do not tally with the report. | v. 相符 n. 记录
+tamper | Someone had tampered with the lock. | v. 篡改，擅自改动
+taper | Support will taper off after three years. | v. 逐渐减少
+tariff | A tariff on imports raised domestic prices. | n. 关税
+temper | Good news tempered the gloom. | v. 缓和 n. 脾气
+tentative | The findings are tentative. | adj. 初步的，试探性的
+tenure | He was granted tenure after six years. | n. 终身职位；任期
+terminology | The terminology varies between fields. | n. 术语
+testimony | Her testimony changed the outcome. | n. 证词，证明
+tier | The scheme has three tiers of funding. | n. 层级
+timeframe | The timeframe is unrealistic. | n. 时间框架
+toll | The flood took a heavy toll on the harvest. | n. 损失，代价；通行费
+trade-off | There is a trade-off between speed and accuracy. | n. 权衡取舍
+transcend | The appeal of the music transcends generations. | v. 超越
+transcript | Applicants must send an academic transcript. | n. 成绩单；文字记录
+transplant | The surgeon performed the first transplant here. | n./v. 移植
+trauma | The trauma of the move affected the children. | n. 创伤
+trustworthy | The source is not entirely trustworthy. | adj. 可信赖的
+tuition | Tuition fees have risen every year. | n. 学费；教学
+turnout | Voter turnout was the lowest on record. | n. 出席人数，投票率
+turnover | Staff turnover doubled in two years. | n. 人员流动；营业额
+typify | The painting typifies his later work. | v. 是…的典型
+unanimous | The vote was unanimous. | adj. 一致同意的
+unbiased | The study claims to be unbiased. | adj. 无偏见的
+uncertainty | Uncertainty over funding delayed hiring. | n. 不确定性
+unconventional | Her methods are unconventional but effective. | adj. 非传统的
+undercut | Imports undercut local producers. | v. 削价竞争；削弱
+underestimate | Planners underestimated the demand. | v. 低估
+underline | The figures underline the scale of the problem. | v. 强调；在…下划线
+underpin | Trust underpins the whole system. | v. 支撑，构成基础
+underrepresented | Women are underrepresented in engineering. | adj. 代表性不足的
+undervalue | Society undervalues care work. | v. 低估…的价值
+undesirable | The side effects are undesirable. | adj. 不良的，不受欢迎的
+unemployment | Youth unemployment remains stubbornly high. | n. 失业
+unfounded | The rumours proved unfounded. | adj. 毫无根据的
+unilateral | The decision was unilateral. | adj. 单方面的
+unravel | The agreement began to unravel. | v. 瓦解；解开
+unrest | Food shortages led to unrest. | n. 动荡，骚乱
+unsustainable | The debt level is unsustainable. | adj. 不可持续的
+untapped | The region has untapped potential. | adj. 未开发的
+upgrade | The lab was upgraded last year. | v./n. 升级
+uphold | The court upheld the original decision. | v. 维持，支持
+upkeep | The upkeep of the building is expensive. | n. 维护费用
+upsurge | There was an upsurge in applications. | n. 激增
+urbanization | Rapid urbanization strained the water supply. | n. 城市化
+utilitarian | The building is utilitarian in design. | adj. 实用的；功利主义的
+vacancy | The vacancy attracted ninety applicants. | n. 空缺
+validate | Further trials validated the method. | v. 证实，验证
+variance | There is wide variance between regions. | n. 差异
+verdict | The verdict surprised observers. | n. 裁决，结论
+vested | Landowners have a vested interest in the outcome. | adj. 既得的
+veto | The mayor vetoed the proposal. | v./n. 否决
+vibrant | The district has a vibrant street market. | adj. 充满活力的
+vocational | Vocational training suits many school leavers. | adj. 职业的
+void | The contract was declared void. | adj. 无效的 n. 空虚
+watchdog | A new watchdog oversees the industry. | n. 监督机构
+waver | Support for the plan never wavered. | v. 动摇
+wellbeing | The policy aims to improve student wellbeing. | n. 健康，福祉
+whereby | They set up a scheme whereby costs are shared. | adv. 凭此，借以
+widen | The gap between regions has widened. | v. 扩大
+willingness | Success depends on a willingness to adapt. | n. 意愿
+workforce | A third of the workforce is part-time. | n. 劳动力
+workload | Teachers complain of an excessive workload. | n. 工作量
+yardstick | Exam results are a crude yardstick. | n. 衡量标准
+zoning | Zoning rules limit new building. | n. 分区规划

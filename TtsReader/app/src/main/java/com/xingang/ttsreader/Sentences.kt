@@ -62,16 +62,21 @@ data class Sentence(
     }
 }
 
-/** `n.` / `adj.` / `n./v.` and friends at the start of a sense; shown on screen, not worth speaking. */
+/** `n.` / `adj.` / `n./v.` and friends; shown on screen, not worth speaking. */
 private val PART_OF_SPEECH = Regex(
-    "^\\s*(?:(?:n|v|vt|vi|adj|adv|prep|conj|pron|num|int|interj|art|aux|abbr|pl)\\.\\s*/?\\s*)+",
+    "(?:\\b(?:n|v|vt|vi|adj|adv|prep|conj|pron|num|int|interj|art|aux|abbr|pl)\\.\\s*/?\\s*)+",
     RegexOption.IGNORE_CASE,
 )
 
-/** Drops the part-of-speech tag from every sense so TTS reads only the meanings. */
+/**
+ * Drops every part-of-speech tag so TTS reads only the meanings. A tag also
+ * sits between senses that are written without a separator ("adj. 每年的 n. 年刊");
+ * those become separate senses so they are not run together when spoken.
+ */
 internal fun stripPartsOfSpeech(meaning: String): String =
-    meaning.split('；', ';')
-        .map { PART_OF_SPEECH.replace(it.trim(), "").trim() }
+    PART_OF_SPEECH.replace(meaning) { if (it.range.first == 0) "" else "；" }
+        .split('；', ';')
+        .map { it.trim() }
         .filter { it.isNotEmpty() }
         .joinToString("；")
 

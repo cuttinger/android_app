@@ -43,10 +43,15 @@ class Library(context: Context) {
             Passage(bucket.id, "${titleOf(bucket)} ${lines.size} 条", lines.joinToString("\n"), now)
         }
         val removed = moved.groupBy({ it.corpusId }, { it.key })
-        val corpora = builtins(app)
+        val all = builtins(app)
+        // 生词本 is the one the user curates by hand, so it keeps any entry the
+        // other corpora also happen to carry; they lose their copy.
+        val vocabKeys = all.firstOrNull { it.id == VOCAB_ID }?.let { keysOf(it.body) }.orEmpty()
+        val corpora = all
             .filterNot { it.id in hidden }
             .map { p ->
-                val gone = removed[p.id]?.toSet().orEmpty()
+                val gone = removed[p.id]?.toSet().orEmpty() +
+                    if (p.id == VOCAB_ID) emptySet() else vocabKeys
                 if (gone.isEmpty()) p else p.copy(body = filterOut(p.body, gone)).withCount(titleOf(p.id))
             }
         return userPassages().sortedByDescending { it.updatedAt } +
@@ -147,13 +152,18 @@ class Library(context: Context) {
         }
     }
 
+    /** The entry key a body line carries: its lead word, or the line itself. */
+    private fun keyOf(line: String): String {
+        val lead = line.split(Sentences.NOTE_SEPARATOR).getOrNull(2)?.trim()
+        return (lead ?: line.substringBefore(Sentences.NOTE_SEPARATOR).trim()).lowercase()
+    }
+
+    private fun keysOf(body: String): Set<String> =
+        body.lineSequence().filter { it.isNotBlank() }.map { keyOf(it) }.toSet()
+
     /** Drop every line whose entry key is in [keys]. */
     private fun filterOut(body: String, keys: Set<String>): String =
-        body.lineSequence().filter { ln ->
-            val lead = ln.split(Sentences.NOTE_SEPARATOR).getOrNull(2)?.trim()
-            val key = (lead ?: ln.substringBefore(Sentences.NOTE_SEPARATOR).trim()).lowercase()
-            key !in keys
-        }.joinToString("\n")
+        body.lineSequence().filter { keyOf(it) !in keys }.joinToString("\n")
 
     private fun Passage.withCount(base: String) =
         copy(title = "$base ${body.lineSequence().count { it.isNotBlank() }} 条")
@@ -210,6 +220,7 @@ class Library(context: Context) {
     companion object {
         /** Every bundled corpus id starts with this. */
         const val BUILTIN_PREFIX = "builtin-"
+        const val VOCAB_ID = "builtin-vocab"
         const val KNOWN_ID = "builtin-known"
         const val UNKNOWN_ID = "builtin-unknown"
 
@@ -222,6 +233,7 @@ class Library(context: Context) {
             Triple("cet6.txt", "builtin-cet6", "六级核心词汇"),
             Triple("toefl.txt", "builtin-toefl", "托福核心词汇"),
             Triple("gre.txt", "builtin-gre", "GRE 核心词汇"),
+            Triple("ielts.txt", "builtin-ielts", "雅思核心词汇"),
         )
 
         /** Ids used by earlier builds -> the stable id now in use. */
