@@ -3,8 +3,6 @@ package com.xingang.recentapps
 import android.content.Intent
 import android.os.Bundle
 import android.provider.Settings
-import android.transition.AutoTransition
-import android.transition.TransitionManager
 import android.view.View
 import android.view.ViewGroup
 import android.view.inputmethod.InputMethodManager
@@ -16,32 +14,31 @@ import android.widget.Toast
 import androidx.activity.OnBackPressedCallback
 import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
+import androidx.core.view.ViewCompat
+import androidx.core.view.WindowInsetsCompat
 import androidx.core.widget.doAfterTextChanged
 import androidx.lifecycle.lifecycleScope
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.ItemTouchHelper
 import androidx.recyclerview.widget.RecyclerView
 import androidx.swiperefreshlayout.widget.SwipeRefreshLayout
+import com.google.android.material.appbar.AppBarLayout
 import androidx.viewpager2.widget.ViewPager2
 import kotlinx.coroutines.launch
 
 /**
- * Two pages: everything launchable in most-recent order, and the apps the
- * user pinned, in the order they arranged them.
+ * Three pages: quick settings, everything launchable in most-recent order,
+ * and the apps the user pinned, in the order they arranged them.
  */
 class MainActivity : AppCompatActivity() {
 
     private lateinit var repo: UsageRepository
     private lateinit var favorites: Favorites
     private lateinit var icons: IconLoader
-    private lateinit var adapter: AppListAdapter
     private lateinit var favoritesAdapter: FavoritesAdapter
     private lateinit var pager: ViewPager2
     private lateinit var permissionPanel: View
     private lateinit var root: ViewGroup
-    private lateinit var searchBar: View
-    private lateinit var searchBox: EditText
-    private lateinit var clearButton: ImageButton
     private lateinit var dots: View
     private lateinit var dotQuick: View
     private lateinit var dotRecent: View
@@ -50,6 +47,10 @@ class MainActivity : AppCompatActivity() {
     private lateinit var quickAdapter: QuickSettingsAdapter
 
     // Set once the pager binds each page.
+    private var adapter: AppListAdapter? = null
+    private var searchBox: EditText? = null
+    private var clearButton: ImageButton? = null
+    private var appBar: AppBarLayout? = null
     private var swipe: SwipeRefreshLayout? = null
     private var list: RecyclerView? = null
     private var emptyView: TextView? = null
@@ -61,15 +62,6 @@ class MainActivity : AppCompatActivity() {
     /** Unfiltered list, most recent first. */
     private var allApps: List<AppUsage> = emptyList()
 
-    /** The search box starts out of the way and follows the scroll direction. */
-    private var searchBarVisible = false
-
-    /**
-     * Submitting a list scrolls it to the top, which looks exactly like the
-     * user scrolling there. Wait for a real drag before reading anything into
-     * the scroll position, so the box stays hidden on a fresh start.
-     */
-    private var userHasScrolled = false
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -78,17 +70,12 @@ class MainActivity : AppCompatActivity() {
         repo = UsageRepository(this)
         favorites = Favorites(this)
         quick = QuickSettings(this)
+        icons = IconLoader(packageManager, lifecycleScope)
         quickAdapter = QuickSettingsAdapter(quick) { tile ->
             quick.trigger(this, tile)
             // The two stateful tiles change under the tap; redraw so they show it.
             quickList?.post { quickAdapter.notifyDataSetChanged() }
         }
-        icons = IconLoader(packageManager, lifecycleScope)
-        adapter = AppListAdapter(
-            icons = icons,
-            onClick = { launch(it) },
-            onLongClick = { pin(it) },
-        )
         favoritesAdapter = FavoritesAdapter(
             icons = icons,
             onClick = { launch(it) },
@@ -102,11 +89,15 @@ class MainActivity : AppCompatActivity() {
         )
 
         root = findViewById(R.id.root)
+        // From Android 15 an app targeting 35+ is drawn edge to edge, so the
+        // status and gesture bars no longer reserve space for us.
+        ViewCompat.setOnApplyWindowInsetsListener(root) { view, insets ->
+            val bars = insets.getInsets(WindowInsetsCompat.Type.systemBars())
+            view.setPadding(bars.left, bars.top, bars.right, bars.bottom)
+            insets
+        }
         pager = findViewById(R.id.pager)
         permissionPanel = findViewById(R.id.permissionPanel)
-        searchBar = findViewById(R.id.searchBar)
-        searchBox = findViewById(R.id.searchBox)
-        clearButton = findViewById(R.id.clearButton)
         dots = findViewById(R.id.dots)
         dotQuick = findViewById(R.id.dotQuick)
         dotRecent = findViewById(R.id.dotRecent)
@@ -118,23 +109,13 @@ class MainActivity : AppCompatActivity() {
         pager.setCurrentItem(PagesAdapter.PAGE_RECENT, false)
         pager.registerOnPageChangeCallback(object : ViewPager2.OnPageChangeCallback() {
             override fun onPageSelected(position: Int) {
-                // The box filters the recent page, so it has no business on the other one.
-                if (position != PagesAdapter.PAGE_RECENT) setSearchBarVisible(false)
+                if (position != PagesAdapter.PAGE_RECENT) hideKeyboard()
                 if (position != PagesAdapter.PAGE_FAVORITES) setEditing(false)
                 if (position == PagesAdapter.PAGE_QUICK) quickAdapter.notifyDataSetChanged()
                 updateDots(position)
             }
         })
         updateDots(PagesAdapter.PAGE_RECENT)
-
-        searchBox.doAfterTextChanged { text ->
-            clearButton.visibility = if (text.isNullOrEmpty()) View.GONE else View.VISIBLE
-            applyFilter()
-        }
-        clearButton.setOnClickListener {
-            searchBox.text.clear()
-            searchBox.requestFocus()
-        }
 
         findViewById<Button>(R.id.grantButton).setOnClickListener {
             startActivity(Intent(Settings.ACTION_USAGE_ACCESS_SETTINGS))
@@ -156,53 +137,69 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun bindPage(position: Int, page: View) {
-        if (position == PagesAdapter.PAGE_QUICK) {
-            if (quickList != null) return
-            quickList = page.findViewById(R.id.quickList)
-            quickList?.layoutManager = GridLayoutManager(this, COLUMNS)
-            quickList?.adapter = quickAdapter
-            return
-        }
-        if (position == PagesAdapter.PAGE_RECENT) {
-            if (list != null) return
-            swipe = page.findViewById(R.id.swipe)
-            list = page.findViewById(R.id.list)
-            emptyView = page.findViewById(R.id.emptyView)
-            val rv = list ?: return
-            rv.layoutManager = GridLayoutManager(this, COLUMNS)
-            rv.adapter = adapter
-            swipe?.setOnRefreshListener { refresh() }
-            rv.addOnScrollListener(object : RecyclerView.OnScrollListener() {
-                // Hide the keyboard while the user scrolls the results.
-                override fun onScrollStateChanged(rv: RecyclerView, newState: Int) {
-                    if (newState == RecyclerView.SCROLL_STATE_DRAGGING) {
-                        userHasScrolled = true
-                        hideKeyboard()
-                    }
-                }
+        when (position) {
+            PagesAdapter.PAGE_QUICK -> {
+                if (quickList != null) return
+                quickList = page.findViewById(R.id.quickList)
+                quickList?.layoutManager = GridLayoutManager(this, COLUMNS)
+                quickList?.adapter = quickAdapter
+            }
 
-                // Scrolling back towards the top brings the search box out;
-                // scrolling on down puts it away again.
-                override fun onScrolled(rv: RecyclerView, dx: Int, dy: Int) {
-                    if (!userHasScrolled) return
-                    when {
-                        !rv.canScrollVertically(-1) -> setSearchBarVisible(true)
-                        dy > SCROLL_SLOP -> setSearchBarVisible(false)
-                        dy < -SCROLL_SLOP -> setSearchBarVisible(true)
+            PagesAdapter.PAGE_RECENT -> {
+                if (list != null) return
+                appBar = page.findViewById(R.id.appBar)
+                swipe = page.findViewById(R.id.swipe)
+                list = page.findViewById(R.id.list)
+                emptyView = page.findViewById(R.id.emptyView)
+                val rv = list ?: return
+                bindSearchRow(page)
+                rv.layoutManager = GridLayoutManager(this, COLUMNS)
+                rv.adapter = adapter
+                // Start with the box tucked away, so the first thing on screen
+                // is apps. It comes back as soon as the grid is scrolled up.
+                appBar?.setExpanded(false, false)
+                swipe?.setOnRefreshListener { refresh() }
+                // Hide the keyboard while the user scrolls the results.
+                rv.addOnScrollListener(object : RecyclerView.OnScrollListener() {
+                    override fun onScrollStateChanged(rv: RecyclerView, newState: Int) {
+                        if (newState == RecyclerView.SCROLL_STATE_DRAGGING) hideKeyboard()
                     }
-                }
-            })
-            applyFilter()
-        } else {
-            if (favoritesList != null) return
-            favoritesList = page.findViewById(R.id.favoritesList)
-            favoritesHint = page.findViewById(R.id.favoritesHint)
-            val rv = favoritesList ?: return
-            rv.layoutManager = GridLayoutManager(this, COLUMNS)
-            rv.adapter = favoritesAdapter
-            dragHelper = ItemTouchHelper(dragCallback).also { it.attachToRecyclerView(rv) }
-            renderFavorites()
+                })
+                applyFilter()
+            }
+
+            else -> {
+                if (favoritesList != null) return
+                favoritesList = page.findViewById(R.id.favoritesList)
+                favoritesHint = page.findViewById(R.id.favoritesHint)
+                val rv = favoritesList ?: return
+                rv.layoutManager = GridLayoutManager(this, COLUMNS)
+                rv.adapter = favoritesAdapter
+                dragHelper = ItemTouchHelper(dragCallback).also { it.attachToRecyclerView(rv) }
+                renderFavorites()
+            }
         }
+    }
+
+    /** Wire the search box that lives in the page's app bar. */
+    private fun bindSearchRow(page: View) {
+        val box = page.findViewById<EditText>(R.id.searchBox)
+        val clear = page.findViewById<ImageButton>(R.id.clearButton)
+        searchBox = box
+        clearButton = clear
+        box.doAfterTextChanged { text ->
+            clear.visibility = if (text.isNullOrEmpty()) View.GONE else View.VISIBLE
+            applyFilter()
+        }
+        clear.setOnClickListener {
+            box.text.clear()
+            box.requestFocus()
+        }
+        adapter = AppListAdapter(
+            icons = icons,
+            onClick = { launch(it) },
+            onLongClick = { pin(it) },
+        )
     }
 
     override fun onResume() {
@@ -231,7 +228,6 @@ class MainActivity : AppCompatActivity() {
         permissionPanel.visibility = if (granted) View.GONE else View.VISIBLE
         pager.visibility = if (granted) View.VISIBLE else View.GONE
         dots.visibility = if (granted) View.VISIBLE else View.GONE
-        searchBar.visibility = if (granted && searchBarVisible) View.VISIBLE else View.GONE
         if (!granted) {
             swipe?.isRefreshing = false
             return
@@ -245,13 +241,16 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-    /** Filter [allApps] by the current query and update the grid and empty state. */
+    /**
+     * Filter [allApps] by the current query and update the grid and empty state.
+     * With nothing typed the grid opens scrolled past the search row, so the
+     * first thing on screen is apps; while typing the row stays in view.
+     */
     private fun applyFilter() {
-        val query = SearchIndex.normalize(searchBox.text)
+        val query = SearchIndex.normalize(searchBox?.text ?: "")
         val shown = if (query.isEmpty()) allApps else allApps.filter { it.matches(query) }
-        adapter.submitList(shown) {
-            if (shown.isNotEmpty()) list?.scrollToPosition(0)
-        }
+        adapter?.submit(shown)
+        list?.scrollToPosition(0)
         emptyView?.visibility =
             if (shown.isEmpty() && allApps.isNotEmpty()) View.VISIBLE else View.GONE
     }
@@ -346,28 +345,14 @@ class MainActivity : AppCompatActivity() {
         dotFavorites.alpha = if (position == PagesAdapter.PAGE_FAVORITES) 1f else 0.3f
     }
 
-    /**
-     * Show or hide the search box. A box with something typed in it stays put,
-     * so the query never disappears while the user is still reading the result.
-     */
-    private fun setSearchBarVisible(visible: Boolean) {
-        if (!visible && searchBox.text.isNotEmpty()) return
-        if (searchBarVisible == visible) return
-        searchBarVisible = visible
-        TransitionManager.beginDelayedTransition(root, AutoTransition().setDuration(150))
-        searchBar.visibility = if (visible) View.VISIBLE else View.GONE
-        if (!visible) hideKeyboard()
-    }
-
     private fun hideKeyboard() {
+        val box = searchBox ?: return
         val imm = getSystemService(INPUT_METHOD_SERVICE) as InputMethodManager
-        imm.hideSoftInputFromWindow(searchBox.windowToken, 0)
-        searchBox.clearFocus()
+        imm.hideSoftInputFromWindow(box.windowToken, 0)
+        box.clearFocus()
     }
 
     companion object {
         private const val COLUMNS = 4
-        /** Ignore the few pixels of drift that a tap produces. */
-        private const val SCROLL_SLOP = 6
     }
 }

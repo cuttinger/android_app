@@ -8,7 +8,6 @@ import android.content.Intent
 import android.hardware.camera2.CameraCharacteristics
 import android.hardware.camera2.CameraManager
 import android.net.Uri
-import android.os.Build
 import android.provider.MediaStore
 import android.provider.Settings
 import android.widget.Toast
@@ -36,11 +35,10 @@ data class QuickTile(
  * The quick-settings page.
  *
  * Only a little of this can actually be changed from an ordinary app: rotation
- * needs the "modify system settings" grant, the torch is open to anyone, and
- * a screenshot needs an accessibility service. Radios — hotspot, Wi-Fi,
- * Bluetooth, airplane mode — have been closed to third-party apps since
- * Android 8, so those tiles open the system screen instead of pretending to
- * flip a switch.
+ * needs the "modify system settings" grant and the torch is open to anyone.
+ * Radios — hotspot, Wi-Fi, Bluetooth, airplane mode — have been closed to
+ * third-party apps since Android 8, so those tiles open the system screen
+ * instead of pretending to flip a switch.
  */
 class QuickSettings(private val context: Context) {
 
@@ -72,7 +70,6 @@ class QuickSettings(private val context: Context) {
         when (tile.id) {
             ID_ROTATE -> toggleRotation(activity)
             ID_TORCH -> toggleTorch(activity)
-            ID_SCREENSHOT -> takeScreenshot(activity)
             ID_QR -> scanQr(activity)
             else -> SHORTCUT_INTENTS[tile.id]?.let { open(activity, it()) }
         }
@@ -111,17 +108,6 @@ class QuickSettings(private val context: Context) {
 
     // ---- the ones that need help -------------------------------------------
 
-    private fun takeScreenshot(activity: Activity) {
-        if (Build.VERSION.SDK_INT < Build.VERSION_CODES.R) {
-            toast(R.string.screenshot_unsupported)
-            return
-        }
-        if (!ScreenshotService.take()) {
-            toast(R.string.screenshot_needs_service)
-            open(activity, Intent(Settings.ACTION_ACCESSIBILITY_SETTINGS))
-        }
-    }
-
     /** No scanner of our own: hand it to whichever app on the phone has one. */
     private fun scanQr(activity: Activity) {
         val candidates = listOf(
@@ -154,7 +140,6 @@ class QuickSettings(private val context: Context) {
     companion object {
         const val ID_ROTATE = "rotate"
         const val ID_TORCH = "torch"
-        const val ID_SCREENSHOT = "screenshot"
         const val ID_QR = "qr"
 
         private val SHORTCUT_INTENTS: Map<String, () -> Intent> = mapOf(
@@ -173,7 +158,6 @@ class QuickSettings(private val context: Context) {
         private val TILES = listOf(
             QuickTile(ID_ROTATE, R.string.qs_rotate, R.drawable.qs_rotate, QuickKind.TOGGLE),
             QuickTile(ID_TORCH, R.string.qs_torch, R.drawable.qs_torch, QuickKind.TOGGLE),
-            QuickTile(ID_SCREENSHOT, R.string.qs_screenshot, R.drawable.qs_screenshot, QuickKind.ACTION),
             QuickTile(ID_QR, R.string.qs_qr, R.drawable.qs_qr, QuickKind.ACTION),
             QuickTile("hotspot", R.string.qs_hotspot, R.drawable.qs_hotspot, QuickKind.SHORTCUT),
             QuickTile("wifi", R.string.qs_wifi, R.drawable.qs_wifi, QuickKind.SHORTCUT),
