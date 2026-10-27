@@ -326,14 +326,23 @@ object ReaderEngine {
             mode = TextToSpeech.QUEUE_ADD
             last = id
         }
-        // Only the last part signals that the entry is finished.
+        // A silence queued behind the entry spaces it from the next one. It is
+        // part of the engine queue, so stopping clears it like any utterance,
+        // and being last it is what signals that the entry is finished.
+        val gapId = "${s.passageId}#${s.index}.gap@$seq"
+        if (engine.playSilentUtterance(ENTRY_GAP_MS, TextToSpeech.QUEUE_ADD, gapId)
+            == TextToSpeech.SUCCESS
+        ) {
+            last = gapId
+        }
         speakingId = last
         // Watchdog: some audio paths swallow an utterance without any callback
         // (seen on the Automotive emulator right after start-up). Re-issue it.
         val units = parts.sumOf { p ->
             if (p.locale.language == "zh") p.text.length else p.text.split(' ').size
         }
-        val budget = (units * 700L / s.rate).toLong().coerceAtLeast(8_000L) + 4_000L
+        val budget = (units * 700L / s.rate).toLong().coerceAtLeast(8_000L) +
+            4_000L + ENTRY_GAP_MS
         main.postDelayed({
             if (speakingId == last && _state.value.playing) {
                 Log.w(TAG, "entry $last timed out after $budget ms; retrying")
@@ -403,6 +412,18 @@ object ReaderEngine {
         library.find(id)?.let { load(it, startIndex = s.index, autoPlay = s.playing) }
     }
 
+    /**
+     * The passage after [id] in the library order, wrapping round to the first.
+     * Empty ones are skipped, so a collection nobody has filed anything into
+     * does not silently end the run.
+     */
+    private fun nextPassage(id: String?): Passage? {
+        val all = library.passages().filter { it.body.isNotBlank() }
+        if (all.isEmpty()) return null
+        val here = all.indexOfFirst { it.id == id }
+        return all[if (here < 0) 0 else (here + 1) % all.size]
+    }
+
     private fun stopSpeaking() {
         speakingId = null
         main.removeCallbacksAndMessages(speakToken)
@@ -431,12 +452,19 @@ object ReaderEngine {
                     _state.value = s.copy(index = next)
                     speakCurrent()
                 } else {
-                    // Reached the end: stop and rewind so the next play starts over.
+                    // Reached the end. Rewind this one so it starts over when
+                    // it comes round again, then carry straight on with the next
+                    // passage rather than falling silent.
                     val first = order.firstOrNull() ?: 0
-                    _state.value = s.copy(playing = false, index = first)
                     s.passageId?.let { library.savePosition(it, first) }
-                    abandonFocus()
-                    ReaderService.stopForegroundIfIdle(appContext)
+                    val next = nextPassage(s.passageId)
+                    if (next != null) {
+                        load(next)
+                    } else {
+                        _state.value = s.copy(playing = false, index = first)
+                        abandonFocus()
+                        ReaderService.stopForegroundIfIdle(appContext)
+                    }
                 }
             }
         }
@@ -511,5 +539,7 @@ object ReaderEngine {
 
     private const val TAG = "TtsReader"
     private const val MAX_RETRIES = 2
+    /** Silence between one entry and the next. */
+    private const val ENTRY_GAP_MS = 250L
     private const val MAX_INIT_ATTEMPTS = 3
 }

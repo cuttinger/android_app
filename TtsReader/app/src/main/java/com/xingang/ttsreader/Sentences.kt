@@ -5,16 +5,21 @@ import java.util.Locale
 /** One chunk of speech together with the language it should be spoken in. */
 data class SpokenPart(val text: String, val locale: Locale)
 
-/** What gets read aloud for each entry. */
-enum class SpeakMode(val labelRes: Int) {
+/**
+ * What gets read aloud for each entry. Each mode carries its own icon: a car
+ * player is the one place this is chosen without any text beside it, so the
+ * icon has to say which mode is on. A bar stands for English, a pair of
+ * blocks for the Chinese gloss.
+ */
+enum class SpeakMode(val labelRes: Int, val iconRes: Int) {
     /** 单词 → 中文释义 → 例句 */
-    FULL(R.string.mode_full),
+    FULL(R.string.mode_full, R.drawable.ic_mode_full),
     /** 只读单词或短语 */
-    WORD_ONLY(R.string.mode_word),
+    WORD_ONLY(R.string.mode_word, R.drawable.ic_mode_word),
     /** 单词 → 中文释义 */
-    WORD_THEN_CN(R.string.mode_word_cn),
+    WORD_THEN_CN(R.string.mode_word_cn, R.drawable.ic_mode_word_cn),
     /** 中文释义 → 单词 */
-    CN_THEN_WORD(R.string.mode_cn_word);
+    CN_THEN_WORD(R.string.mode_cn_word, R.drawable.ic_mode_cn_word);
 
     companion object {
         fun of(name: String?): SpeakMode = entries.firstOrNull { it.name == name } ?: FULL

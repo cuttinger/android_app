@@ -105,6 +105,23 @@ class ReaderMediaService : MediaBrowserServiceCompat() {
             ReaderEngine.setShuffle(shuffleMode != PlaybackStateCompat.SHUFFLE_MODE_NONE)
         }
 
+        /**
+         * One button cycles the reading order, because a car screen has no
+         * room for four and no safe way to present a menu while moving.
+         */
+        override fun onCustomAction(action: String?, extras: Bundle?) {
+            when (action) {
+                ACTION_SPEAK_MODE -> {
+                    val modes = SpeakMode.entries
+                    val now = ReaderEngine.state.value.speakMode
+                    ReaderEngine.setSpeakMode(modes[(modes.indexOf(now) + 1) % modes.size])
+                }
+                // Head units do not all draw the standard shuffle control, so
+                // the same toggle is offered as a button of our own.
+                ACTION_SHUFFLE -> ReaderEngine.toggleShuffle()
+            }
+        }
+
         override fun onPlayFromMediaId(mediaId: String?, extras: Bundle?) {
             when {
                 mediaId == null -> onPlay()
@@ -178,6 +195,22 @@ class ReaderMediaService : MediaBrowserServiceCompat() {
                         PlaybackStateCompat.ACTION_SKIP_TO_QUEUE_ITEM or PlaybackStateCompat.ACTION_PLAY_FROM_MEDIA_ID or
                         PlaybackStateCompat.ACTION_PLAY_FROM_SEARCH or PlaybackStateCompat.ACTION_SET_SHUFFLE_MODE
                 )
+                // The label carries the current mode, so the driver can see
+                // what tapping it has done without leaving the player.
+                .addCustomAction(
+                    PlaybackStateCompat.CustomAction.Builder(
+                        ACTION_SHUFFLE,
+                        getString(if (s.shuffle) R.string.order_shuffle else R.string.order_sequential),
+                        if (s.shuffle) R.drawable.ic_shuffle else R.drawable.ic_order_sequential,
+                    ).build()
+                )
+                .addCustomAction(
+                    PlaybackStateCompat.CustomAction.Builder(
+                        ACTION_SPEAK_MODE,
+                        getString(R.string.car_speak_mode, getString(s.speakMode.labelRes)),
+                        s.speakMode.iconRes,
+                    ).build()
+                )
                 .apply { s.error?.let { setErrorMessage(PlaybackStateCompat.ERROR_CODE_APP_ERROR, it) } }
                 .build()
         )
@@ -204,6 +237,12 @@ class ReaderMediaService : MediaBrowserServiceCompat() {
         const val ROOT = "root"
         const val PASSAGE_PREFIX = "passage:"
         const val SENTENCE_PREFIX = "sentence:"
+
+        /** Cycles the reading order from the car player. */
+        const val ACTION_SPEAK_MODE = "com.xingang.ttsreader.SPEAK_MODE"
+
+        /** Toggles sequential / random order from the car player. */
+        const val ACTION_SHUFFLE = "com.xingang.ttsreader.SHUFFLE"
 
         /** Session token for the foreground notification's MediaStyle. */
         @Volatile var token: MediaSessionCompat.Token? = null

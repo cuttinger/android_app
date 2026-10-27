@@ -50,4 +50,5 @@
     <string name="unknown">未掌握</string>
     <string name="filed_to">已移入%1$s：%2$s</string>
     <string name="undo">撤销</string>
+    <string name="car_speak_mode">朗读方式：%1$s</string>
 </resources>
