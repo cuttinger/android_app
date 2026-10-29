@@ -42,16 +42,17 @@ class Library(context: Context) {
             val lines = moved.filter { it.bucket == bucket }.map { it.line }
             Passage(bucket.id, "${titleOf(bucket)} ${lines.size} 条", lines.joinToString("\n"), now)
         }
-        val removed = moved.groupBy({ it.corpusId }, { it.key })
+        // Anything filed into 已掌握 or 未掌握 has been sorted by hand, so it
+        // leaves every other list — not just the one it was swiped out of.
+        val filed = moved.map { it.key }.toSet()
         val all = builtins(app)
-        // 生词本 is the one the user curates by hand, so it keeps any entry the
-        // other corpora also happen to carry; they lose their copy.
+        // 生词本 is likewise curated by hand, so it keeps any entry the other
+        // corpora also happen to carry; they lose their copy.
         val vocabKeys = all.firstOrNull { it.id == VOCAB_ID }?.let { keysOf(it.body) }.orEmpty()
         val corpora = all
             .filterNot { it.id in hidden }
             .map { p ->
-                val gone = removed[p.id]?.toSet().orEmpty() +
-                    if (p.id == VOCAB_ID) emptySet() else vocabKeys
+                val gone = filed + if (p.id == VOCAB_ID) emptySet() else vocabKeys
                 if (gone.isEmpty()) p else p.copy(body = filterOut(p.body, gone)).withCount(titleOf(p.id))
             }
         return userPassages().sortedByDescending { it.updatedAt } +

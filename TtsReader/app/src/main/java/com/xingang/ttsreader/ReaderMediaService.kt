@@ -119,6 +119,14 @@ class ReaderMediaService : MediaBrowserServiceCompat() {
                 // Head units do not all draw the standard shuffle control, so
                 // the same toggle is offered as a button of our own.
                 ACTION_SHUFFLE -> ReaderEngine.toggleShuffle()
+                // Stepping by 0.1 as the phone does would take too many taps at
+                // the wheel, so this moves between a few presets and wraps.
+                ACTION_RATE -> {
+                    val now = ReaderEngine.state.value.rate
+                    ReaderEngine.setRate(
+                        RATE_PRESETS.firstOrNull { it > now + 0.01f } ?: RATE_PRESETS.first()
+                    )
+                }
             }
         }
 
@@ -199,6 +207,13 @@ class ReaderMediaService : MediaBrowserServiceCompat() {
                 // what tapping it has done without leaving the player.
                 .addCustomAction(
                     PlaybackStateCompat.CustomAction.Builder(
+                        ACTION_RATE,
+                        getString(R.string.car_rate, s.rate),
+                        RATE_ICONS[rateStep(s.rate)],
+                    ).build()
+                )
+                .addCustomAction(
+                    PlaybackStateCompat.CustomAction.Builder(
                         ACTION_SHUFFLE,
                         getString(if (s.shuffle) R.string.order_shuffle else R.string.order_sequential),
                         if (s.shuffle) R.drawable.ic_shuffle else R.drawable.ic_order_sequential,
@@ -243,6 +258,22 @@ class ReaderMediaService : MediaBrowserServiceCompat() {
 
         /** Toggles sequential / random order from the car player. */
         const val ACTION_SHUFFLE = "com.xingang.ttsreader.SHUFFLE"
+
+        /** Steps the speaking rate from the car player. */
+        const val ACTION_RATE = "com.xingang.ttsreader.RATE"
+
+        /** The rates the car button steps between, slowest first. */
+        private val RATE_PRESETS = listOf(0.8f, 1.0f, 1.25f, 1.5f)
+
+        /** One icon per preset: more arrowheads, faster. */
+        private val RATE_ICONS = listOf(
+            R.drawable.ic_speed_1, R.drawable.ic_speed_2,
+            R.drawable.ic_speed_3, R.drawable.ic_speed_4,
+        )
+
+        /** Which preset [rate] is nearest, so an odd value set on the phone still shows. */
+        private fun rateStep(rate: Float): Int =
+            RATE_PRESETS.indices.minByOrNull { kotlin.math.abs(RATE_PRESETS[it] - rate) } ?: 1
 
         /** Session token for the foreground notification's MediaStyle. */
         @Volatile var token: MediaSessionCompat.Token? = null

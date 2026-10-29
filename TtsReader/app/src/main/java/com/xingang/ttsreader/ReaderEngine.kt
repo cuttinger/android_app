@@ -412,18 +412,6 @@ object ReaderEngine {
         library.find(id)?.let { load(it, startIndex = s.index, autoPlay = s.playing) }
     }
 
-    /**
-     * The passage after [id] in the library order, wrapping round to the first.
-     * Empty ones are skipped, so a collection nobody has filed anything into
-     * does not silently end the run.
-     */
-    private fun nextPassage(id: String?): Passage? {
-        val all = library.passages().filter { it.body.isNotBlank() }
-        if (all.isEmpty()) return null
-        val here = all.indexOfFirst { it.id == id }
-        return all[if (here < 0) 0 else (here + 1) % all.size]
-    }
-
     private fun stopSpeaking() {
         speakingId = null
         main.removeCallbacksAndMessages(speakToken)
@@ -452,19 +440,18 @@ object ReaderEngine {
                     _state.value = s.copy(index = next)
                     speakCurrent()
                 } else {
-                    // Reached the end. Rewind this one so it starts over when
-                    // it comes round again, then carry straight on with the next
-                    // passage rather than falling silent.
-                    val first = order.firstOrNull() ?: 0
-                    s.passageId?.let { library.savePosition(it, first) }
-                    val next = nextPassage(s.passageId)
-                    if (next != null) {
-                        load(next)
+                    // Reached the end: play this passage again from the top
+                    // rather than falling silent or moving on. A random run is
+                    // reshuffled, so the second pass is not the same sequence.
+                    order = if (s.shuffle) {
+                        s.sentences.indices.shuffled()
                     } else {
-                        _state.value = s.copy(playing = false, index = first)
-                        abandonFocus()
-                        ReaderService.stopForegroundIfIdle(appContext)
+                        s.sentences.indices.toList()
                     }
+                    val start = order.firstOrNull() ?: 0
+                    _state.value = s.copy(index = start)
+                    s.passageId?.let { library.savePosition(it, start) }
+                    speakCurrent()
                 }
             }
         }
