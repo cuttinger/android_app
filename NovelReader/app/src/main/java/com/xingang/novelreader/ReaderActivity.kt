@@ -181,8 +181,15 @@ class ReaderActivity : AppCompatActivity() {
             }
         })
 
-        val url = intent.getStringExtra(EXTRA_URL) ?: run { finish(); return }
-        bookKey = intent.getStringExtra(EXTRA_BOOK_KEY)
+        // The intent carries where reading started, which goes stale as soon as
+        // the first chapter is turned. When the system has killed us and is
+        // putting the task back, the instance state holds the page actually on
+        // screen at the time, so it wins.
+        val url = savedInstanceState?.getString(STATE_URL)
+            ?: intent.getStringExtra(EXTRA_URL)
+            ?: run { finish(); return }
+        bookKey = savedInstanceState?.getString(STATE_BOOK_KEY)
+            ?: intent.getStringExtra(EXTRA_BOOK_KEY)
         library.find(bookKey ?: "")?.let {
             bookTitle = it.title
             catalogUrl = it.catalogUrl
@@ -193,6 +200,12 @@ class ReaderActivity : AppCompatActivity() {
     override fun onPause() {
         super.onPause()
         savePosition()
+    }
+
+    override fun onSaveInstanceState(outState: Bundle) {
+        super.onSaveInstanceState(outState)
+        current?.url?.let { outState.putString(STATE_URL, it) }
+        bookKey?.let { outState.putString(STATE_BOOK_KEY, it) }
     }
 
     // ---- loading ---------------------------------------------------------
@@ -598,6 +611,9 @@ class ReaderActivity : AppCompatActivity() {
 
     companion object {
         private const val TAG = "NovelReader"
+        private const val STATE_URL = "state.url"
+        private const val STATE_BOOK_KEY = "state.bookKey"
+
         /** Previous chapter + up to this many of its 下一页 pages are prefetched. */
         private const val PREV_CHAIN_HOPS = 4
         /** Height of the gap between paragraphs, as a fraction of one text line. */
